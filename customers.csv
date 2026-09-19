@@ -1,0 +1,3001 @@
+customer_id,customer_name,age,income,employment_type,credit_score,state
+10001,Elizabeth Brown,42,77857.65,Salaried,664,Arizona
+10002,James White,27,38871.22,Business Owner,689,North Carolina
+10003,Daniel Taylor,29,61365.05,Business Owner,663,California
+10004,Robert Wilson,44,65493.59,Self-Employed,674,Michigan
+10005,Emily Wilson,45,31044.37,Retired,667,Michigan
+10006,Jennifer Thompson,35,190551.96,Self-Employed,765,Pennsylvania
+10007,Jessica Robinson,26,190184.55,Salaried,747,Washington
+10008,Jessica Brown,34,56714.49,Contractor,648,Illinois
+10009,Elizabeth Harris,54,65711.71,Self-Employed,766,Virginia
+10010,Robert Miller,49,66522.09,Business Owner,772,Michigan
+10011,William Clark,31,58840.54,Business Owner,707,Ohio
+10012,Jessica Robinson,28,110727.44,Contractor,749,Ohio
+10013,Thomas White,65,50392.32,Retired,613,North Carolina
+10014,Kenneth Thompson,63,133087.5,Retired,587,Michigan
+10015,Michael Thomas,47,114881.69,Business Owner,693,California
+10016,Emily Garcia,37,84473.27,Contractor,765,Florida
+10017,Emily Moore,53,217656.97,Salaried,805,North Carolina
+10018,Mark Davis,26,127563.69,Contractor,733,Illinois
+10019,William Miller,36,71242.44,Retired,650,California
+10020,William Jones,33,77344.89,Salaried,602,Illinois
+10021,Elizabeth Thomas,39,148785.83,Salaried,744,Florida
+10022,Robert Moore,39,58557.99,Salaried,691,Texas
+10023,Thomas Harris,67,51263.55,Salaried,739,California
+10024,Jennifer Anderson,41,126194.09,Salaried,711,Virginia
+10025,Mark Moore,48,121463.17,Business Owner,666,New York
+10026,Rachel Wilson,23,59882.89,Salaried,557,Texas
+10027,William Brown,25,214568.63,Salaried,571,Illinois
+10028,Steven Jackson,31,70384.89,Salaried,679,New York
+10029,Charles Moore,41,140860.48,Salaried,624,North Carolina
+10030,Emily Miller,47,107925.33,Salaried,681,Michigan
+10031,Lauren Jones,63,58223.64,Salaried,722,California
+10032,Lauren Martinez,35,81392.06,Salaried,742,Washington
+10033,Lauren Thompson,50,30000,Salaried,578,Arizona
+10034,Paul White,39,138404.98,Salaried,679,Florida
+10035,Richard Davis,45,89146.37,Self-Employed,709,New Jersey
+10036,Mark Robinson,53,136768.62,Business Owner,834,New Jersey
+10037,Amanda Jackson,62,57715.56,Salaried,674,Ohio
+10038,Joshua Moore,56,78801.28,Business Owner,533,New Jersey
+10039,Anthony Robinson,33,44404.21,Self-Employed,585,Ohio
+10040,James Davis,47,60450.47,Self-Employed,803,North Carolina
+10041,Anthony Harris,39,124965.22,Self-Employed,595,New York
+10042,Anthony Davis,41,110886.06,Business Owner,722,Ohio
+10043,Robert Miller,58,164065.34,Salaried,666,New York
+10044,Michael Martin,42,143367.12,Salaried,631,Massachusetts
+10045,Anthony Jones,43,93257.86,Self-Employed,634,New Jersey
+10046,Andrew Taylor,36,30000,Business Owner,764,Michigan
+10047,Steven Jackson,41,172731.04,Salaried,612,Texas
+10048,Kenneth Brown,67,95757.26,Salaried,850,Pennsylvania
+10049,William Martin,38,350000,Self-Employed,587,Arizona
+10050,Rachel Thomas,28,213193.95,Salaried,737,New York
+10051,Mark White,23,117967.94,Retired,735,North Carolina
+10052,John Wilson,59,97294.27,Salaried,658,Ohio
+10053,Daniel Moore,28,75290.4,Business Owner,597,North Carolina
+10054,Ashley Taylor,36,51499.02,Salaried,792,Arizona
+10055,Elizabeth Taylor,26,64222.06,Salaried,703,Florida
+10056,John Harris,61,84500.95,Retired,620,New York
+10057,Amanda Jackson,26,51704.13,Business Owner,770,Florida
+10058,Lauren Moore,65,74877.77,Contractor,631,Michigan
+10059,Amanda Anderson,51,144967.32,Salaried,712,Arizona
+10060,John Thompson,51,53373.74,Contractor,613,Michigan
+10061,Megan Thomas,41,77717.88,Salaried,816,Washington
+10062,Ashley Davis,60,74682.53,Salaried,639,Massachusetts
+10063,Jessica Taylor,29,92055.56,Salaried,850,Michigan
+10064,Charles Johnson,61,54760.84,Business Owner,688,Michigan
+10065,David Robinson,67,69727.7,Salaried,652,Arizona
+10066,Mark Clark,37,30000,Self-Employed,582,Florida
+10067,Daniel Johnson,51,78656.08,Retired,731,Arizona
+10068,Joseph Wilson,27,118699.18,Salaried,725,Illinois
+10069,Jessica Martin,31,118909.28,Self-Employed,750,Michigan
+10070,Ashley Davis,66,146044.03,Salaried,717,Ohio
+10071,Matthew Jackson,46,52366.43,Business Owner,689,North Carolina
+10072,Kenneth Moore,56,98595.32,Salaried,547,Virginia
+10073,David Thompson,47,90493.77,Contractor,679,California
+10074,Paul Clark,62,76096.25,Self-Employed,756,Washington
+10075,Lauren Martinez,36,100471.88,Self-Employed,821,New York
+10076,Lauren White,23,89097.51,Retired,759,Ohio
+10077,Thomas Brown,54,55346.49,Business Owner,741,Pennsylvania
+10078,Michael Robinson,57,189275.77,Salaried,688,Virginia
+10079,Thomas Anderson,60,187062.93,Contractor,668,New Jersey
+10080,John Miller,57,48016.63,Salaried,500,North Carolina
+10081,Rachel Miller,25,113450.87,Self-Employed,763,Michigan
+10082,Michael Harris,56,63463.75,Salaried,746,Florida
+10083,John Taylor,53,127772.19,Salaried,719,Virginia
+10084,Robert Johnson,67,59626.22,Salaried,674,Washington
+10085,Daniel Anderson,40,49462.04,Business Owner,759,Massachusetts
+10086,Elizabeth White,64,109846.4,Retired,721,Georgia
+10087,Lauren Taylor,45,67086.53,Business Owner,653,Virginia
+10088,Andrew White,63,97387.01,Salaried,671,New York
+10089,Mark Jackson,43,70171.16,Self-Employed,696,Ohio
+10090,Joshua Martinez,39,51148.99,Self-Employed,690,Illinois
+10091,Charles Robinson,55,30000,Salaried,555,New York
+10092,David Brown,30,139279.95,Business Owner,713,Georgia
+10093,Joseph Robinson,48,100933.92,Contractor,665,New York
+10094,Joseph Thompson,43,30774.29,Salaried,771,Washington
+10095,Joshua White,56,51039.4,Business Owner,850,New Jersey
+10096,Robert Harris,23,76210.46,Salaried,521,Illinois
+10097,Robert Thomas,60,160720.43,Salaried,777,Georgia
+10098,Amanda Robinson,50,120255.56,Retired,661,Massachusetts
+10099,Rachel Jones,55,125914.55,Salaried,641,Michigan
+10100,Amanda Jackson,37,103634.33,Self-Employed,640,Georgia
+10101,Ashley Garcia,33,85296.7,Self-Employed,716,Texas
+10102,Steven Williams,23,91078.17,Contractor,733,Florida
+10103,Amanda White,64,104901.93,Salaried,850,Illinois
+10104,William Moore,65,64274.65,Business Owner,655,Virginia
+10105,William Thompson,27,31887.57,Salaried,629,California
+10106,Daniel Johnson,41,102222.33,Retired,557,New Jersey
+10107,Thomas White,63,77999.79,Self-Employed,636,Pennsylvania
+10108,Joshua Martinez,61,41493.13,Salaried,709,Arizona
+10109,Daniel White,48,76183.73,Retired,532,Illinois
+10110,Lauren Davis,47,147677.01,Business Owner,616,New Jersey
+10111,James Harris,27,55403.41,Self-Employed,686,Texas
+10112,Kenneth Davis,40,72878.62,Business Owner,615,Illinois
+10113,Andrew Harris,30,68208.08,Business Owner,777,Pennsylvania
+10114,Jennifer Williams,32,56210.64,Salaried,689,New Jersey
+10115,Steven Miller,32,60831.87,Contractor,700,Virginia
+10116,Daniel Anderson,55,76748.25,Salaried,653,Washington
+10117,Anthony Johnson,30,129826.8,Salaried,636,Florida
+10118,Samantha Jackson,31,89772.54,Salaried,806,Michigan
+10119,Anthony Jones,35,128153.61,Retired,672,Michigan
+10120,Lauren Thomas,65,76983.61,Salaried,589,New Jersey
+10121,Rachel Harris,45,88730.01,Salaried,681,New Jersey
+10122,Rachel Martinez,60,39977.63,Salaried,727,New York
+10123,Ashley Wilson,48,104350.31,Self-Employed,794,Michigan
+10124,Amanda Davis,47,130075.94,Business Owner,797,North Carolina
+10125,Elizabeth Davis,33,88204.08,Business Owner,771,Massachusetts
+10126,Robert Williams,55,139230.78,Business Owner,736,Massachusetts
+10127,Mark Harris,65,149592.85,Contractor,695,New Jersey
+10128,Thomas Garcia,33,91713.23,Salaried,642,Ohio
+10129,Joseph Taylor,28,106601.44,Contractor,827,Arizona
+10130,Daniel Jackson,45,215915.43,Salaried,684,Illinois
+10131,David Clark,64,59228.62,Self-Employed,763,California
+10132,Samantha Harris,56,103120.59,Salaried,773,Massachusetts
+10133,Paul Martin,65,204666.74,Salaried,601,Arizona
+10134,Steven Martinez,34,63874.78,Contractor,736,North Carolina
+10135,John Jones,48,210895.94,Salaried,649,Washington
+10136,Mark Harris,40,92007.89,Salaried,595,North Carolina
+10137,Jessica Martin,52,63264.12,Retired,636,Florida
+10138,Lauren Garcia,65,115157.16,Retired,715,New Jersey
+10139,Samantha Davis,56,127270.92,Salaried,815,North Carolina
+10140,Sarah Harris,42,70081.33,Salaried,730,Massachusetts
+10141,Kenneth White,28,96948.04,Salaried,755,Georgia
+10142,Paul Moore,28,73802.62,Salaried,686,Ohio
+10143,William Williams,41,67129.5,Salaried,676,Illinois
+10144,James Wilson,38,105495.66,Contractor,618,Virginia
+10145,Matthew Clark,63,139496.36,Business Owner,620,Arizona
+10146,Joseph Jones,32,59805.8,Salaried,666,Washington
+10147,John Williams,26,81315.81,Salaried,682,New Jersey
+10148,Emily Wilson,23,229356.74,Salaried,537,Massachusetts
+10149,Kenneth Williams,62,115561.84,Salaried,634,Ohio
+10150,Ashley Miller,66,43691.42,Salaried,612,Virginia
+10151,John Robinson,33,126180.69,Salaried,803,Pennsylvania
+10152,Daniel Davis,41,50362.01,Retired,680,Ohio
+10153,John Jackson,35,42593.5,Salaried,784,Florida
+10154,Thomas Jones,43,85072.86,Salaried,712,New Jersey
+10155,Sarah Harris,24,168381.66,Business Owner,620,Michigan
+10156,William Williams,24,136791.93,Salaried,763,Florida
+10157,Joseph Thompson,39,172445.32,Salaried,521,Arizona
+10158,Joseph Moore,39,129538.31,Salaried,734,Georgia
+10159,Michael Brown,23,74667.1,Self-Employed,711,Illinois
+10160,Emily Thompson,27,112044.75,Salaried,788,Virginia
+10161,Elizabeth Jackson,57,202800.51,Self-Employed,803,Georgia
+10162,Thomas Moore,25,229141.23,Salaried,587,Illinois
+10163,William Jones,28,41428.5,Salaried,603,Washington
+10164,Steven Thompson,48,101868.07,Salaried,581,Texas
+10165,Joseph Wilson,59,63998.13,Salaried,663,Illinois
+10166,John Anderson,63,137663.06,Business Owner,656,Arizona
+10167,Andrew Clark,42,121776.24,Retired,703,Florida
+10168,Joshua Anderson,34,88143.7,Salaried,775,Virginia
+10169,Joshua Williams,55,62845.18,Self-Employed,672,Ohio
+10170,Sarah Taylor,46,107772.12,Self-Employed,695,Florida
+10171,Daniel Jones,30,84542.4,Retired,578,Illinois
+10172,David Davis,42,94225.02,Self-Employed,773,Michigan
+10173,Mark Jackson,45,81891.73,Self-Employed,706,Washington
+10174,Sarah Clark,51,102766.44,Salaried,698,Arizona
+10175,James Robinson,35,88577.51,Salaried,770,Virginia
+10176,Andrew Johnson,64,129854.51,Contractor,696,New Jersey
+10177,Megan Martinez,57,30000,Salaried,769,Massachusetts
+10178,Thomas Brown,29,78226.27,Retired,706,Ohio
+10179,Charles Garcia,35,69673.37,Self-Employed,809,New Jersey
+10180,Samantha Miller,50,102461.89,Salaried,628,Michigan
+10181,Steven Martin,59,131760.69,Retired,751,Massachusetts
+10182,David Martin,62,97315.58,Contractor,627,Illinois
+10183,Richard Martinez,47,90666.57,Salaried,709,Texas
+10184,William Clark,49,69443.7,Salaried,658,Ohio
+10185,Jessica Miller,37,124499.97,Salaried,694,Virginia
+10186,Jennifer White,37,210606.92,Retired,665,Michigan
+10187,Steven Martin,35,107539.96,Salaried,749,Texas
+10188,Sarah Johnson,25,97933.47,Contractor,794,Arizona
+10189,Richard Harris,51,107767.58,Self-Employed,796,Arizona
+10190,Anthony Davis,47,67760.35,Self-Employed,800,Arizona
+10191,Andrew Brown,40,60356.17,Business Owner,652,Virginia
+10192,Rachel Thomas,46,58904.61,Salaried,699,Virginia
+10193,James Taylor,49,95109.76,Contractor,580,Washington
+10194,Ashley Jackson,40,123535.25,Salaried,674,New Jersey
+10195,Paul White,45,100257.75,Salaried,588,Florida
+10196,James Taylor,38,74941.95,Business Owner,706,Ohio
+10197,Anthony Robinson,65,117237.67,Salaried,714,Florida
+10198,Joshua Brown,26,74328.88,Business Owner,672,Pennsylvania
+10199,Elizabeth Miller,34,102195.25,Retired,737,Virginia
+10200,Rachel Wilson,38,67160.33,Self-Employed,711,Arizona
+10201,Elizabeth Thompson,61,103072.94,Salaried,666,Pennsylvania
+10202,Jessica Harris,48,55837.65,Salaried,555,California
+10203,James Jones,25,40563.52,Business Owner,699,Illinois
+10204,Megan Martin,66,111165.11,Self-Employed,734,Illinois
+10205,Mark Thompson,38,170173.08,Salaried,648,Georgia
+10206,Emily Thompson,60,70089.99,Salaried,777,Pennsylvania
+10207,Paul Johnson,34,30000,Salaried,592,New York
+10208,Anthony Jones,38,147994.08,Salaried,740,Georgia
+10209,Elizabeth Martinez,62,92925.19,Salaried,725,New York
+10210,Richard Martinez,61,263092.91,Contractor,612,Illinois
+10211,Charles Jones,23,174051.98,Salaried,759,Pennsylvania
+10212,Thomas Jackson,42,67644.32,Salaried,791,New Jersey
+10213,Joseph Miller,42,85370.27,Salaried,850,Ohio
+10214,Sarah Moore,36,110240.77,Self-Employed,689,Illinois
+10215,Sarah Anderson,47,65093.09,Retired,709,Washington
+10216,Robert Miller,44,184149.66,Salaried,594,Arizona
+10217,Daniel Miller,45,119250.64,Salaried,674,New Jersey
+10218,Matthew Robinson,38,60136.34,Self-Employed,733,Massachusetts
+10219,Mark Jackson,37,168251.43,Salaried,730,Pennsylvania
+10220,Amanda Brown,36,47384.25,Salaried,500,Virginia
+10221,William Moore,61,116164.66,Salaried,550,Arizona
+10222,Kenneth Taylor,59,47682.97,Salaried,850,Florida
+10223,Michael White,41,141107.94,Salaried,777,Washington
+10224,Samantha Thomas,48,59351.99,Contractor,713,Washington
+10225,Megan Moore,47,67409.88,Salaried,730,Pennsylvania
+10226,Anthony Davis,66,101287.75,Business Owner,636,Illinois
+10227,Paul Jackson,23,102993.21,Salaried,735,Massachusetts
+10228,Michael Clark,52,103838.23,Salaried,586,Virginia
+10229,William Jackson,46,92291.43,Self-Employed,620,Florida
+10230,Charles Martinez,66,54167.73,Self-Employed,758,Ohio
+10231,Emily Anderson,53,77936.79,Salaried,664,Michigan
+10232,James Jones,46,86651.06,Self-Employed,821,Georgia
+10233,Jennifer Martinez,36,100802.26,Salaried,598,Georgia
+10234,Andrew Jackson,48,65302.06,Salaried,664,Illinois
+10235,Emily Taylor,62,123809.48,Contractor,604,Arizona
+10236,Paul Wilson,67,70038.81,Salaried,795,Massachusetts
+10237,Steven Miller,30,63124.65,Contractor,736,California
+10238,Ashley Harris,62,54507.73,Salaried,807,California
+10239,Jessica Wilson,25,53884.22,Business Owner,575,North Carolina
+10240,Matthew Moore,36,52584.67,Salaried,704,Pennsylvania
+10241,Kenneth Thompson,64,62587.68,Retired,670,New Jersey
+10242,James Robinson,40,172089.96,Retired,661,New Jersey
+10243,Elizabeth Clark,65,86510.07,Salaried,774,Michigan
+10244,Thomas Taylor,57,201689.62,Salaried,652,Massachusetts
+10245,Andrew Williams,42,36452.27,Self-Employed,730,New York
+10246,Daniel Anderson,46,125670.52,Salaried,757,New York
+10247,Michael Taylor,54,118295.29,Salaried,797,Arizona
+10248,Charles Johnson,24,38116.8,Self-Employed,547,Massachusetts
+10249,Elizabeth Williams,30,92971.89,Self-Employed,657,Florida
+10250,Richard Jones,67,93230.76,Salaried,657,Michigan
+10251,Paul Clark,40,103276.15,Salaried,686,Arizona
+10252,James Brown,46,63338.25,Salaried,724,Michigan
+10253,Charles Williams,48,105867.9,Contractor,681,Texas
+10254,James Robinson,32,139634.26,Retired,778,New Jersey
+10255,Richard White,40,52513.41,Salaried,793,North Carolina
+10256,Megan Martin,54,70774.17,Self-Employed,620,Florida
+10257,John Wilson,25,114039.8,Self-Employed,711,Massachusetts
+10258,John Robinson,59,55153.4,Salaried,805,North Carolina
+10259,Mark Clark,54,129549.04,Self-Employed,564,Georgia
+10260,Anthony Jackson,38,85746.83,Salaried,573,Illinois
+10261,John Clark,25,132277.04,Salaried,610,Florida
+10262,Elizabeth Thomas,54,30000,Self-Employed,703,Texas
+10263,Richard Moore,59,135296.84,Salaried,577,Texas
+10264,Mark Thompson,34,108172.6,Salaried,635,Michigan
+10265,Thomas White,54,117924.29,Salaried,746,Pennsylvania
+10266,Jennifer Jones,58,61005.49,Self-Employed,672,Massachusetts
+10267,Amanda Thomas,53,190585.2,Self-Employed,654,Georgia
+10268,Richard Anderson,44,59479.84,Self-Employed,778,New York
+10269,Megan Martinez,37,134042.98,Retired,581,Ohio
+10270,John Thomas,36,82272.71,Salaried,676,Pennsylvania
+10271,Robert Anderson,66,34353.37,Business Owner,770,New Jersey
+10272,John Robinson,23,116964.75,Salaried,640,Virginia
+10273,Paul Clark,67,87605.5,Business Owner,796,Arizona
+10274,Amanda Martin,38,59578.59,Contractor,544,New York
+10275,Michael Moore,50,79281.54,Salaried,765,Michigan
+10276,Andrew Jackson,26,320559.93,Contractor,643,Arizona
+10277,William Anderson,25,61837.66,Retired,720,Virginia
+10278,Kenneth Williams,40,138251.77,Contractor,796,Pennsylvania
+10279,Lauren Davis,40,79167.98,Salaried,776,New Jersey
+10280,Samantha Moore,48,93630.04,Salaried,674,California
+10281,Anthony Thompson,51,135045.84,Salaried,713,Ohio
+10282,Megan Brown,54,134193.42,Self-Employed,700,California
+10283,Mark Williams,46,104215.07,Salaried,607,New York
+10284,Jessica Harris,40,52841.52,Salaried,816,New Jersey
+10285,William Martinez,51,97643.03,Salaried,532,Arizona
+10286,Rachel Martinez,49,95029.71,Salaried,693,California
+10287,Jennifer Martin,51,63935.92,Salaried,759,North Carolina
+10288,Thomas Clark,45,51061.48,Salaried,644,New York
+10289,Charles Thomas,39,153259.42,Salaried,714,Ohio
+10290,Jessica Thompson,57,48891.94,Salaried,666,Georgia
+10291,Charles Moore,35,118498.01,Salaried,691,Florida
+10292,Steven Wilson,49,59598.06,Retired,705,California
+10293,Charles Robinson,48,117421.34,Retired,772,Ohio
+10294,Joseph Moore,42,33342.48,Self-Employed,842,Arizona
+10295,William Martin,44,129971.27,Salaried,601,Illinois
+10296,Jennifer Taylor,51,73416.85,Self-Employed,725,Washington
+10297,John Williams,44,53948.44,Business Owner,781,Illinois
+10298,Joseph Williams,36,220983.82,Self-Employed,656,Washington
+10299,Richard Thomas,32,84060.24,Business Owner,795,Virginia
+10300,Joshua Martin,63,94544.34,Salaried,500,Virginia
+10301,Samantha Martin,62,92142.56,Business Owner,787,California
+10302,Steven Davis,63,123159.71,Salaried,688,Arizona
+10303,Megan Anderson,28,66039.17,Salaried,672,Washington
+10304,Jessica Thomas,33,184578.05,Business Owner,692,New Jersey
+10305,Steven Brown,33,58075.31,Salaried,790,Texas
+10306,Thomas Davis,54,65728.74,Contractor,666,New Jersey
+10307,John Jackson,61,94109.65,Business Owner,597,Virginia
+10308,Joshua Wilson,28,237437.02,Self-Employed,575,New York
+10309,Samantha Taylor,53,68138.47,Salaried,642,Washington
+10310,Robert Johnson,51,103524.67,Salaried,666,New Jersey
+10311,Matthew Brown,47,69268.22,Retired,618,Arizona
+10312,Elizabeth Garcia,67,59598.26,Salaried,735,Pennsylvania
+10313,Lauren Thomas,31,98187.49,Salaried,646,New York
+10314,Steven Martinez,53,174583.86,Self-Employed,705,Illinois
+10315,Emily Martinez,30,45567.39,Salaried,641,Michigan
+10316,David Brown,46,96067.74,Salaried,688,Massachusetts
+10317,John Wilson,42,110319.57,Salaried,670,Illinois
+10318,Amanda Thomas,38,77039.32,Contractor,705,Massachusetts
+10319,Andrew Johnson,51,73794.58,Business Owner,702,Florida
+10320,Michael Johnson,67,58544.9,Contractor,764,Michigan
+10321,Matthew Garcia,52,69961.44,Self-Employed,675,New York
+10322,Ashley Garcia,39,64677.47,Self-Employed,732,Texas
+10323,Thomas Wilson,63,134309.99,Salaried,696,Washington
+10324,Lauren Martin,40,63977.32,Business Owner,748,New York
+10325,Sarah Thomas,51,99193.32,Salaried,759,California
+10326,Michael Martin,45,156377.82,Retired,827,Texas
+10327,Matthew Davis,31,53133.09,Business Owner,697,New Jersey
+10328,Jessica Taylor,57,55209.2,Salaried,747,Ohio
+10329,David Martinez,66,87222.97,Salaried,669,Massachusetts
+10330,Matthew Garcia,27,65712.64,Salaried,597,Florida
+10331,Anthony Davis,67,136627.27,Self-Employed,696,Georgia
+10332,Jennifer Martinez,35,124696.94,Self-Employed,739,New Jersey
+10333,Charles Wilson,46,99486.97,Salaried,798,Washington
+10334,Andrew Harris,49,151829.93,Contractor,708,New York
+10335,Paul Martin,37,74478,Salaried,713,New York
+10336,Jennifer Moore,31,90180.55,Business Owner,632,Virginia
+10337,Elizabeth Garcia,59,151363.88,Salaried,835,Washington
+10338,Rachel Taylor,46,273974.85,Salaried,629,Massachusetts
+10339,Elizabeth Clark,24,70755.31,Salaried,698,California
+10340,Lauren Robinson,52,73973.76,Salaried,757,New York
+10341,Matthew Robinson,44,182704.96,Contractor,667,New Jersey
+10342,Mark Robinson,33,89365.89,Self-Employed,745,Illinois
+10343,Jennifer Williams,64,43398.71,Retired,552,California
+10344,Michael White,35,106729.61,Business Owner,679,Washington
+10345,Joseph Martin,46,86713.64,Salaried,752,Washington
+10346,Amanda Thomas,52,93503.52,Salaried,500,Illinois
+10347,Amanda Thomas,41,136148.32,Self-Employed,554,Florida
+10348,Joshua Jones,42,68450.01,Retired,722,Virginia
+10349,Joshua Brown,23,66643.99,Self-Employed,544,Illinois
+10350,Kenneth Thompson,39,61661.41,Business Owner,642,New Jersey
+10351,Amanda Williams,62,156542,Salaried,781,Arizona
+10352,Amanda Martin,64,101274.22,Self-Employed,551,New Jersey
+10353,William Johnson,52,30000,Salaried,774,Washington
+10354,Emily Moore,51,137530.53,Salaried,704,Ohio
+10355,Steven Anderson,66,106692.92,Salaried,693,Illinois
+10356,Joseph Harris,32,30000,Salaried,521,Ohio
+10357,Kenneth Miller,51,190732.21,Salaried,743,Massachusetts
+10358,Daniel Taylor,32,211980.14,Salaried,583,Georgia
+10359,Daniel Miller,45,91639.58,Salaried,661,Pennsylvania
+10360,Charles Thomas,49,118770.64,Self-Employed,810,Florida
+10361,Andrew Harris,23,71838.69,Self-Employed,604,Washington
+10362,Joseph Brown,48,68802.43,Business Owner,641,Michigan
+10363,Charles Thompson,56,151813.93,Self-Employed,576,Massachusetts
+10364,Elizabeth Thompson,30,70316.34,Business Owner,570,Texas
+10365,Matthew Robinson,62,69340.29,Contractor,683,California
+10366,Joshua Wilson,27,108329.85,Salaried,739,North Carolina
+10367,Joshua Martinez,64,43768.38,Business Owner,674,Texas
+10368,Mark Johnson,36,69663.71,Self-Employed,660,North Carolina
+10369,Charles Clark,37,126456.89,Business Owner,696,New Jersey
+10370,Mark Jones,63,36221.12,Salaried,769,Georgia
+10371,Megan Wilson,37,79770.26,Salaried,619,Pennsylvania
+10372,Charles Johnson,58,69511,Salaried,790,Virginia
+10373,Lauren Garcia,47,58463.75,Salaried,605,Texas
+10374,Matthew Taylor,63,46620.03,Salaried,644,Washington
+10375,Joseph Clark,33,53718.67,Salaried,775,Florida
+10376,Samantha Williams,52,60268.39,Salaried,703,Florida
+10377,Joseph Martinez,35,56641.99,Retired,708,Illinois
+10378,Richard Wilson,59,74272.08,Salaried,588,North Carolina
+10379,Jennifer Jones,43,69112.21,Salaried,738,Michigan
+10380,Elizabeth Harris,66,51233.79,Salaried,787,Massachusetts
+10381,David Anderson,59,98483.4,Self-Employed,683,Massachusetts
+10382,David Thomas,58,95405.54,Self-Employed,776,Arizona
+10383,Lauren Taylor,33,42986.97,Salaried,688,New York
+10384,Michael Anderson,34,137858.37,Salaried,579,New York
+10385,David Moore,24,76746.41,Salaried,688,New Jersey
+10386,Mark Davis,25,110996.76,Business Owner,731,California
+10387,Kenneth Jones,24,59837.3,Salaried,737,Massachusetts
+10388,Joseph Robinson,58,50825.44,Self-Employed,704,Texas
+10389,Andrew Jackson,57,85691.91,Salaried,688,Michigan
+10390,Joshua Brown,65,52484.95,Salaried,782,New Jersey
+10391,Joshua Thompson,24,136041.01,Salaried,763,Washington
+10392,John Wilson,37,233752.43,Retired,628,Georgia
+10393,Thomas Jackson,65,121220.1,Contractor,634,New Jersey
+10394,Samantha Wilson,51,85074.33,Salaried,740,Virginia
+10395,John White,24,69623.68,Self-Employed,587,New Jersey
+10396,Charles Harris,32,56876.62,Salaried,664,North Carolina
+10397,William Miller,51,76607.87,Salaried,663,Texas
+10398,Matthew Garcia,51,56983.05,Salaried,626,Illinois
+10399,Andrew White,58,63228.48,Salaried,821,Arizona
+10400,Jessica White,26,158515.41,Salaried,715,New Jersey
+10401,Megan Jones,29,71299.94,Salaried,637,Florida
+10402,Emily Miller,28,121584.61,Self-Employed,574,Pennsylvania
+10403,Andrew Wilson,36,139448.64,Salaried,625,Arizona
+10404,Samantha Anderson,60,91092.71,Self-Employed,734,Washington
+10405,Andrew Johnson,63,101879.02,Retired,661,North Carolina
+10406,Daniel Harris,50,92251.76,Salaried,681,Arizona
+10407,Joseph Davis,59,57620.15,Salaried,686,Michigan
+10408,Sarah Martin,55,75951.49,Salaried,589,Michigan
+10409,Emily Johnson,50,117277.19,Salaried,731,New York
+10410,Daniel Martin,39,45295.5,Salaried,741,Massachusetts
+10411,Elizabeth Jones,27,66998.25,Salaried,751,Pennsylvania
+10412,Matthew Martinez,61,103553.88,Business Owner,633,North Carolina
+10413,Michael Robinson,63,111289.55,Salaried,661,Massachusetts
+10414,Matthew Harris,36,86869.37,Salaried,734,Illinois
+10415,Mark Wilson,24,72442.43,Salaried,735,North Carolina
+10416,Matthew Anderson,29,103779.58,Self-Employed,691,Arizona
+10417,Samantha Thompson,40,97516.71,Business Owner,745,Florida
+10418,Samantha Jackson,30,87198.45,Self-Employed,644,Pennsylvania
+10419,Lauren Johnson,24,86900.81,Salaried,643,California
+10420,Daniel Jackson,29,100141.71,Salaried,652,New York
+10421,Steven Anderson,23,64174.61,Salaried,719,Virginia
+10422,Michael Taylor,54,137680.33,Salaried,573,New Jersey
+10423,Jennifer White,37,157252.92,Salaried,584,Pennsylvania
+10424,Thomas Garcia,67,76839.37,Contractor,703,North Carolina
+10425,Megan Miller,57,30000,Salaried,661,New Jersey
+10426,Samantha Jones,46,48222.52,Salaried,500,Virginia
+10427,Joshua Davis,31,119915.63,Salaried,653,Florida
+10428,Jessica Johnson,35,53494.36,Self-Employed,681,Georgia
+10429,John Robinson,64,106544.6,Retired,751,Illinois
+10430,David Martinez,24,46806.94,Contractor,677,North Carolina
+10431,Sarah White,25,111520.96,Salaried,713,New York
+10432,Jessica Johnson,58,89933.7,Self-Employed,676,Illinois
+10433,John Johnson,56,85982.59,Contractor,719,Massachusetts
+10434,James Robinson,31,70284.28,Business Owner,694,Pennsylvania
+10435,Mark Williams,60,102920.46,Salaried,607,Virginia
+10436,Charles Williams,54,49071.39,Retired,638,Ohio
+10437,Samantha Thompson,47,98814.28,Salaried,657,Texas
+10438,James Davis,35,75658.39,Retired,573,New Jersey
+10439,Emily Moore,44,185345.1,Salaried,724,Arizona
+10440,Richard Moore,57,32296.39,Salaried,699,New York
+10441,Anthony Martin,44,93080.35,Business Owner,612,Ohio
+10442,Andrew Taylor,51,60849.2,Business Owner,749,Ohio
+10443,Kenneth Garcia,48,107760.61,Contractor,675,Florida
+10444,Robert Taylor,42,133045.07,Retired,760,Illinois
+10445,Ashley Miller,55,43582.82,Salaried,673,Pennsylvania
+10446,Megan Brown,34,165999.44,Salaried,808,Virginia
+10447,John Thompson,38,68497.33,Contractor,637,Virginia
+10448,Ashley Jones,49,75457.76,Salaried,750,Texas
+10449,Rachel White,65,60258.31,Salaried,801,Massachusetts
+10450,John White,54,30000,Contractor,700,Virginia
+10451,Daniel Clark,26,66269.34,Contractor,636,Massachusetts
+10452,Thomas Johnson,24,45906.51,Salaried,699,Virginia
+10453,Megan Jones,52,38015.54,Contractor,690,Texas
+10454,Charles Harris,36,145600.02,Self-Employed,619,New Jersey
+10455,Charles Davis,24,142770.41,Contractor,779,Virginia
+10456,Steven Williams,57,97466.59,Salaried,613,Illinois
+10457,Andrew Martinez,38,53183.82,Salaried,705,Pennsylvania
+10458,Rachel Martin,35,145020.53,Contractor,756,North Carolina
+10459,Joshua Jones,46,88307.57,Salaried,759,Georgia
+10460,Megan Johnson,55,74567.46,Salaried,730,Illinois
+10461,Jessica Garcia,28,56753.18,Business Owner,781,Pennsylvania
+10462,Mark Jackson,41,89116.07,Contractor,606,Illinois
+10463,Jennifer Robinson,57,75525.69,Business Owner,610,New York
+10464,James Thomas,53,71238.76,Salaried,732,Michigan
+10465,Anthony Jones,28,71327.81,Self-Employed,708,Texas
+10466,Elizabeth Williams,64,114743.03,Business Owner,694,New York
+10467,Daniel Moore,31,109742.42,Salaried,648,North Carolina
+10468,Richard Harris,30,160307.48,Retired,639,Washington
+10469,Emily Anderson,25,73205.47,Salaried,772,Ohio
+10470,William Wilson,64,46938.58,Business Owner,728,New Jersey
+10471,Megan Moore,32,91050.91,Salaried,829,Washington
+10472,Anthony Harris,63,38362.6,Retired,647,Ohio
+10473,Amanda Brown,49,54297.28,Self-Employed,719,Washington
+10474,Sarah Martinez,45,138441.68,Contractor,762,Illinois
+10475,Megan Davis,64,182737.48,Salaried,706,Arizona
+10476,Amanda Garcia,25,105866.04,Self-Employed,634,New York
+10477,William Garcia,61,91440.07,Salaried,594,New York
+10478,Samantha Martinez,59,72288.62,Self-Employed,736,Michigan
+10479,Megan Miller,65,89042.25,Salaried,670,Washington
+10480,Steven Garcia,49,86059.27,Salaried,646,Arizona
+10481,Robert Jones,67,98022.92,Salaried,723,Pennsylvania
+10482,Richard Wilson,37,57687.25,Salaried,647,Arizona
+10483,Michael Brown,23,92836.16,Business Owner,774,Illinois
+10484,Rachel Taylor,24,43214.53,Business Owner,642,Florida
+10485,Jennifer Johnson,59,39303.94,Salaried,698,New York
+10486,John Clark,40,144442.27,Contractor,730,Illinois
+10487,Lauren Anderson,25,350000,Retired,760,New York
+10488,Joseph Taylor,26,92513.74,Self-Employed,824,California
+10489,Emily Garcia,58,86499.36,Retired,619,Virginia
+10490,James Williams,43,162008.77,Salaried,584,Washington
+10491,James Jackson,34,44635.26,Retired,732,New York
+10492,Andrew Thomas,25,39823.88,Salaried,687,Pennsylvania
+10493,Richard Thompson,65,119606.04,Salaried,656,Georgia
+10494,Samantha Harris,52,167176.95,Salaried,633,Massachusetts
+10495,Rachel Garcia,58,112297.13,Business Owner,768,Washington
+10496,Robert Thompson,51,77083.27,Self-Employed,778,Illinois
+10497,Kenneth Jackson,55,198602.07,Retired,782,Washington
+10498,Richard Davis,33,66252.04,Self-Employed,718,Virginia
+10499,Daniel Williams,39,79569.01,Business Owner,835,Arizona
+10500,Daniel Brown,51,68260.12,Contractor,677,Massachusetts
+10501,Mark Martinez,49,47797.05,Business Owner,807,Michigan
+10502,Ashley Miller,30,76248.94,Salaried,600,Arizona
+10503,Joshua Martinez,29,79822.31,Self-Employed,669,California
+10504,Lauren Davis,28,80200.55,Retired,670,Virginia
+10505,Charles Johnson,61,111349.96,Salaried,537,California
+10506,Ashley Miller,39,63864.11,Salaried,833,Illinois
+10507,Daniel Wilson,59,155835.97,Salaried,727,California
+10508,Robert Williams,31,73040.72,Salaried,714,New York
+10509,Joshua Moore,33,51046.49,Salaried,716,North Carolina
+10510,Charles Thompson,43,49526.28,Salaried,726,Pennsylvania
+10511,Richard Moore,64,69349.45,Self-Employed,818,Florida
+10512,Charles Taylor,48,76704.82,Business Owner,810,Florida
+10513,Michael Clark,42,102926.26,Salaried,679,California
+10514,Thomas Jones,43,90001.98,Business Owner,706,Massachusetts
+10515,Sarah Thomas,29,143776.86,Business Owner,699,California
+10516,Ashley Clark,47,67606.61,Salaried,738,New Jersey
+10517,Sarah Taylor,56,116704.86,Business Owner,695,North Carolina
+10518,Charles Jackson,61,88736.84,Salaried,723,Arizona
+10519,Samantha Thomas,62,115227.67,Salaried,765,Georgia
+10520,Andrew Williams,67,60077.54,Business Owner,771,California
+10521,Mark Martin,25,129038.16,Salaried,728,Ohio
+10522,Jennifer Robinson,26,52318.36,Salaried,684,Michigan
+10523,Emily Robinson,25,244021.17,Salaried,695,Georgia
+10524,John Jackson,50,40392.14,Retired,704,Illinois
+10525,Joseph Wilson,24,67903.15,Self-Employed,745,Texas
+10526,Lauren Harris,23,81639.94,Business Owner,710,Florida
+10527,Mark Robinson,57,175198.07,Business Owner,792,New Jersey
+10528,Matthew Clark,46,194763.57,Business Owner,690,Illinois
+10529,Thomas Miller,55,52749.36,Business Owner,636,Michigan
+10530,Emily Robinson,41,151236.46,Self-Employed,756,New York
+10531,Robert Martin,60,42816.14,Salaried,580,Georgia
+10532,Anthony Martinez,23,203086.17,Contractor,759,Washington
+10533,Amanda Brown,46,67443.04,Salaried,692,New York
+10534,Sarah Clark,65,111457.93,Business Owner,662,Illinois
+10535,William Thompson,33,95095.28,Salaried,655,New Jersey
+10536,Michael Brown,40,56518.34,Salaried,586,Illinois
+10537,Joseph Thomas,24,87851.44,Salaried,562,New Jersey
+10538,Amanda Williams,45,103970.43,Business Owner,670,California
+10539,John Martin,60,48646.93,Self-Employed,739,Michigan
+10540,Charles Jackson,57,102885.08,Contractor,638,New Jersey
+10541,Anthony Jackson,42,79464.47,Salaried,766,Texas
+10542,Charles Garcia,49,58827.52,Self-Employed,627,Washington
+10543,Michael Thompson,47,140775.26,Salaried,731,Massachusetts
+10544,Anthony Johnson,61,60718.15,Salaried,683,Illinois
+10545,Samantha Thompson,26,38777.38,Self-Employed,645,Massachusetts
+10546,William Thomas,25,119464.06,Retired,609,Arizona
+10547,William Brown,64,53415.49,Salaried,776,Illinois
+10548,Thomas Davis,24,89301.28,Salaried,686,Washington
+10549,Rachel Thomas,26,53687.87,Salaried,561,Pennsylvania
+10550,Anthony Martinez,31,158667.07,Salaried,661,Massachusetts
+10551,John Martinez,36,92614.37,Salaried,609,California
+10552,John Williams,51,119536.87,Salaried,668,Pennsylvania
+10553,James Moore,39,63911.18,Retired,793,North Carolina
+10554,Rachel Garcia,50,53625.03,Salaried,757,Texas
+10555,Robert White,30,81683,Salaried,731,Georgia
+10556,Lauren Martinez,31,114154.06,Self-Employed,674,North Carolina
+10557,Thomas Jackson,53,115016.68,Contractor,759,North Carolina
+10558,Daniel Jones,25,178996.74,Salaried,749,Massachusetts
+10559,Megan Thomas,67,98465.65,Contractor,766,New Jersey
+10560,Steven Thomas,47,182379.2,Self-Employed,612,Ohio
+10561,Richard Martinez,52,50190.06,Salaried,726,Ohio
+10562,Joshua Wilson,63,72038.38,Contractor,782,Washington
+10563,Joshua Jones,41,53221.77,Salaried,607,Pennsylvania
+10564,Steven Martin,31,92027.91,Salaried,705,Arizona
+10565,Jennifer Moore,51,54347.68,Salaried,663,Washington
+10566,Jessica Taylor,42,108718.9,Salaried,657,Georgia
+10567,Robert Clark,36,85274.72,Salaried,667,New Jersey
+10568,Megan Harris,60,96110.19,Salaried,650,Massachusetts
+10569,John Harris,47,98502.17,Salaried,647,North Carolina
+10570,Joseph Robinson,59,73780.1,Salaried,699,Virginia
+10571,Robert Martin,31,142012.38,Self-Employed,735,Florida
+10572,Matthew Clark,50,233562.36,Self-Employed,665,Massachusetts
+10573,Amanda White,40,110190.56,Contractor,702,Illinois
+10574,Paul Jackson,56,93337.42,Salaried,560,California
+10575,Kenneth Miller,33,111660.14,Salaried,775,Michigan
+10576,Andrew Jones,42,64618.81,Salaried,694,Massachusetts
+10577,Thomas Thomas,31,57590.46,Retired,652,New Jersey
+10578,Emily Johnson,56,62859.01,Salaried,500,Ohio
+10579,Rachel Brown,26,107670.12,Self-Employed,739,Michigan
+10580,Andrew Martin,28,100084.17,Salaried,621,Ohio
+10581,Thomas Harris,48,182277.78,Retired,773,Ohio
+10582,Paul Anderson,28,44004.68,Self-Employed,626,Arizona
+10583,Megan Brown,67,111711.99,Self-Employed,555,Ohio
+10584,Michael White,48,168225.19,Salaried,759,Virginia
+10585,David Moore,27,48510.61,Contractor,706,Virginia
+10586,John Jackson,59,130417.09,Retired,523,Washington
+10587,Megan Williams,31,113000.22,Business Owner,824,Illinois
+10588,Joshua Martinez,63,86754.86,Self-Employed,627,Texas
+10589,Richard Miller,56,41370.59,Retired,500,Washington
+10590,Mark Wilson,43,60993.95,Retired,848,Arizona
+10591,Robert Moore,62,127131.97,Salaried,623,Arizona
+10592,Samantha Jackson,47,138361.44,Contractor,594,North Carolina
+10593,Charles Clark,29,80472.87,Business Owner,691,Georgia
+10594,Robert Jones,67,77039.53,Business Owner,709,Georgia
+10595,Rachel Brown,43,159510.84,Self-Employed,642,Florida
+10596,Jennifer Williams,63,93977.14,Retired,746,Texas
+10597,Richard Thompson,57,113565.73,Self-Employed,705,Arizona
+10598,Emily Wilson,45,122781,Self-Employed,838,Ohio
+10599,Thomas Robinson,25,36057.1,Contractor,710,Massachusetts
+10600,Mark Johnson,37,350000,Salaried,646,New Jersey
+10601,Amanda Thomas,32,115060.22,Salaried,755,Florida
+10602,David Thompson,34,217552.97,Business Owner,709,Washington
+10603,Paul Thomas,58,61654.15,Salaried,699,Georgia
+10604,Elizabeth Moore,38,40239.52,Salaried,679,New Jersey
+10605,John Garcia,53,114263.47,Self-Employed,801,Arizona
+10606,Richard Thomas,25,40089.05,Business Owner,761,Georgia
+10607,Anthony Robinson,67,63299.3,Business Owner,701,Michigan
+10608,James Jones,29,83774.29,Business Owner,702,Arizona
+10609,Matthew Jackson,41,46724.19,Retired,626,Pennsylvania
+10610,Richard White,45,89897.2,Self-Employed,603,Ohio
+10611,David Robinson,24,85455.28,Self-Employed,635,California
+10612,Lauren Johnson,42,76842.62,Salaried,685,California
+10613,Kenneth Garcia,40,66930.96,Contractor,651,Washington
+10614,Daniel Harris,36,162821.31,Salaried,691,North Carolina
+10615,Jennifer Martinez,37,88002.09,Business Owner,809,New Jersey
+10616,Joshua White,44,96264.78,Salaried,507,Georgia
+10617,William Taylor,23,105563.77,Self-Employed,629,Georgia
+10618,Jessica Thompson,37,61234.24,Contractor,662,Texas
+10619,Daniel Miller,30,76360.7,Retired,659,New York
+10620,Jessica Johnson,66,258508.17,Salaried,710,Washington
+10621,Richard Martin,25,63809.92,Business Owner,716,Georgia
+10622,Sarah Garcia,27,185482.8,Salaried,711,North Carolina
+10623,Amanda Garcia,66,37128.07,Contractor,683,New York
+10624,Charles Moore,35,95457.65,Retired,837,Washington
+10625,Kenneth Martin,40,67136.48,Contractor,613,Pennsylvania
+10626,Matthew Martin,60,98201.08,Business Owner,604,New York
+10627,David Miller,58,117438.73,Self-Employed,754,Michigan
+10628,Sarah Thompson,41,112509.1,Salaried,693,Arizona
+10629,Robert Clark,31,59627.08,Salaried,636,Georgia
+10630,Amanda Wilson,34,52024.97,Salaried,709,Michigan
+10631,Emily Miller,28,112012.99,Salaried,696,Illinois
+10632,Michael Jackson,60,155072.04,Salaried,620,Washington
+10633,Megan Martinez,62,115533.56,Business Owner,676,Pennsylvania
+10634,Robert White,63,169477.67,Business Owner,737,New Jersey
+10635,Robert Clark,48,62244.34,Contractor,661,Texas
+10636,Anthony Robinson,28,55546.7,Business Owner,831,Massachusetts
+10637,Paul Martin,38,71150.81,Business Owner,604,Washington
+10638,James Martin,64,137317.57,Self-Employed,626,Georgia
+10639,Joshua Brown,65,73242.92,Salaried,773,Illinois
+10640,Mark Davis,40,51114.41,Business Owner,737,Virginia
+10641,James Garcia,25,127079.67,Retired,655,New York
+10642,Sarah Moore,59,65261.55,Contractor,768,Texas
+10643,Charles Jones,41,61084.88,Salaried,632,North Carolina
+10644,Ashley Johnson,60,46059.58,Self-Employed,755,Ohio
+10645,Paul Jones,42,109194.27,Salaried,666,Massachusetts
+10646,Robert Jackson,36,90218.99,Salaried,622,Ohio
+10647,Thomas Robinson,66,134536.53,Self-Employed,563,Washington
+10648,Jessica Wilson,45,71749.27,Retired,719,Pennsylvania
+10649,Rachel Thompson,33,94534.22,Retired,624,Arizona
+10650,Steven Williams,38,151252.45,Salaried,850,New Jersey
+10651,Robert Garcia,41,55046.98,Contractor,755,Pennsylvania
+10652,Steven Robinson,45,211731.32,Retired,671,New York
+10653,Steven Thomas,58,94016.29,Contractor,644,Pennsylvania
+10654,Jennifer Taylor,34,79531.26,Salaried,830,Pennsylvania
+10655,Paul Robinson,36,111698.36,Self-Employed,791,Pennsylvania
+10656,Joseph Jones,36,98258.56,Self-Employed,737,Pennsylvania
+10657,Samantha Robinson,52,74186.08,Self-Employed,625,Washington
+10658,Rachel Robinson,25,93080.55,Salaried,734,Georgia
+10659,James Clark,34,125134.93,Salaried,574,Ohio
+10660,William Martinez,28,192198.33,Contractor,662,Pennsylvania
+10661,Sarah Thomas,46,152811.55,Salaried,798,New York
+10662,Mark Harris,59,166074.26,Salaried,635,New York
+10663,Emily Thomas,38,128100.14,Salaried,600,Georgia
+10664,Robert Davis,43,91454.23,Business Owner,623,New Jersey
+10665,David Clark,44,54618.01,Retired,572,Ohio
+10666,Elizabeth Anderson,35,78722.03,Salaried,678,Massachusetts
+10667,Kenneth Miller,36,64265.25,Salaried,648,Virginia
+10668,Paul Robinson,26,122106.99,Salaried,743,Texas
+10669,Joshua Clark,58,30000,Salaried,778,New York
+10670,Charles Miller,47,73218.44,Salaried,598,New York
+10671,Elizabeth Clark,32,112091.91,Contractor,737,Illinois
+10672,Emily Garcia,53,103757.3,Salaried,850,Arizona
+10673,Anthony Thompson,44,104242.61,Business Owner,670,Georgia
+10674,David Jackson,35,103365.62,Contractor,739,New Jersey
+10675,Ashley Wilson,67,45668.5,Salaried,742,Ohio
+10676,Thomas Anderson,39,166679.03,Salaried,664,Florida
+10677,Mark Wilson,41,131548.17,Retired,591,Michigan
+10678,Emily Wilson,49,158150.53,Contractor,678,Ohio
+10679,Jessica Johnson,33,98360.63,Salaried,556,Arizona
+10680,Rachel Johnson,51,73801.16,Salaried,721,Texas
+10681,Daniel Miller,62,132307.57,Contractor,644,Massachusetts
+10682,Amanda Taylor,29,65606.99,Salaried,727,Michigan
+10683,Ashley Thompson,59,52442.86,Self-Employed,662,Illinois
+10684,Emily Jackson,43,35501.09,Self-Employed,685,Massachusetts
+10685,Paul Thomas,65,57941.53,Salaried,694,Illinois
+10686,Amanda Thompson,46,78850.81,Contractor,628,Illinois
+10687,Mark Garcia,48,41948.87,Self-Employed,659,California
+10688,James Moore,41,38084.22,Contractor,583,Virginia
+10689,Sarah White,56,64357.84,Business Owner,717,Arizona
+10690,Anthony Robinson,55,138136.07,Salaried,770,Massachusetts
+10691,John Johnson,31,73643.56,Salaried,789,North Carolina
+10692,Steven White,50,96925.53,Self-Employed,607,Michigan
+10693,Anthony Thompson,50,50884.9,Salaried,686,Georgia
+10694,Emily Moore,47,91207.76,Salaried,756,Virginia
+10695,Thomas Martin,44,110074.23,Salaried,685,Washington
+10696,Steven Garcia,48,45602.44,Business Owner,758,Florida
+10697,Richard Thompson,24,66801.3,Contractor,748,Massachusetts
+10698,Jessica Thomas,63,71266.14,Retired,710,Ohio
+10699,Lauren Martin,36,101446.82,Self-Employed,676,Pennsylvania
+10700,Samantha Martin,34,63669.65,Salaried,758,Florida
+10701,Thomas Wilson,32,37638.99,Contractor,664,New York
+10702,Megan Anderson,60,65427.02,Salaried,645,Virginia
+10703,Samantha Robinson,45,168225.23,Salaried,701,Washington
+10704,Elizabeth Taylor,43,159858.93,Salaried,701,Florida
+10705,Sarah Miller,45,64882.6,Self-Employed,640,Pennsylvania
+10706,David Miller,37,56733.72,Salaried,774,Washington
+10707,Megan Wilson,40,53243.03,Salaried,551,New York
+10708,Jessica Jackson,56,70047.11,Business Owner,759,California
+10709,Rachel Thomas,64,92371.13,Self-Employed,762,California
+10710,Mark Wilson,61,123422.55,Salaried,751,Michigan
+10711,Sarah Johnson,26,190808.07,Salaried,770,Michigan
+10712,Lauren Clark,49,77541.52,Salaried,699,Virginia
+10713,Michael Anderson,38,197168.37,Retired,645,Arizona
+10714,Megan Robinson,64,142545.95,Salaried,850,New Jersey
+10715,Mark Anderson,45,75409.1,Contractor,827,California
+10716,Michael Thomas,34,43393.37,Self-Employed,699,Michigan
+10717,Lauren Thompson,54,81930.19,Self-Employed,689,Massachusetts
+10718,James Harris,25,182071.57,Salaried,693,Pennsylvania
+10719,Jennifer Martin,54,78932.09,Salaried,705,Florida
+10720,Mark Johnson,49,198429.71,Self-Employed,850,Pennsylvania
+10721,Jessica Martinez,65,50971.72,Salaried,751,Michigan
+10722,Andrew White,43,206441.55,Retired,640,Georgia
+10723,Michael Robinson,64,68245.41,Business Owner,668,North Carolina
+10724,Daniel Clark,26,55378.89,Salaried,696,Michigan
+10725,William Thompson,44,67298.43,Salaried,617,Massachusetts
+10726,Ashley Garcia,60,64667.76,Business Owner,663,Virginia
+10727,Thomas Clark,60,40537,Business Owner,718,California
+10728,Anthony Martin,62,56150.54,Self-Employed,655,Michigan
+10729,Robert White,33,30000,Retired,566,Georgia
+10730,Joseph Thomas,45,154002.15,Salaried,805,Florida
+10731,Ashley Thomas,25,114662.79,Contractor,665,Ohio
+10732,Robert White,37,65225.44,Self-Employed,758,North Carolina
+10733,Daniel White,53,59194.91,Contractor,629,California
+10734,Sarah Anderson,26,167010.04,Salaried,756,Illinois
+10735,Thomas Williams,54,52375.53,Salaried,689,Michigan
+10736,Sarah Moore,61,133426,Contractor,668,Texas
+10737,Robert Miller,59,161952.78,Business Owner,730,Texas
+10738,Lauren Harris,65,121958.22,Salaried,634,Texas
+10739,Matthew Clark,53,86473.44,Salaried,773,Florida
+10740,Sarah Miller,53,119199.57,Business Owner,815,North Carolina
+10741,William Garcia,26,80694.7,Business Owner,660,Michigan
+10742,Charles Wilson,40,146809.79,Business Owner,643,Massachusetts
+10743,Joseph Martin,61,63084.22,Retired,758,Pennsylvania
+10744,William Johnson,31,211004.22,Contractor,808,Florida
+10745,Joshua White,34,127538.05,Self-Employed,656,Arizona
+10746,Emily Thomas,40,80605.76,Contractor,752,Massachusetts
+10747,Joseph Garcia,58,151910.84,Business Owner,778,Arizona
+10748,Rachel Williams,29,143899.42,Self-Employed,629,Ohio
+10749,Charles Thomas,58,74173.91,Salaried,602,Washington
+10750,Anthony Martinez,65,51284.35,Self-Employed,742,Ohio
+10751,Lauren Harris,32,47107.5,Self-Employed,806,Georgia
+10752,Matthew Brown,26,61919.76,Salaried,621,Ohio
+10753,Ashley Martinez,30,77052.14,Business Owner,771,Pennsylvania
+10754,Lauren Jones,24,80249.85,Business Owner,691,North Carolina
+10755,Kenneth Johnson,54,262822.11,Contractor,744,New York
+10756,Lauren Johnson,24,86254.04,Self-Employed,795,Illinois
+10757,Amanda Thompson,43,92949.17,Retired,669,Arizona
+10758,Mark Garcia,48,66089.73,Salaried,560,Michigan
+10759,John Martinez,67,173503.97,Retired,646,Pennsylvania
+10760,Daniel Thompson,44,44539.54,Salaried,655,Georgia
+10761,Michael Martinez,32,98728.44,Salaried,754,Michigan
+10762,William Robinson,39,84048.95,Salaried,646,Massachusetts
+10763,Thomas Thomas,56,82931.14,Salaried,623,Georgia
+10764,Sarah White,37,89484.88,Salaried,665,Arizona
+10765,Andrew Clark,65,66964.52,Self-Employed,782,Arizona
+10766,Kenneth Thomas,32,52593.44,Salaried,626,Pennsylvania
+10767,Robert Jones,39,144035.3,Self-Employed,735,North Carolina
+10768,Mark Robinson,45,167902.24,Business Owner,598,Massachusetts
+10769,Paul Johnson,28,120685.77,Salaried,850,New Jersey
+10770,Richard Jackson,25,160089.58,Contractor,543,New Jersey
+10771,William Robinson,32,95443.41,Salaried,733,Illinois
+10772,Richard Martin,64,30000,Self-Employed,727,Virginia
+10773,Ashley White,33,54050.4,Retired,629,Washington
+10774,Joshua Taylor,63,110847.94,Salaried,655,Georgia
+10775,David Miller,26,30000,Contractor,698,Georgia
+10776,Mark Jackson,39,93732.25,Retired,689,New Jersey
+10777,Elizabeth Martin,33,102942.37,Business Owner,655,Illinois
+10778,Rachel Jackson,56,101108.62,Retired,682,Illinois
+10779,Mark Thompson,33,52608.63,Retired,533,Massachusetts
+10780,Steven Clark,36,73975.44,Salaried,767,Ohio
+10781,Andrew White,37,74647.18,Contractor,716,California
+10782,Lauren Martin,30,97986.41,Salaried,799,Ohio
+10783,Matthew Garcia,41,77190.17,Salaried,644,Washington
+10784,Samantha Jackson,27,38243.42,Salaried,654,Michigan
+10785,Elizabeth Miller,48,269974.53,Business Owner,687,Pennsylvania
+10786,Steven Thompson,46,102256.08,Salaried,682,Florida
+10787,David Garcia,43,78429.87,Salaried,767,Washington
+10788,Samantha Clark,26,67974.65,Salaried,742,Ohio
+10789,William Anderson,54,125534.63,Self-Employed,673,Georgia
+10790,Daniel Thomas,60,96815.76,Self-Employed,689,Michigan
+10791,Paul Johnson,41,107533.96,Business Owner,712,New York
+10792,Emily Taylor,58,42925.2,Business Owner,794,Arizona
+10793,Daniel Taylor,39,32585.92,Salaried,695,Florida
+10794,Andrew Jones,65,165195.71,Self-Employed,686,California
+10795,Ashley Clark,54,97038.34,Business Owner,688,Florida
+10796,Daniel Martin,65,100135.29,Business Owner,691,Virginia
+10797,John Wilson,49,152547.62,Business Owner,825,Massachusetts
+10798,Andrew Thompson,41,72728.8,Retired,755,Florida
+10799,Charles Jones,67,111196.07,Self-Employed,657,Virginia
+10800,Elizabeth Miller,59,37056.51,Contractor,546,Pennsylvania
+10801,Richard Thompson,34,83621.16,Salaried,850,New York
+10802,Robert Harris,51,84192.06,Self-Employed,639,Pennsylvania
+10803,Steven Thompson,58,140167.39,Salaried,698,Texas
+10804,Elizabeth Wilson,32,70515.86,Salaried,689,North Carolina
+10805,Joseph Brown,25,234997.78,Salaried,749,Virginia
+10806,Jessica Moore,46,30000,Self-Employed,726,Pennsylvania
+10807,Jennifer Martin,56,145991.22,Salaried,672,Virginia
+10808,Rachel Garcia,34,37647.34,Salaried,802,New York
+10809,Samantha Robinson,51,140354.23,Self-Employed,635,North Carolina
+10810,Samantha Clark,29,128075.65,Self-Employed,813,Texas
+10811,Matthew Davis,41,63916.53,Retired,760,Ohio
+10812,Joshua Garcia,57,72861.55,Retired,810,Massachusetts
+10813,David Clark,26,77334.37,Self-Employed,809,New Jersey
+10814,Charles Miller,51,127663.24,Self-Employed,726,Texas
+10815,Matthew Anderson,41,68309.7,Contractor,813,Florida
+10816,Matthew Williams,38,103145.55,Business Owner,659,New York
+10817,Jennifer Thompson,34,91510.09,Salaried,803,Massachusetts
+10818,Kenneth Garcia,50,120182.87,Self-Employed,676,Ohio
+10819,William Miller,55,96420.71,Business Owner,758,Texas
+10820,Megan Robinson,32,109222.47,Self-Employed,771,Florida
+10821,Thomas Jones,55,125497.43,Self-Employed,742,Pennsylvania
+10822,Michael Martin,46,123749.49,Retired,850,North Carolina
+10823,Emily Brown,58,121869.41,Salaried,750,California
+10824,Kenneth Thompson,38,81275.14,Salaried,540,Virginia
+10825,Thomas Johnson,62,84486.26,Salaried,576,Ohio
+10826,Richard Jackson,27,61931.97,Salaried,646,Illinois
+10827,Paul Davis,33,118779.38,Salaried,599,California
+10828,Andrew Harris,61,56354.51,Business Owner,574,Texas
+10829,Lauren Martinez,66,79114.46,Business Owner,695,Michigan
+10830,Sarah Davis,65,84397,Salaried,712,North Carolina
+10831,Matthew Clark,61,115871.69,Business Owner,711,Georgia
+10832,Charles Taylor,39,111537.31,Retired,787,Washington
+10833,Rachel Wilson,54,123501.68,Retired,702,Massachusetts
+10834,Amanda Jones,35,97517.41,Self-Employed,673,Pennsylvania
+10835,Matthew Johnson,63,46259.79,Salaried,623,Massachusetts
+10836,Elizabeth Johnson,26,70158.45,Self-Employed,692,Florida
+10837,Jennifer Martinez,30,95848.87,Self-Employed,682,Washington
+10838,William Anderson,45,104992.99,Salaried,692,Pennsylvania
+10839,Lauren White,62,61739.3,Business Owner,661,Florida
+10840,Joshua White,56,66128.15,Business Owner,622,Virginia
+10841,Ashley Jackson,26,83977.53,Self-Employed,747,Texas
+10842,Ashley Taylor,34,50694.94,Self-Employed,675,California
+10843,James Johnson,45,81261.97,Contractor,656,Michigan
+10844,Ashley Brown,66,149826.7,Salaried,656,Pennsylvania
+10845,Michael Harris,23,49263.28,Salaried,553,Arizona
+10846,William Martinez,51,46377.61,Salaried,634,Pennsylvania
+10847,Charles Taylor,41,143224.48,Business Owner,744,Ohio
+10848,Mark Wilson,64,81971.22,Retired,710,Pennsylvania
+10849,Kenneth Garcia,29,186707.89,Business Owner,757,California
+10850,Joseph Anderson,64,46772.81,Salaried,811,California
+10851,Jessica Jackson,56,141186.81,Salaried,554,Pennsylvania
+10852,Mark Clark,52,100511.8,Salaried,658,Pennsylvania
+10853,Daniel Moore,41,50265.78,Salaried,687,Georgia
+10854,Elizabeth Davis,33,104693.41,Retired,731,Washington
+10855,Rachel Wilson,43,247433.2,Retired,708,New Jersey
+10856,Ashley Jackson,51,132876.05,Business Owner,740,Massachusetts
+10857,Amanda Martinez,54,98108.86,Contractor,662,Ohio
+10858,William Martin,38,74970.01,Retired,651,Ohio
+10859,Anthony Davis,32,47703.41,Business Owner,799,Illinois
+10860,Ashley Wilson,45,47260.74,Self-Employed,805,Massachusetts
+10861,William White,57,73852.33,Contractor,795,Illinois
+10862,Lauren White,40,135183.83,Self-Employed,849,North Carolina
+10863,Charles Williams,23,81928.14,Salaried,663,Virginia
+10864,Joseph Jackson,23,193672.55,Self-Employed,781,New Jersey
+10865,Thomas Martin,30,56705.2,Business Owner,691,New York
+10866,Matthew Williams,40,53274.96,Self-Employed,688,Illinois
+10867,Emily Thompson,48,91615.31,Business Owner,850,North Carolina
+10868,Megan Williams,26,85618.08,Contractor,571,Georgia
+10869,Jennifer Johnson,36,183722.95,Salaried,713,Florida
+10870,Samantha Jackson,64,121150.51,Salaried,727,Arizona
+10871,William Thompson,41,90989.29,Self-Employed,778,Michigan
+10872,Jennifer White,35,61930.11,Salaried,775,New York
+10873,Mark White,36,123594.46,Salaried,622,New York
+10874,Ashley Johnson,24,281165.05,Salaried,740,Michigan
+10875,James Jackson,38,93732.35,Contractor,712,Florida
+10876,Elizabeth Thomas,41,49115.91,Retired,848,New York
+10877,James Anderson,24,42316.57,Salaried,765,Pennsylvania
+10878,Kenneth Thompson,55,75547.2,Self-Employed,750,Massachusetts
+10879,Andrew Jones,23,98798.06,Salaried,686,California
+10880,Joseph Taylor,65,63822.14,Salaried,750,Pennsylvania
+10881,William Taylor,40,72056.88,Self-Employed,646,Massachusetts
+10882,William Harris,41,71166.78,Salaried,714,Washington
+10883,Jessica Martinez,33,165019.16,Contractor,817,California
+10884,Richard Thompson,39,48861.03,Salaried,620,Virginia
+10885,Jennifer Jones,32,70968.32,Self-Employed,614,New York
+10886,Megan Jones,26,149174.49,Salaried,645,California
+10887,Thomas Moore,26,183589.88,Self-Employed,711,Georgia
+10888,Jennifer Wilson,67,67723.9,Business Owner,654,New York
+10889,Jennifer Martin,27,82391.84,Salaried,742,California
+10890,Joshua Thomas,24,218042.87,Salaried,740,Massachusetts
+10891,Steven Taylor,54,166082.09,Salaried,699,Florida
+10892,Charles White,24,61513.73,Salaried,692,Florida
+10893,John Wilson,57,57057.05,Contractor,643,New York
+10894,Mark Martinez,23,96064.2,Salaried,726,Georgia
+10895,Megan Martin,57,58745.66,Self-Employed,648,California
+10896,David Thompson,53,74276.32,Retired,707,Michigan
+10897,Amanda Clark,62,107108.27,Self-Employed,696,Ohio
+10898,Kenneth Harris,35,41425.22,Business Owner,624,Massachusetts
+10899,Charles Harris,59,102413.06,Salaried,636,Massachusetts
+10900,Paul Thompson,61,113413.3,Salaried,850,California
+10901,John White,58,81413.85,Salaried,803,Massachusetts
+10902,Joshua Clark,56,134728.95,Business Owner,749,Washington
+10903,Rachel Moore,58,67061.98,Retired,669,Pennsylvania
+10904,Paul Wilson,58,78946.95,Salaried,740,Massachusetts
+10905,John Johnson,38,38545.43,Business Owner,766,Arizona
+10906,Robert Robinson,30,30000,Self-Employed,719,Georgia
+10907,Anthony Johnson,37,53367.5,Salaried,636,North Carolina
+10908,Thomas Robinson,53,86191.63,Retired,688,North Carolina
+10909,Ashley Wilson,39,89024.15,Retired,740,Michigan
+10910,Daniel Clark,66,77097.98,Salaried,651,Georgia
+10911,Anthony Williams,58,77223.39,Salaried,780,California
+10912,Sarah Jones,60,83856.71,Self-Employed,566,Ohio
+10913,Emily Thompson,41,90244.42,Contractor,594,Illinois
+10914,Joshua Wilson,32,61426.19,Self-Employed,755,New Jersey
+10915,Kenneth Moore,66,41459.45,Salaried,650,California
+10916,Kenneth Jones,25,118577.66,Salaried,670,Texas
+10917,Ashley Brown,59,46734.47,Retired,558,New York
+10918,Thomas Martinez,45,178161.27,Retired,730,Florida
+10919,Paul Jackson,52,53027.92,Business Owner,746,California
+10920,Sarah Thompson,32,74033.26,Self-Employed,850,North Carolina
+10921,Robert Wilson,23,136306,Salaried,571,Florida
+10922,Ashley Taylor,23,70068.04,Salaried,658,Massachusetts
+10923,Mark Robinson,43,49652.71,Salaried,849,Washington
+10924,Lauren Robinson,30,79754.24,Self-Employed,710,Arizona
+10925,John Jackson,52,134268.42,Salaried,711,Texas
+10926,William Harris,39,86511.77,Self-Employed,749,Ohio
+10927,Joseph Johnson,26,79973,Salaried,672,New Jersey
+10928,Emily Davis,53,82305.89,Salaried,703,Florida
+10929,Samantha Jackson,66,158151.91,Salaried,693,North Carolina
+10930,Michael Moore,30,47522.83,Business Owner,807,Florida
+10931,Elizabeth Davis,55,99536.24,Self-Employed,690,Washington
+10932,Sarah Martin,32,271593.62,Salaried,727,Florida
+10933,Thomas Jones,65,87357.05,Contractor,710,Illinois
+10934,Ashley Robinson,31,128871.8,Business Owner,674,Illinois
+10935,Anthony Jones,27,62121.35,Salaried,644,Pennsylvania
+10936,Paul Martin,58,67592.97,Salaried,718,Washington
+10937,Joshua Taylor,24,90349.71,Contractor,719,Michigan
+10938,David Martin,32,83695.34,Salaried,729,Massachusetts
+10939,Andrew Moore,34,54927.87,Salaried,788,Ohio
+10940,Emily Wilson,28,128258.24,Salaried,681,Michigan
+10941,David White,36,69735.51,Salaried,731,New Jersey
+10942,Thomas Clark,60,122783.68,Self-Employed,722,Washington
+10943,Charles Harris,61,83644.07,Salaried,640,Virginia
+10944,David Anderson,54,168540.07,Self-Employed,825,Florida
+10945,Rachel Anderson,45,80901.35,Business Owner,781,Georgia
+10946,James Jones,29,58262.59,Salaried,645,Texas
+10947,Robert Wilson,26,150171.07,Retired,703,Illinois
+10948,Ashley Brown,36,45054.21,Retired,605,Arizona
+10949,Rachel Clark,48,73189.42,Self-Employed,697,Virginia
+10950,Matthew Miller,65,75709.19,Self-Employed,687,Washington
+10951,Michael Taylor,24,143150.23,Salaried,760,Arizona
+10952,Andrew Williams,32,108547.35,Self-Employed,602,Massachusetts
+10953,Rachel Davis,53,94919.6,Retired,624,New York
+10954,Kenneth Thomas,59,188812.81,Self-Employed,623,New Jersey
+10955,Sarah Moore,23,92062.03,Salaried,610,Georgia
+10956,Elizabeth Johnson,45,46091.8,Salaried,662,New York
+10957,Emily Martin,64,50274,Self-Employed,737,Pennsylvania
+10958,Amanda Clark,58,43772.92,Salaried,762,California
+10959,Samantha Jones,67,84889.69,Salaried,647,Arizona
+10960,Matthew Jones,37,82894.1,Salaried,717,North Carolina
+10961,Michael Thompson,61,101383.46,Contractor,707,New Jersey
+10962,Samantha Taylor,40,95762.41,Business Owner,616,California
+10963,Samantha Anderson,28,93566.83,Business Owner,787,Georgia
+10964,Ashley Anderson,28,192843.05,Self-Employed,600,Georgia
+10965,Emily Clark,54,100266.22,Business Owner,802,Massachusetts
+10966,Matthew Martin,53,57451.14,Self-Employed,601,Michigan
+10967,Amanda Thomas,52,68201.51,Salaried,752,Virginia
+10968,Anthony Brown,66,67880.62,Salaried,629,New York
+10969,Jessica Robinson,26,82606.06,Self-Employed,691,Michigan
+10970,Matthew Wilson,39,42528.72,Salaried,688,Michigan
+10971,David Davis,31,142854.74,Self-Employed,668,Illinois
+10972,Kenneth Thompson,40,47098.56,Contractor,756,Illinois
+10973,Lauren Garcia,63,108096.35,Contractor,741,California
+10974,Paul Anderson,56,129545.9,Salaried,808,Massachusetts
+10975,David Jackson,38,119420.59,Salaried,644,Virginia
+10976,Kenneth Wilson,53,93671.14,Self-Employed,557,Massachusetts
+10977,Joshua Clark,56,88143.44,Salaried,784,Virginia
+10978,Ashley Davis,57,187997.57,Salaried,701,Washington
+10979,Rachel Davis,64,124073.24,Salaried,700,North Carolina
+10980,William Harris,30,45732.81,Salaried,788,Virginia
+10981,Jessica Robinson,46,115245.47,Business Owner,722,North Carolina
+10982,Robert White,60,51141.18,Self-Employed,635,Washington
+10983,Lauren Jackson,47,126889.55,Salaried,762,Arizona
+10984,Elizabeth Williams,64,125679.45,Self-Employed,783,Texas
+10985,James Miller,61,298676.83,Salaried,611,Georgia
+10986,Samantha Thompson,53,93481.36,Contractor,702,Virginia
+10987,Ashley Williams,67,79114.36,Salaried,625,Michigan
+10988,Lauren Robinson,24,75896.09,Self-Employed,814,Washington
+10989,Matthew Robinson,62,116664.88,Salaried,828,Virginia
+10990,Joseph White,48,111953.1,Contractor,766,Arizona
+10991,Paul Davis,61,109840.76,Retired,737,New York
+10992,Richard Robinson,43,156970.8,Salaried,725,California
+10993,Elizabeth Thompson,23,112422.94,Salaried,619,Texas
+10994,Daniel Martin,65,43089.84,Contractor,734,New Jersey
+10995,Lauren Williams,52,70150.7,Retired,791,Ohio
+10996,Amanda White,47,92669.87,Business Owner,754,New York
+10997,Steven Garcia,42,109534.44,Salaried,740,Massachusetts
+10998,Kenneth Jones,43,50124,Salaried,697,Michigan
+10999,Sarah Miller,32,150607.07,Business Owner,611,Pennsylvania
+11000,Daniel Moore,44,73213.47,Business Owner,720,North Carolina
+11001,Paul Garcia,62,136795.78,Salaried,850,Massachusetts
+11002,Joseph Johnson,35,132305.8,Self-Employed,623,Pennsylvania
+11003,Sarah Martin,32,64381.93,Salaried,637,Illinois
+11004,William Jackson,66,121049.45,Self-Employed,614,California
+11005,Steven Martin,62,154872.87,Self-Employed,684,Texas
+11006,Robert Brown,52,94292.13,Self-Employed,815,North Carolina
+11007,Michael Clark,50,120451.59,Self-Employed,717,Michigan
+11008,Sarah Brown,54,50257.38,Self-Employed,812,Ohio
+11009,James Garcia,34,49837.7,Salaried,693,Washington
+11010,Steven Anderson,51,107843.74,Salaried,686,Arizona
+11011,Emily Martin,42,36363.88,Business Owner,845,California
+11012,Anthony Davis,30,65129.77,Self-Employed,807,Florida
+11013,William Wilson,28,83831.45,Contractor,623,Texas
+11014,Amanda Martinez,53,121071.86,Salaried,776,Massachusetts
+11015,Richard Wilson,46,170249.58,Self-Employed,661,Michigan
+11016,Mark Thomas,32,140738.25,Salaried,622,Georgia
+11017,Matthew White,27,47481.22,Salaried,738,Arizona
+11018,Emily Anderson,29,74717.59,Self-Employed,614,New Jersey
+11019,James Harris,47,107741.03,Contractor,739,California
+11020,Jennifer Robinson,42,72209.48,Salaried,787,Florida
+11021,Paul Moore,65,107753.28,Self-Employed,660,Arizona
+11022,David Garcia,46,54106.89,Salaried,775,Illinois
+11023,Michael Jones,65,55302.85,Salaried,627,Texas
+11024,Steven Thomas,47,316321.03,Salaried,732,Illinois
+11025,Joshua Jones,48,70595.79,Salaried,724,Ohio
+11026,Joseph Jones,65,84086.19,Salaried,724,Texas
+11027,Charles White,25,149856.95,Salaried,698,North Carolina
+11028,Richard Anderson,38,87760.04,Salaried,760,Arizona
+11029,Emily Clark,30,169448.63,Salaried,736,Illinois
+11030,Ashley Martin,55,303400.16,Salaried,638,Michigan
+11031,Matthew Miller,48,101425.68,Self-Employed,767,Georgia
+11032,Emily White,37,350000,Salaried,819,North Carolina
+11033,Ashley Johnson,42,72793.73,Contractor,630,Illinois
+11034,Joseph Harris,58,30000,Salaried,531,New Jersey
+11035,Samantha Garcia,38,105310.39,Salaried,761,Texas
+11036,Ashley Garcia,51,117500.73,Self-Employed,790,North Carolina
+11037,Lauren Williams,53,48528.96,Contractor,631,California
+11038,Amanda Williams,42,46584.09,Salaried,850,Pennsylvania
+11039,Mark Harris,56,57939.43,Salaried,657,Massachusetts
+11040,Daniel Miller,41,39566.2,Self-Employed,812,Washington
+11041,Joseph Robinson,54,88090.41,Salaried,790,Texas
+11042,James Jackson,43,63134.71,Self-Employed,807,North Carolina
+11043,Michael Jackson,42,201695.66,Retired,707,Florida
+11044,Ashley Thompson,48,149912.76,Business Owner,833,Virginia
+11045,David Martinez,32,78571.05,Salaried,665,Florida
+11046,Charles Taylor,60,79846.61,Salaried,777,New Jersey
+11047,Samantha Jackson,63,173731.23,Salaried,765,Georgia
+11048,Elizabeth Johnson,33,129334.49,Self-Employed,712,Pennsylvania
+11049,Elizabeth Robinson,36,42979.76,Salaried,734,New York
+11050,William Martinez,37,96361.42,Business Owner,673,Texas
+11051,Andrew Johnson,61,108624.17,Salaried,800,Michigan
+11052,Jessica Wilson,55,97656.91,Salaried,633,New York
+11053,Joseph Martinez,46,138947.41,Contractor,727,Illinois
+11054,Thomas Jackson,40,70967.85,Salaried,529,Ohio
+11055,Charles Davis,59,37530.06,Self-Employed,787,Ohio
+11056,Andrew Wilson,51,146332.48,Salaried,685,Washington
+11057,Paul Harris,24,53500.54,Retired,713,Michigan
+11058,Paul Harris,67,70642.55,Business Owner,686,Arizona
+11059,Jennifer Williams,29,99715.69,Salaried,723,New Jersey
+11060,Michael Moore,46,44858.74,Salaried,691,Georgia
+11061,Jessica Garcia,55,81226.02,Self-Employed,811,California
+11062,Mark Garcia,61,52216.72,Self-Employed,781,New Jersey
+11063,David Harris,28,62689.03,Business Owner,642,Michigan
+11064,Sarah Garcia,23,53226.05,Self-Employed,548,Ohio
+11065,James Harris,60,48575.2,Self-Employed,810,New Jersey
+11066,Paul Garcia,52,128229.36,Business Owner,718,New York
+11067,Elizabeth Wilson,27,118727.08,Salaried,667,Texas
+11068,Andrew Johnson,52,90725.3,Salaried,757,Ohio
+11069,Michael Johnson,59,64806.33,Retired,542,California
+11070,Emily Jackson,47,47595.45,Business Owner,662,Illinois
+11071,Samantha Anderson,44,30000,Salaried,754,New York
+11072,Elizabeth Garcia,26,64378.44,Business Owner,639,Illinois
+11073,William Brown,38,72272.06,Salaried,596,Texas
+11074,Jennifer Garcia,34,98507.58,Salaried,673,California
+11075,Jennifer Wilson,35,133162.83,Salaried,697,Ohio
+11076,Jennifer Williams,49,82705.39,Salaried,696,Arizona
+11077,Rachel Wilson,29,87998.86,Retired,789,Washington
+11078,David Anderson,24,62679.25,Salaried,742,New York
+11079,Ashley Jones,60,78603.88,Salaried,679,Texas
+11080,James Williams,46,109052.91,Salaried,737,Ohio
+11081,Mark Clark,55,54134.41,Salaried,731,Michigan
+11082,Joshua Moore,47,82411.17,Salaried,807,Virginia
+11083,Andrew Thomas,36,87316.05,Salaried,763,Florida
+11084,William Johnson,67,53872.62,Contractor,850,New Jersey
+11085,William Johnson,55,49700.15,Salaried,746,Illinois
+11086,Jessica White,66,163036.55,Contractor,688,Texas
+11087,Ashley Davis,41,124521.59,Salaried,691,Pennsylvania
+11088,Paul Miller,49,71889.64,Self-Employed,608,New York
+11089,Kenneth Brown,23,83157.97,Salaried,637,New Jersey
+11090,Robert Thompson,63,123727.4,Contractor,715,Virginia
+11091,Richard Robinson,39,52453.13,Retired,778,Ohio
+11092,Thomas Wilson,50,83471.5,Salaried,652,New Jersey
+11093,Amanda Wilson,23,127290.14,Contractor,633,Virginia
+11094,Richard Miller,48,57151.96,Salaried,754,Texas
+11095,Amanda Brown,51,94489.04,Salaried,635,California
+11096,Mark Davis,40,33345.03,Self-Employed,850,Michigan
+11097,Matthew Garcia,39,87822.89,Salaried,811,Illinois
+11098,Emily Johnson,57,79918.04,Salaried,735,Illinois
+11099,Sarah Garcia,63,211500.61,Salaried,695,Texas
+11100,Emily Johnson,30,94741.76,Salaried,706,Ohio
+11101,Paul Thomas,64,68048.84,Salaried,735,Florida
+11102,James Thompson,31,109854.41,Business Owner,672,Massachusetts
+11103,William Davis,46,94645.72,Salaried,668,New Jersey
+11104,Charles Martinez,52,53708.94,Business Owner,625,Washington
+11105,Lauren Thompson,61,85661.78,Salaried,799,New York
+11106,Daniel White,56,216187.44,Salaried,650,Georgia
+11107,Emily Wilson,66,104998.8,Salaried,703,Florida
+11108,Joseph Williams,26,41521.14,Contractor,847,Georgia
+11109,Mark Jackson,60,76058.02,Salaried,709,Ohio
+11110,Jessica Jones,67,102895.18,Retired,639,Texas
+11111,Emily Martinez,24,81752.4,Contractor,743,Massachusetts
+11112,Amanda Martinez,58,170538.38,Salaried,624,Illinois
+11113,Amanda Taylor,23,70099.84,Self-Employed,711,New York
+11114,Rachel Harris,32,188688.25,Salaried,715,New York
+11115,Mark Martin,39,63932.03,Salaried,648,Arizona
+11116,Lauren Davis,57,86234.11,Salaried,718,Texas
+11117,James Brown,49,152026.75,Salaried,692,Illinois
+11118,Jessica Moore,30,40063.36,Salaried,704,Arizona
+11119,James Thomas,45,56252.37,Contractor,671,Illinois
+11120,Samantha Harris,58,113353.15,Salaried,684,Virginia
+11121,Lauren Harris,33,176214.32,Business Owner,634,Ohio
+11122,John Johnson,36,62496.42,Salaried,850,Illinois
+11123,Amanda Robinson,62,112746.33,Self-Employed,850,Ohio
+11124,Andrew Jones,31,49450.22,Self-Employed,702,Ohio
+11125,Elizabeth Jones,37,111489.38,Self-Employed,749,Washington
+11126,Amanda Johnson,39,183047.15,Salaried,691,Massachusetts
+11127,Mark Taylor,51,74558.8,Self-Employed,616,New Jersey
+11128,Joshua Robinson,49,68819.96,Salaried,680,California
+11129,Kenneth Harris,45,160164.48,Business Owner,850,New Jersey
+11130,Jennifer Taylor,49,120019.04,Self-Employed,712,Massachusetts
+11131,Jessica Martinez,55,138492.84,Salaried,554,Texas
+11132,James Robinson,38,151256.21,Self-Employed,715,North Carolina
+11133,Elizabeth Jackson,40,81974.3,Contractor,697,North Carolina
+11134,Emily Thompson,56,138678.98,Salaried,842,California
+11135,Kenneth Clark,38,204742.81,Salaried,715,Georgia
+11136,Emily Anderson,44,72028.4,Salaried,638,Georgia
+11137,Thomas Jackson,29,131850.25,Salaried,627,Washington
+11138,Emily Harris,42,70357.63,Salaried,615,Massachusetts
+11139,Ashley Thomas,62,172376.73,Salaried,728,California
+11140,Michael Davis,53,112747.29,Self-Employed,579,California
+11141,Andrew Miller,63,46404.7,Salaried,631,Texas
+11142,Steven Martinez,55,94272.42,Salaried,697,California
+11143,Joseph Martinez,48,66920.12,Contractor,803,Illinois
+11144,Rachel Williams,66,128060.06,Salaried,722,Pennsylvania
+11145,Samantha Martin,64,79356.21,Contractor,682,Massachusetts
+11146,Matthew Harris,25,81429.29,Salaried,705,Illinois
+11147,Michael Taylor,29,117517.94,Salaried,771,Illinois
+11148,Matthew Wilson,66,68872.24,Salaried,733,California
+11149,Jennifer Davis,48,30000,Contractor,782,Ohio
+11150,Joshua Martin,32,66268.07,Salaried,778,Georgia
+11151,Amanda Taylor,61,64582.48,Business Owner,692,Virginia
+11152,Amanda Harris,28,176636.77,Salaried,636,Arizona
+11153,David Harris,48,39276.47,Salaried,704,North Carolina
+11154,Daniel Clark,52,199786.66,Retired,749,Pennsylvania
+11155,Jennifer Harris,24,91765.45,Retired,690,Virginia
+11156,Sarah Johnson,33,104183.49,Salaried,616,Ohio
+11157,Jennifer Jones,56,78967.61,Contractor,706,Georgia
+11158,Ashley Jackson,52,78419.94,Self-Employed,687,Arizona
+11159,Rachel Anderson,25,64918.32,Contractor,703,Arizona
+11160,Emily Taylor,43,224017.65,Contractor,717,California
+11161,Andrew Davis,41,61156.49,Retired,792,Washington
+11162,Sarah Brown,66,106417.57,Self-Employed,617,Illinois
+11163,William Anderson,50,93758.57,Retired,565,California
+11164,Robert Anderson,57,86794.74,Salaried,766,Arizona
+11165,Daniel Brown,33,137388.29,Contractor,713,North Carolina
+11166,Sarah Robinson,43,110795.8,Self-Employed,643,Massachusetts
+11167,Rachel Davis,56,36896.09,Contractor,625,Virginia
+11168,Megan Robinson,53,38399.95,Business Owner,639,Florida
+11169,Joshua Johnson,31,66759.02,Salaried,791,Pennsylvania
+11170,John White,25,166828.77,Business Owner,674,Texas
+11171,Kenneth Thomas,23,212513.48,Salaried,680,Florida
+11172,Joshua White,46,71817.85,Salaried,585,Virginia
+11173,Daniel Garcia,26,87933.32,Retired,680,Georgia
+11174,Jessica Wilson,59,49762.64,Retired,718,Florida
+11175,Jessica Harris,41,100157.51,Salaried,790,Virginia
+11176,Thomas Jones,45,98870.32,Salaried,719,Virginia
+11177,Thomas Thompson,36,63189.54,Salaried,622,Massachusetts
+11178,William Thomas,41,80942.61,Self-Employed,563,Texas
+11179,Lauren Johnson,40,107813.66,Salaried,689,New Jersey
+11180,Andrew Miller,34,194136.81,Salaried,771,Florida
+11181,Elizabeth Williams,66,215233.3,Salaried,617,Washington
+11182,Joshua Martin,43,296780.66,Salaried,719,Arizona
+11183,Michael Moore,53,63466.74,Retired,611,Georgia
+11184,William Thomas,58,30000,Salaried,850,New York
+11185,James White,53,89509.1,Business Owner,653,New Jersey
+11186,Thomas Wilson,55,49443.76,Self-Employed,607,Virginia
+11187,Amanda Clark,44,109182.8,Retired,719,California
+11188,Steven Thompson,29,72400.54,Salaried,603,Texas
+11189,Matthew White,30,59931.09,Salaried,603,New York
+11190,Matthew Brown,37,83277.95,Business Owner,700,Arizona
+11191,Megan Wilson,43,139943.92,Salaried,795,Pennsylvania
+11192,Daniel Wilson,40,102675.36,Salaried,666,New Jersey
+11193,Jennifer Martin,67,85009.98,Salaried,658,Washington
+11194,David Johnson,41,57340.03,Self-Employed,559,Florida
+11195,Kenneth Williams,56,49798.46,Salaried,764,Arizona
+11196,William Thompson,66,102103.63,Business Owner,687,Washington
+11197,Jessica Wilson,51,70323.12,Business Owner,644,Washington
+11198,Jessica Miller,59,53352.2,Salaried,795,Texas
+11199,Steven Williams,58,111048.57,Contractor,597,Washington
+11200,Jennifer Johnson,34,85260.92,Contractor,804,New York
+11201,Lauren Moore,36,74551.88,Business Owner,631,New Jersey
+11202,Thomas Taylor,51,182457.65,Business Owner,783,New Jersey
+11203,Kenneth Clark,24,62454.71,Salaried,631,Virginia
+11204,Lauren Harris,33,135994.05,Retired,625,Ohio
+11205,Rachel Jones,26,91558.39,Retired,736,Arizona
+11206,James Harris,42,105985.84,Salaried,698,Texas
+11207,Lauren Anderson,54,90073.46,Self-Employed,763,Georgia
+11208,Megan Martin,49,136675.89,Business Owner,651,Michigan
+11209,Ashley Davis,56,178849.31,Business Owner,677,New York
+11210,Jennifer Harris,41,45592.22,Business Owner,726,Illinois
+11211,Jennifer Clark,26,153169.3,Salaried,597,Massachusetts
+11212,Paul Clark,45,75092.05,Salaried,662,Illinois
+11213,Daniel Jackson,62,101913.15,Contractor,653,Virginia
+11214,Samantha Johnson,46,98772.98,Salaried,691,Florida
+11215,Joseph Johnson,56,66714.81,Salaried,665,Florida
+11216,Jessica Miller,28,65363.9,Salaried,660,Georgia
+11217,William Johnson,34,94142.46,Salaried,705,Texas
+11218,Ashley Miller,34,64134.96,Business Owner,553,Pennsylvania
+11219,Lauren Martinez,33,119861.51,Salaried,652,California
+11220,Daniel Davis,48,41744.33,Contractor,659,Michigan
+11221,Megan Davis,64,78614.02,Contractor,713,Ohio
+11222,Joshua Garcia,50,165804.21,Salaried,648,Ohio
+11223,Elizabeth Thompson,25,78886.92,Self-Employed,642,North Carolina
+11224,Kenneth Davis,65,54628.02,Contractor,568,Illinois
+11225,Joseph Thomas,28,82438.79,Salaried,708,Pennsylvania
+11226,Rachel Jackson,24,52845.05,Salaried,611,Arizona
+11227,Matthew Martin,26,124498.22,Self-Employed,762,North Carolina
+11228,William Williams,64,90432.31,Contractor,729,New York
+11229,Matthew Thompson,52,76075.21,Salaried,594,Illinois
+11230,Elizabeth Johnson,29,119801.57,Self-Employed,673,Florida
+11231,William Jackson,62,82232.93,Business Owner,782,Pennsylvania
+11232,Ashley Robinson,55,60969.96,Business Owner,675,Arizona
+11233,Anthony Brown,63,72914.63,Salaried,753,Massachusetts
+11234,Joseph Thompson,42,58795.06,Salaried,656,Washington
+11235,Emily Wilson,41,50451.01,Self-Employed,730,Michigan
+11236,Andrew Jones,67,114262.47,Self-Employed,501,Texas
+11237,Andrew Thomas,29,62077.19,Salaried,742,Illinois
+11238,William Brown,32,63458.1,Self-Employed,556,Pennsylvania
+11239,Jennifer Moore,40,130863.82,Salaried,626,Virginia
+11240,William Jackson,25,44857.73,Salaried,677,Pennsylvania
+11241,Steven Thompson,51,57351.46,Salaried,771,Georgia
+11242,William Garcia,48,65263.68,Self-Employed,632,Washington
+11243,Samantha Martinez,43,181173.35,Salaried,726,Georgia
+11244,William Taylor,56,78071.76,Business Owner,669,Texas
+11245,Daniel Robinson,46,92374.24,Salaried,841,Georgia
+11246,Megan Martinez,59,87535.6,Salaried,582,Texas
+11247,Elizabeth Taylor,66,46993.46,Contractor,850,Michigan
+11248,James Williams,63,101715.23,Self-Employed,690,North Carolina
+11249,Richard Wilson,48,127789.89,Self-Employed,731,Pennsylvania
+11250,Paul Martin,54,192311.9,Self-Employed,707,Georgia
+11251,Richard Jackson,40,77384.46,Salaried,660,Florida
+11252,Steven Brown,67,113306.82,Salaried,696,Pennsylvania
+11253,Joseph Martinez,34,132310.91,Business Owner,664,Massachusetts
+11254,Steven White,24,88295.14,Salaried,780,New York
+11255,Daniel Williams,40,234500.55,Self-Employed,790,New Jersey
+11256,Thomas Garcia,38,218006.45,Business Owner,661,Texas
+11257,Megan Thomas,46,172572.81,Salaried,745,Michigan
+11258,Emily Wilson,27,46875.49,Self-Employed,748,California
+11259,Megan Thomas,61,76176.68,Salaried,660,Virginia
+11260,Emily Thomas,55,124550.55,Salaried,809,North Carolina
+11261,Andrew Clark,65,89694.66,Salaried,721,Georgia
+11262,Paul Harris,44,38117.15,Contractor,651,Georgia
+11263,Anthony Miller,33,96187.31,Salaried,721,Michigan
+11264,William Moore,47,227419.47,Self-Employed,571,New York
+11265,Joshua Williams,23,189979.07,Contractor,653,Illinois
+11266,Lauren Wilson,35,130111.73,Business Owner,824,New Jersey
+11267,Lauren Garcia,33,90029.42,Business Owner,692,Pennsylvania
+11268,Michael Moore,62,86775.5,Salaried,705,Texas
+11269,William Garcia,33,99762.95,Self-Employed,667,Illinois
+11270,Daniel Davis,44,68399.31,Business Owner,630,New Jersey
+11271,Amanda White,59,69138.49,Self-Employed,638,Massachusetts
+11272,James Johnson,23,94480.52,Salaried,850,Illinois
+11273,James Williams,31,232620.2,Business Owner,668,Virginia
+11274,Anthony Moore,30,114554.71,Salaried,690,Washington
+11275,Daniel Robinson,23,98270.58,Self-Employed,653,Arizona
+11276,Andrew Martin,50,146778.36,Business Owner,643,Michigan
+11277,David Jones,35,194641.44,Self-Employed,665,California
+11278,Joseph Miller,51,152934.4,Business Owner,761,Virginia
+11279,Jessica Anderson,57,52994.98,Salaried,547,Washington
+11280,Robert White,57,199682.87,Self-Employed,642,North Carolina
+11281,William Robinson,38,132893.95,Salaried,786,Michigan
+11282,James White,32,47850.9,Retired,619,Ohio
+11283,Matthew Thompson,66,74195.9,Salaried,801,Texas
+11284,Samantha Wilson,28,30671.39,Salaried,668,Michigan
+11285,Kenneth Thompson,54,59178.33,Business Owner,560,Pennsylvania
+11286,Steven Taylor,42,83517.61,Contractor,741,Florida
+11287,Matthew Martin,66,100202.18,Contractor,551,New York
+11288,Rachel Miller,26,72069.2,Salaried,700,California
+11289,Thomas Martin,42,95395.6,Business Owner,727,Ohio
+11290,Matthew Jones,52,67757.9,Salaried,720,Arizona
+11291,John Davis,39,106064.51,Business Owner,669,Georgia
+11292,Paul Miller,60,86120.13,Salaried,784,Massachusetts
+11293,Jessica Moore,63,115305.45,Business Owner,641,Florida
+11294,Charles Jones,42,135809.68,Salaried,792,Pennsylvania
+11295,Anthony White,40,123511.66,Salaried,635,Texas
+11296,Joshua White,25,76936.95,Business Owner,696,Michigan
+11297,Matthew Jones,56,37530.83,Salaried,636,Massachusetts
+11298,Rachel Thompson,64,109657.27,Business Owner,614,Illinois
+11299,Megan Harris,31,43484.01,Salaried,633,Washington
+11300,Jennifer Clark,65,125591.28,Retired,573,Washington
+11301,Charles Martinez,38,152716.07,Contractor,687,New York
+11302,Joshua Robinson,38,139788.87,Business Owner,577,Massachusetts
+11303,Lauren Robinson,30,156287.46,Salaried,719,Virginia
+11304,Samantha Robinson,56,145348.53,Salaried,806,Georgia
+11305,Sarah Clark,61,56926.9,Business Owner,683,Arizona
+11306,Samantha Clark,31,46237.15,Salaried,790,Washington
+11307,Paul Wilson,37,30000,Contractor,624,Georgia
+11308,David Williams,58,90344.76,Retired,684,Virginia
+11309,Sarah Robinson,34,107260.5,Salaried,663,Arizona
+11310,Emily Davis,27,101355.74,Business Owner,728,Illinois
+11311,David Martinez,67,83286.74,Retired,843,North Carolina
+11312,John Clark,54,137499.72,Salaried,676,Arizona
+11313,David White,66,99130.42,Salaried,634,Florida
+11314,Elizabeth Miller,35,39618,Self-Employed,779,Florida
+11315,Robert Harris,46,43759.23,Business Owner,842,Ohio
+11316,Megan Garcia,45,155308.61,Business Owner,725,Massachusetts
+11317,Anthony Brown,65,109745.1,Salaried,788,Texas
+11318,David Martinez,51,42456.33,Salaried,762,Texas
+11319,Paul Martin,45,159549.01,Retired,750,Michigan
+11320,Jennifer Robinson,60,70047.51,Salaried,565,Florida
+11321,Thomas Davis,61,152027.16,Self-Employed,819,Massachusetts
+11322,Kenneth Robinson,43,69280.72,Self-Employed,850,Illinois
+11323,Elizabeth Brown,58,149598,Business Owner,636,Massachusetts
+11324,Megan Martin,45,124446.08,Retired,657,California
+11325,Jennifer Robinson,30,68973.17,Business Owner,703,Texas
+11326,John Jackson,31,68494.6,Contractor,686,Ohio
+11327,James Brown,67,163848.88,Self-Employed,710,New York
+11328,Charles Clark,39,101839.8,Salaried,744,Massachusetts
+11329,Emily Jackson,50,50624.08,Salaried,691,New Jersey
+11330,Robert Miller,45,53424.94,Retired,781,New York
+11331,James Robinson,60,67318.62,Self-Employed,630,Texas
+11332,Anthony Garcia,42,78554.03,Salaried,753,California
+11333,John Robinson,53,47411.94,Salaried,757,Massachusetts
+11334,Andrew White,48,194539.01,Business Owner,737,Texas
+11335,Jessica Jones,67,54099.12,Self-Employed,746,North Carolina
+11336,Steven Jackson,67,51588.14,Salaried,727,Arizona
+11337,Amanda Thomas,42,34950.97,Business Owner,659,Washington
+11338,Joshua Thomas,27,78337.14,Salaried,678,Illinois
+11339,Charles Anderson,43,73277.25,Salaried,602,North Carolina
+11340,Jennifer Miller,44,120879.01,Salaried,820,Virginia
+11341,Matthew Miller,56,67325.93,Salaried,599,Washington
+11342,Sarah Johnson,23,83010.76,Business Owner,731,Illinois
+11343,Mark Wilson,39,78630.56,Business Owner,648,California
+11344,Kenneth Moore,28,84707.96,Contractor,747,Pennsylvania
+11345,Richard Harris,42,70108.73,Salaried,668,Virginia
+11346,Amanda Thomas,34,61820.76,Salaried,850,North Carolina
+11347,Jessica Taylor,38,93032.77,Salaried,745,Florida
+11348,Andrew Williams,65,144902.11,Salaried,740,Georgia
+11349,Joshua Jones,25,287518.54,Salaried,669,Georgia
+11350,Megan Davis,61,50528.44,Salaried,653,Illinois
+11351,David Williams,59,54806.6,Salaried,628,Pennsylvania
+11352,James Miller,23,79693.88,Self-Employed,758,Virginia
+11353,Joseph Moore,53,129283.4,Salaried,626,Florida
+11354,James Jones,55,95672.36,Business Owner,735,Virginia
+11355,Megan Miller,62,63233.61,Salaried,659,Florida
+11356,Samantha Thompson,27,128065.84,Salaried,712,Ohio
+11357,Robert Wilson,25,44622.73,Self-Employed,625,North Carolina
+11358,James Wilson,46,71090.07,Contractor,699,Illinois
+11359,Anthony Thompson,28,57075.65,Business Owner,609,Georgia
+11360,Daniel Thompson,39,52351.2,Retired,700,Illinois
+11361,Paul Martin,24,44739.69,Business Owner,661,Virginia
+11362,Charles Jackson,59,61714.1,Self-Employed,637,Illinois
+11363,James Johnson,38,60479.35,Salaried,661,Illinois
+11364,Ashley Martinez,45,40545.77,Salaried,730,Florida
+11365,Robert White,33,41225.95,Salaried,590,Florida
+11366,Michael Robinson,56,58157.66,Salaried,659,Illinois
+11367,John Brown,44,106350.55,Self-Employed,500,Massachusetts
+11368,Jennifer Williams,55,47642.7,Salaried,817,Georgia
+11369,William Robinson,61,100817.21,Salaried,778,New Jersey
+11370,Robert Davis,63,84495.18,Salaried,741,California
+11371,Megan Clark,56,105740.54,Salaried,728,Arizona
+11372,Michael Thompson,53,37975.89,Salaried,687,Florida
+11373,Lauren Jones,31,55044.65,Contractor,791,New York
+11374,Paul White,52,112845.26,Salaried,671,Michigan
+11375,Daniel Davis,44,215661.14,Contractor,657,Arizona
+11376,Matthew Garcia,39,61736.22,Contractor,654,California
+11377,James White,43,36785.05,Salaried,785,Washington
+11378,Paul Martin,46,97134.88,Salaried,708,Georgia
+11379,Jessica Miller,25,165431.6,Self-Employed,761,California
+11380,Mark Anderson,28,91469.79,Salaried,736,Virginia
+11381,Steven Moore,35,60560.1,Self-Employed,850,Michigan
+11382,Jennifer Martin,58,60921.18,Contractor,590,Illinois
+11383,Matthew Robinson,55,137692.85,Salaried,643,Michigan
+11384,Paul Davis,24,281176.31,Retired,657,New Jersey
+11385,Emily Taylor,62,167225.99,Salaried,733,Florida
+11386,Lauren Martinez,28,114757.22,Retired,717,Pennsylvania
+11387,James Miller,60,106949.68,Business Owner,705,Arizona
+11388,Anthony Harris,41,80844.25,Contractor,710,New Jersey
+11389,Kenneth Martinez,55,90460.78,Salaried,676,Georgia
+11390,William White,42,79953.46,Salaried,734,Virginia
+11391,Samantha Williams,58,35138.5,Self-Employed,733,Ohio
+11392,Sarah Harris,67,30000,Contractor,827,California
+11393,John Anderson,24,106558.41,Contractor,739,Arizona
+11394,John Miller,52,77844.28,Self-Employed,742,Illinois
+11395,Sarah Martinez,62,60816.08,Contractor,647,Florida
+11396,Sarah Martin,42,91912.26,Business Owner,717,Arizona
+11397,Matthew Jones,32,92042.02,Salaried,639,Georgia
+11398,Andrew Harris,65,51131.81,Contractor,757,California
+11399,Elizabeth Jackson,30,47009.78,Salaried,818,Arizona
+11400,Rachel Garcia,66,120644.78,Salaried,758,Georgia
+11401,Lauren Harris,33,52046.72,Business Owner,731,Massachusetts
+11402,Joseph Garcia,48,89160.67,Business Owner,651,Washington
+11403,Kenneth Martin,33,85333.61,Contractor,685,New Jersey
+11404,Thomas Johnson,35,71662.62,Business Owner,754,Texas
+11405,Rachel Taylor,24,73440.05,Contractor,739,Georgia
+11406,Joshua Johnson,41,80760.7,Self-Employed,620,Virginia
+11407,Megan Miller,32,79658.25,Business Owner,649,North Carolina
+11408,James Miller,64,47198.82,Retired,526,Georgia
+11409,William Taylor,63,75302.5,Salaried,729,Washington
+11410,Emily Davis,52,113722.13,Salaried,744,Massachusetts
+11411,David Jones,58,180307.85,Salaried,615,Texas
+11412,William Martinez,35,165494.52,Business Owner,723,New York
+11413,Paul Johnson,57,30000,Salaried,638,Florida
+11414,Anthony Taylor,45,134753.93,Business Owner,644,New York
+11415,Jessica White,27,83575.84,Salaried,803,Washington
+11416,Jessica Brown,54,49542.38,Retired,750,Florida
+11417,James Taylor,35,75138.27,Salaried,609,Georgia
+11418,Charles Davis,41,156188.31,Salaried,655,California
+11419,Samantha Martinez,25,91538.84,Salaried,740,New Jersey
+11420,Amanda Johnson,49,67915.62,Business Owner,788,Georgia
+11421,Richard Johnson,33,57668.32,Salaried,666,Florida
+11422,Thomas Taylor,67,76044.79,Salaried,708,California
+11423,Thomas Martin,28,72433.01,Salaried,730,Arizona
+11424,Robert Martinez,29,52078.07,Contractor,660,New York
+11425,Michael Thomas,51,37762.96,Self-Employed,637,New Jersey
+11426,Joshua Clark,53,51876,Business Owner,698,Virginia
+11427,James Harris,55,94644.31,Retired,619,California
+11428,Elizabeth Clark,62,30000,Business Owner,826,Texas
+11429,Amanda Martinez,28,51207.32,Contractor,713,Georgia
+11430,James Martinez,47,262238.12,Salaried,612,Pennsylvania
+11431,Charles Anderson,43,107569.39,Self-Employed,612,Florida
+11432,James Martinez,45,208169.09,Retired,728,New Jersey
+11433,Matthew Harris,24,136811.3,Salaried,742,California
+11434,Andrew Williams,37,138769.51,Salaried,603,Michigan
+11435,Samantha Johnson,57,120530.17,Self-Employed,672,Ohio
+11436,John Williams,46,64294.86,Retired,720,Illinois
+11437,Mark Taylor,44,93875,Salaried,767,Ohio
+11438,Amanda Johnson,56,175381.87,Business Owner,772,Georgia
+11439,Rachel Moore,67,96143.32,Contractor,696,Washington
+11440,Megan Brown,57,72684.24,Contractor,530,New Jersey
+11441,Matthew Anderson,49,81280.72,Salaried,667,Virginia
+11442,Mark Williams,51,171156.22,Retired,706,Washington
+11443,Mark Johnson,62,44581.3,Retired,657,California
+11444,Mark Robinson,51,210134.74,Salaried,735,California
+11445,James Harris,55,73737.5,Self-Employed,687,Michigan
+11446,Andrew White,59,76436.37,Salaried,602,Texas
+11447,Michael Clark,58,66484.84,Salaried,535,Florida
+11448,Jessica Jackson,27,90830.03,Salaried,625,Illinois
+11449,William Robinson,24,87782.2,Salaried,634,Illinois
+11450,Richard Harris,47,102550.95,Business Owner,730,Pennsylvania
+11451,David Moore,28,68520.09,Salaried,739,New York
+11452,James Harris,67,48310.83,Self-Employed,771,Washington
+11453,Elizabeth Moore,47,60734.77,Business Owner,624,Florida
+11454,Jennifer Brown,38,51196.68,Salaried,771,Michigan
+11455,John Johnson,45,41418.58,Salaried,692,Arizona
+11456,John Robinson,58,103645.95,Business Owner,614,Virginia
+11457,Andrew Wilson,37,104151.16,Salaried,755,Illinois
+11458,Joseph Garcia,42,34423.5,Salaried,759,Texas
+11459,Mark Moore,64,47015.92,Salaried,789,North Carolina
+11460,Thomas Johnson,36,137632.36,Salaried,623,New Jersey
+11461,Joshua Jackson,48,109222.93,Contractor,605,Georgia
+11462,Jennifer Johnson,40,153907.08,Salaried,783,Pennsylvania
+11463,Megan Martin,28,53738.35,Self-Employed,621,Arizona
+11464,Jessica Wilson,59,30000,Contractor,700,Ohio
+11465,Mark Thompson,37,35823.64,Business Owner,824,Washington
+11466,Matthew Williams,50,97294.99,Salaried,659,New York
+11467,Charles Anderson,30,43543.98,Retired,669,Pennsylvania
+11468,William Williams,56,170181.78,Business Owner,686,Illinois
+11469,Ashley Robinson,62,83324.87,Salaried,736,Massachusetts
+11470,Daniel Miller,38,102433.7,Contractor,799,North Carolina
+11471,Amanda Jackson,23,113002.75,Contractor,647,Michigan
+11472,Daniel Wilson,36,141680.78,Contractor,694,New York
+11473,Rachel Jones,62,88690.6,Business Owner,742,Texas
+11474,Steven Brown,31,100983.21,Salaried,746,Florida
+11475,Emily Jackson,31,33409.04,Self-Employed,715,Virginia
+11476,Joseph Taylor,66,47982.22,Salaried,679,Florida
+11477,Robert Clark,33,103501.32,Salaried,763,Michigan
+11478,Elizabeth Garcia,39,89457.68,Self-Employed,707,New Jersey
+11479,Charles Garcia,38,69039.29,Business Owner,652,Pennsylvania
+11480,Thomas Johnson,58,57253.91,Salaried,672,California
+11481,David Taylor,47,117372.85,Salaried,635,Washington
+11482,Paul Anderson,40,92872.6,Retired,595,New Jersey
+11483,Samantha Garcia,62,69339.92,Salaried,653,New York
+11484,Anthony Miller,47,224661.75,Salaried,687,California
+11485,Kenneth Moore,55,72306.99,Salaried,744,Florida
+11486,Emily Jones,61,58999.69,Salaried,614,Illinois
+11487,Joseph Johnson,50,151239.1,Self-Employed,797,Texas
+11488,Kenneth Clark,32,52712.99,Contractor,500,Massachusetts
+11489,Megan Jackson,53,59408.77,Self-Employed,636,New Jersey
+11490,William Taylor,47,99786.66,Contractor,701,North Carolina
+11491,Anthony Thompson,26,189354.81,Self-Employed,779,New Jersey
+11492,Thomas Taylor,33,67153.55,Salaried,608,Texas
+11493,Steven Garcia,60,30598.27,Salaried,734,Massachusetts
+11494,Lauren Garcia,67,147659.84,Retired,850,Georgia
+11495,Charles Anderson,58,82925.77,Self-Employed,719,New Jersey
+11496,Kenneth Taylor,64,134213.03,Salaried,645,Georgia
+11497,Lauren Anderson,38,107185.16,Salaried,677,New York
+11498,Emily Wilson,43,157141.92,Self-Employed,727,Ohio
+11499,Paul Wilson,37,88932.27,Contractor,604,California
+11500,Robert Thompson,35,34766.2,Business Owner,650,Illinois
+11501,James Jones,23,80407.06,Contractor,686,Florida
+11502,Jessica Jackson,50,178886.04,Salaried,644,Ohio
+11503,Joshua Taylor,49,198073.04,Salaried,731,Texas
+11504,Matthew Garcia,61,150639.26,Salaried,745,Pennsylvania
+11505,Joshua Garcia,51,93789.03,Self-Employed,752,Virginia
+11506,Mark Johnson,52,49231.44,Salaried,836,Florida
+11507,Joshua Thompson,44,178710.99,Retired,735,Georgia
+11508,Sarah Williams,60,50980.84,Salaried,694,New York
+11509,Sarah Harris,37,84827.57,Salaried,663,Florida
+11510,John Johnson,60,74576.11,Salaried,696,New York
+11511,Emily Johnson,49,107931.63,Contractor,661,Ohio
+11512,Lauren Robinson,29,112524.1,Self-Employed,769,Georgia
+11513,Thomas Martinez,58,336933.17,Self-Employed,850,Michigan
+11514,Richard Taylor,44,177579.39,Salaried,688,North Carolina
+11515,Michael Jones,31,81157.56,Self-Employed,785,Arizona
+11516,Jessica Jones,34,73295.27,Salaried,721,Washington
+11517,Richard Miller,47,47196.23,Salaried,636,New York
+11518,Richard Wilson,25,123358.02,Contractor,785,Ohio
+11519,Mark Johnson,49,35325.79,Business Owner,711,California
+11520,Samantha Davis,27,40051.51,Salaried,686,Texas
+11521,Anthony Anderson,55,79864.95,Salaried,674,Washington
+11522,Steven Johnson,66,93653.25,Salaried,610,Texas
+11523,Thomas Martinez,57,68477.39,Retired,713,Ohio
+11524,Michael Harris,61,116391.55,Salaried,759,Georgia
+11525,Ashley Thompson,57,68391.78,Business Owner,709,Arizona
+11526,Robert Harris,63,170735.14,Business Owner,612,California
+11527,Rachel Davis,30,105614.66,Business Owner,605,Pennsylvania
+11528,Jennifer Harris,30,69708.35,Salaried,850,New York
+11529,Megan Martinez,33,53957.77,Salaried,676,Florida
+11530,Richard Robinson,35,203636.22,Business Owner,682,Texas
+11531,Steven Moore,23,67409.78,Business Owner,781,California
+11532,James Martinez,35,39466.61,Retired,715,Pennsylvania
+11533,John Martin,54,116639.84,Contractor,748,Georgia
+11534,Lauren Jones,42,63483.17,Business Owner,600,Michigan
+11535,James Jackson,66,269871.13,Salaried,732,Virginia
+11536,Megan Miller,60,65623.62,Self-Employed,792,Texas
+11537,Sarah Jones,53,43666.2,Salaried,783,Pennsylvania
+11538,Daniel Taylor,47,39832.8,Self-Employed,583,North Carolina
+11539,Steven White,32,32116.06,Salaried,769,Arizona
+11540,Michael Anderson,49,121351.23,Self-Employed,710,Texas
+11541,Thomas Davis,41,214933.38,Salaried,745,Virginia
+11542,Ashley Wilson,61,96163.41,Salaried,726,Washington
+11543,Amanda Jones,56,73865.55,Salaried,741,North Carolina
+11544,James Martin,40,49951.07,Salaried,777,Ohio
+11545,Steven Jones,66,124447,Salaried,743,Massachusetts
+11546,Emily Jackson,62,45751.04,Salaried,609,Texas
+11547,Anthony Garcia,64,63901.8,Business Owner,792,California
+11548,Megan Robinson,67,72438.52,Retired,722,New York
+11549,Charles Brown,32,146744.61,Salaried,566,New York
+11550,Anthony Jones,45,123732.08,Salaried,742,Virginia
+11551,Steven Miller,52,171951.76,Salaried,810,New Jersey
+11552,Lauren Davis,52,265384.14,Contractor,714,Pennsylvania
+11553,Paul Miller,65,78850.57,Salaried,673,New Jersey
+11554,Richard Martin,58,227278.18,Salaried,715,New York
+11555,Daniel Taylor,31,185744.6,Contractor,699,Virginia
+11556,Megan Johnson,32,97684.37,Self-Employed,691,Virginia
+11557,William Jones,33,175753.93,Retired,850,New York
+11558,David Jones,39,144455.84,Salaried,676,Illinois
+11559,James Thompson,26,199258.53,Salaried,850,North Carolina
+11560,Emily Williams,25,30000,Salaried,620,New Jersey
+11561,Amanda Johnson,52,54558.5,Self-Employed,620,Ohio
+11562,David White,65,45167.02,Retired,793,New Jersey
+11563,Jennifer Johnson,67,98974.6,Business Owner,657,Ohio
+11564,James Martin,43,97449.67,Salaried,826,Ohio
+11565,Elizabeth Brown,32,46143.58,Self-Employed,671,Arizona
+11566,Emily White,44,61331.31,Salaried,703,New Jersey
+11567,John Davis,56,91607.95,Salaried,683,New York
+11568,James Johnson,26,78920.57,Self-Employed,838,North Carolina
+11569,Joseph Harris,26,85359.01,Retired,805,Arizona
+11570,Joshua Anderson,62,69630.87,Business Owner,724,Washington
+11571,Rachel Thompson,59,47082.1,Business Owner,679,New Jersey
+11572,James Robinson,39,114766.04,Self-Employed,520,Arizona
+11573,Rachel Jones,61,44226.9,Salaried,727,Ohio
+11574,Anthony Taylor,32,125456.72,Salaried,641,Texas
+11575,Emily Martin,36,94863.23,Salaried,714,Georgia
+11576,Jessica Davis,41,134265.24,Salaried,823,Virginia
+11577,Charles Jackson,60,131674.15,Salaried,818,Texas
+11578,Joseph Anderson,42,40587.02,Self-Employed,670,New Jersey
+11579,Mark Davis,28,46570.7,Business Owner,738,New Jersey
+11580,Ashley Miller,50,30000,Contractor,661,Ohio
+11581,Rachel Harris,24,41059,Salaried,627,Washington
+11582,Ashley White,45,48991.42,Retired,630,New York
+11583,Samantha Harris,66,127218.1,Salaried,770,New York
+11584,Samantha Martinez,35,108806.57,Business Owner,658,Virginia
+11585,Jessica Robinson,23,35292.74,Salaried,726,Massachusetts
+11586,James Williams,28,120505.49,Salaried,742,Illinois
+11587,Jessica White,67,62189.74,Self-Employed,791,Illinois
+11588,Robert Davis,29,92033.78,Salaried,788,Michigan
+11589,Emily Davis,35,85636.06,Business Owner,658,Georgia
+11590,Megan Garcia,49,73171.61,Salaried,824,Massachusetts
+11591,Joseph Thomas,55,150524.84,Salaried,594,New York
+11592,Steven Moore,55,40804.06,Business Owner,676,Ohio
+11593,Emily Brown,55,111312.78,Contractor,649,North Carolina
+11594,Anthony Martin,27,164103.52,Salaried,666,Florida
+11595,Joseph Martinez,62,69891.02,Salaried,667,Georgia
+11596,John Harris,48,62272.89,Business Owner,738,Arizona
+11597,Sarah Martin,51,52548.08,Contractor,719,California
+11598,Kenneth Williams,57,93604.2,Salaried,635,Georgia
+11599,Charles Davis,23,99471.65,Retired,850,Massachusetts
+11600,Joseph Taylor,24,97455.29,Contractor,758,North Carolina
+11601,Matthew Thompson,29,30000,Salaried,783,Pennsylvania
+11602,David Johnson,58,186980,Business Owner,648,Washington
+11603,Anthony Jones,62,129381.35,Business Owner,694,Florida
+11604,Rachel Clark,32,77109.07,Salaried,711,New Jersey
+11605,Joshua Williams,30,109719.88,Business Owner,693,New York
+11606,Jennifer Martin,58,43539.26,Retired,772,Massachusetts
+11607,Kenneth Moore,61,102520.84,Self-Employed,769,New York
+11608,Sarah Martinez,50,58741.01,Business Owner,787,New York
+11609,David Johnson,64,101080.82,Salaried,681,Washington
+11610,Matthew Martin,51,50203.06,Business Owner,765,New York
+11611,Steven Robinson,43,67072.23,Salaried,621,New Jersey
+11612,Anthony Martin,28,107485.38,Salaried,658,Arizona
+11613,Sarah Wilson,41,64103.39,Salaried,657,Arizona
+11614,Jessica Clark,62,91158.57,Salaried,817,New Jersey
+11615,Jennifer Garcia,57,80204.57,Business Owner,776,Washington
+11616,Joshua Harris,40,157942.75,Salaried,695,Michigan
+11617,Sarah Miller,65,124849.79,Salaried,774,Massachusetts
+11618,Megan Thompson,40,92524.09,Self-Employed,734,Washington
+11619,Steven Robinson,24,254309.7,Salaried,626,North Carolina
+11620,Joshua White,61,100309.07,Self-Employed,605,New York
+11621,Charles Wilson,61,63254.88,Business Owner,676,Florida
+11622,Samantha Clark,35,197293.79,Salaried,617,Washington
+11623,Anthony Johnson,46,70182.36,Contractor,751,Illinois
+11624,Joseph Davis,61,70793.06,Contractor,850,Virginia
+11625,Emily Clark,28,52037.21,Salaried,682,Illinois
+11626,William White,32,78669.13,Self-Employed,672,Florida
+11627,Paul Johnson,24,120814.24,Self-Employed,621,New York
+11628,Megan Jackson,64,35434.93,Self-Employed,782,Florida
+11629,Joseph Clark,28,79562.32,Salaried,607,Ohio
+11630,James Robinson,36,38960.87,Salaried,684,New York
+11631,William Davis,61,161704.7,Retired,792,Illinois
+11632,Mark Jones,61,85229.11,Salaried,704,Pennsylvania
+11633,Charles Miller,50,164465.15,Salaried,619,New York
+11634,William Jones,24,79630.39,Self-Employed,726,Illinois
+11635,Michael Brown,65,36858.13,Self-Employed,685,North Carolina
+11636,Thomas Davis,45,67083.78,Business Owner,725,Virginia
+11637,Rachel Thompson,23,350000,Business Owner,676,Michigan
+11638,Sarah Thomas,57,85178.04,Salaried,664,Georgia
+11639,Kenneth Jones,42,142321.05,Salaried,762,New Jersey
+11640,Jessica Garcia,36,55244.2,Salaried,642,North Carolina
+11641,Andrew Moore,24,68806.76,Self-Employed,726,New Jersey
+11642,Samantha Brown,26,128257.43,Salaried,654,New Jersey
+11643,Kenneth White,65,159990.42,Contractor,736,Texas
+11644,Steven Johnson,40,144442.44,Contractor,742,Ohio
+11645,Michael Anderson,41,50511.15,Contractor,698,Georgia
+11646,Steven Thompson,47,37170.85,Business Owner,725,Pennsylvania
+11647,Joshua Davis,42,40684.86,Salaried,700,Arizona
+11648,Emily White,25,57525.54,Self-Employed,700,Virginia
+11649,Paul Moore,58,68723.93,Salaried,649,Texas
+11650,Sarah Clark,31,105558.53,Salaried,711,Florida
+11651,Charles Johnson,49,33689.31,Salaried,810,North Carolina
+11652,Megan Clark,49,40916.98,Self-Employed,689,Ohio
+11653,Samantha Harris,30,93408,Contractor,593,Georgia
+11654,Andrew Clark,49,83399.89,Retired,797,Illinois
+11655,Paul Brown,31,68692.38,Business Owner,594,New York
+11656,Steven Miller,55,197020.74,Business Owner,732,Illinois
+11657,Michael Williams,55,49794.82,Contractor,563,California
+11658,Michael Clark,36,126647.38,Salaried,726,California
+11659,Elizabeth Miller,53,87771.66,Self-Employed,850,Pennsylvania
+11660,Joseph Jones,47,70223.17,Retired,735,Florida
+11661,Thomas Thomas,35,55280.47,Contractor,779,Virginia
+11662,Kenneth Martinez,55,35656.7,Salaried,702,Illinois
+11663,Elizabeth Thomas,25,43734.89,Contractor,721,California
+11664,Joseph Anderson,51,68996.37,Salaried,692,Texas
+11665,Richard Davis,36,54180.87,Salaried,792,Massachusetts
+11666,Joseph White,56,56115.49,Retired,769,California
+11667,Kenneth Taylor,34,76638.21,Retired,719,Washington
+11668,Joshua Jones,26,151431.03,Retired,656,Arizona
+11669,Thomas Davis,67,104287.75,Self-Employed,594,Arizona
+11670,Anthony Moore,52,83429.55,Salaried,723,Massachusetts
+11671,Rachel Anderson,53,50429.53,Salaried,737,Ohio
+11672,Mark White,31,72686.21,Contractor,599,Massachusetts
+11673,James Martinez,45,94486.6,Salaried,712,Arizona
+11674,Anthony Brown,40,57060.6,Salaried,631,Michigan
+11675,Samantha Thompson,31,102206.66,Business Owner,584,Ohio
+11676,Daniel Wilson,43,81209.68,Salaried,562,New York
+11677,John Miller,41,108016.46,Salaried,695,New Jersey
+11678,James Jackson,28,344472.15,Salaried,777,New Jersey
+11679,Joseph Brown,60,92953.36,Retired,811,Washington
+11680,Daniel Davis,29,100661.34,Salaried,570,Illinois
+11681,Elizabeth Garcia,47,69625.7,Salaried,770,Pennsylvania
+11682,Amanda Moore,27,122454.5,Self-Employed,716,Pennsylvania
+11683,Sarah Clark,66,58012.27,Self-Employed,671,Florida
+11684,Matthew Miller,34,88030.1,Retired,756,Ohio
+11685,Richard Jones,60,33528.94,Salaried,664,Georgia
+11686,Michael Thomas,55,193762.87,Self-Employed,678,Georgia
+11687,Joseph Garcia,28,139197.3,Salaried,710,Michigan
+11688,Sarah Thompson,36,50545.41,Retired,708,California
+11689,Charles Jones,61,179324.51,Self-Employed,661,Illinois
+11690,Kenneth Brown,47,95482.54,Salaried,674,Michigan
+11691,Michael Davis,39,114831.71,Retired,701,New York
+11692,Anthony Moore,63,91266.32,Business Owner,783,Massachusetts
+11693,Rachel Brown,52,74925.34,Self-Employed,570,Massachusetts
+11694,Rachel Brown,31,125582.34,Self-Employed,660,North Carolina
+11695,Elizabeth Martin,41,69508.25,Contractor,760,North Carolina
+11696,Megan Davis,36,49090.78,Retired,741,Michigan
+11697,Kenneth Robinson,63,157293.15,Self-Employed,648,Texas
+11698,Matthew Thomas,49,80426.39,Retired,744,New Jersey
+11699,Megan Anderson,64,128528.47,Retired,623,Illinois
+11700,Kenneth Martin,23,81418.61,Salaried,720,Virginia
+11701,John Brown,31,127708.45,Business Owner,800,Virginia
+11702,Samantha Moore,51,36348.17,Contractor,577,North Carolina
+11703,Steven Moore,50,121338.65,Salaried,730,Pennsylvania
+11704,Joseph Anderson,29,103771.52,Salaried,751,Washington
+11705,Daniel Robinson,27,55620.7,Salaried,615,Ohio
+11706,Amanda Miller,65,116989.39,Self-Employed,734,Michigan
+11707,Robert White,40,117141.98,Salaried,722,Pennsylvania
+11708,Sarah Miller,65,87896.48,Salaried,709,New York
+11709,Andrew Jackson,55,125870.4,Salaried,715,Michigan
+11710,Daniel Martinez,39,58732.32,Business Owner,659,Michigan
+11711,Jennifer Brown,44,53366.34,Salaried,685,Georgia
+11712,Michael Moore,42,41328.08,Retired,727,Pennsylvania
+11713,Andrew Thomas,62,108941.39,Salaried,793,Pennsylvania
+11714,Anthony Williams,52,94072.01,Self-Employed,760,Pennsylvania
+11715,Mark Jackson,58,37680.92,Self-Employed,790,Ohio
+11716,Elizabeth Clark,47,116564.82,Salaried,749,New York
+11717,Charles Garcia,55,130984.65,Salaried,733,Georgia
+11718,John Thomas,66,220147.21,Business Owner,740,Massachusetts
+11719,Matthew Jones,48,83824.43,Self-Employed,820,Pennsylvania
+11720,Daniel Williams,62,181775.91,Salaried,632,Michigan
+11721,Anthony Martinez,44,40150.7,Self-Employed,708,Texas
+11722,James Martin,61,153821.76,Salaried,774,Florida
+11723,Steven Thompson,67,137346.65,Salaried,811,New York
+11724,Paul Taylor,44,76189.01,Salaried,799,California
+11725,Thomas Anderson,54,125841.4,Salaried,694,Ohio
+11726,Kenneth Jackson,47,30647.63,Salaried,709,Washington
+11727,Steven Thomas,63,89624.64,Business Owner,789,Michigan
+11728,Robert Anderson,30,104427.11,Salaried,795,Pennsylvania
+11729,Elizabeth Wilson,56,89248.21,Self-Employed,687,New York
+11730,Matthew White,60,126982.48,Salaried,707,Ohio
+11731,Kenneth Williams,38,124787.62,Retired,782,New Jersey
+11732,Paul Miller,41,42688.38,Salaried,784,Pennsylvania
+11733,Steven Jones,65,106471.71,Self-Employed,740,Virginia
+11734,Sarah Martin,55,61024.56,Business Owner,715,California
+11735,Matthew Wilson,54,150554.8,Salaried,803,Florida
+11736,Anthony White,35,98563.87,Salaried,773,Pennsylvania
+11737,Joseph Wilson,27,138934.52,Self-Employed,597,North Carolina
+11738,Sarah Moore,61,282730.72,Contractor,619,Michigan
+11739,Andrew Williams,28,157762.18,Salaried,651,Ohio
+11740,Amanda Moore,47,30006.42,Salaried,650,Arizona
+11741,Robert Clark,65,48975.9,Business Owner,607,Georgia
+11742,Daniel Thompson,46,87571.25,Salaried,749,Pennsylvania
+11743,Joshua Harris,50,101878.68,Business Owner,670,Ohio
+11744,Matthew Garcia,45,92787.32,Salaried,703,Arizona
+11745,Lauren Johnson,32,84492.35,Self-Employed,714,New York
+11746,Lauren Thompson,23,132664.24,Salaried,825,North Carolina
+11747,Michael Thompson,40,58988.81,Salaried,662,Florida
+11748,Michael Harris,51,106656.49,Self-Employed,634,Ohio
+11749,Richard Robinson,54,71063.68,Salaried,683,Virginia
+11750,Matthew Johnson,39,146307.35,Contractor,592,Pennsylvania
+11751,Lauren Johnson,39,96367.47,Business Owner,576,Florida
+11752,Lauren Robinson,49,51945.39,Salaried,650,California
+11753,Michael Moore,58,51992.88,Salaried,797,Michigan
+11754,William Robinson,57,229033.45,Salaried,815,Illinois
+11755,Richard Taylor,48,119145.23,Salaried,718,Texas
+11756,Megan Moore,40,126377.92,Contractor,702,New York
+11757,Elizabeth Garcia,46,68293.11,Salaried,643,New Jersey
+11758,Anthony Taylor,28,71897.77,Self-Employed,691,Massachusetts
+11759,Matthew Brown,59,30950.76,Self-Employed,727,Illinois
+11760,Emily Moore,47,125874.12,Salaried,778,Washington
+11761,Jessica Jones,25,85929.33,Self-Employed,806,Ohio
+11762,Anthony Robinson,43,152263.41,Contractor,696,New York
+11763,Lauren Martinez,44,166492.55,Self-Employed,650,New Jersey
+11764,Emily Williams,33,91490.95,Business Owner,640,Washington
+11765,Paul Davis,57,105903.98,Retired,611,Michigan
+11766,Richard Garcia,54,147409.81,Self-Employed,721,Arizona
+11767,Andrew Anderson,26,71502.39,Salaried,697,Arizona
+11768,John Anderson,62,132437.5,Salaried,684,New Jersey
+11769,Joshua Brown,34,34622.24,Salaried,736,New Jersey
+11770,Charles Robinson,56,113568.49,Self-Employed,531,Texas
+11771,Richard Taylor,55,74997.43,Contractor,676,Ohio
+11772,Charles Brown,58,92102.65,Salaried,721,Washington
+11773,Ashley Jones,67,51732.24,Salaried,640,Florida
+11774,Ashley Williams,47,56885.48,Salaried,584,Illinois
+11775,Emily Jackson,41,62984.48,Salaried,705,Massachusetts
+11776,Amanda Jones,60,84010.4,Salaried,704,Texas
+11777,Sarah White,60,56778.44,Salaried,660,Arizona
+11778,Amanda Clark,65,40937.34,Business Owner,850,Illinois
+11779,Rachel White,48,225004.11,Salaried,572,Ohio
+11780,Emily Jones,45,114258.38,Business Owner,588,Massachusetts
+11781,James Brown,64,53876.06,Self-Employed,626,Washington
+11782,Jennifer Miller,53,70830.44,Salaried,809,Pennsylvania
+11783,James Taylor,47,80682.58,Contractor,588,Georgia
+11784,John Jones,28,104732.3,Salaried,643,North Carolina
+11785,Joseph Anderson,53,53017.96,Business Owner,635,Massachusetts
+11786,John Thompson,52,59390.11,Business Owner,776,Michigan
+11787,Kenneth Jackson,34,121109,Salaried,646,Massachusetts
+11788,Sarah Martin,55,310666.81,Business Owner,711,Virginia
+11789,Rachel Wilson,67,120750.53,Salaried,816,Illinois
+11790,Megan Jones,58,86474.39,Salaried,679,Washington
+11791,Steven White,63,44761.11,Contractor,548,California
+11792,Kenneth Moore,67,114330.49,Salaried,703,Washington
+11793,Paul Miller,33,50471.09,Business Owner,819,New York
+11794,Amanda Martinez,63,136711.91,Contractor,691,North Carolina
+11795,Joshua Clark,66,78008.14,Salaried,750,Michigan
+11796,Matthew Thompson,28,59692.28,Salaried,755,California
+11797,Mark Martinez,46,154739.45,Contractor,719,Massachusetts
+11798,Rachel Jackson,46,77969.91,Business Owner,814,Arizona
+11799,Megan Miller,38,62289.09,Self-Employed,636,Pennsylvania
+11800,Matthew Garcia,49,85891.2,Salaried,688,Virginia
+11801,Emily Martin,25,254509.77,Business Owner,653,Ohio
+11802,Jessica Williams,25,105766.3,Business Owner,672,North Carolina
+11803,Richard Clark,41,94077.81,Salaried,850,California
+11804,Andrew Robinson,62,36042.91,Salaried,720,Pennsylvania
+11805,John Wilson,44,193346.48,Business Owner,821,Virginia
+11806,Emily Moore,67,44572.84,Contractor,693,Pennsylvania
+11807,Elizabeth Moore,49,89515.04,Self-Employed,764,Michigan
+11808,Amanda Thomas,35,75701.78,Salaried,646,Georgia
+11809,Elizabeth Miller,36,84178.74,Self-Employed,612,Pennsylvania
+11810,Ashley Brown,30,85186.13,Salaried,620,Texas
+11811,Matthew Robinson,64,42291.49,Self-Employed,813,Michigan
+11812,Robert Harris,65,78111.66,Salaried,615,Michigan
+11813,Richard Clark,52,52242.97,Salaried,544,Massachusetts
+11814,Anthony Harris,41,46071.53,Salaried,619,Illinois
+11815,Samantha Davis,44,74818.75,Salaried,850,Georgia
+11816,Kenneth Garcia,36,138809.35,Business Owner,768,California
+11817,Sarah Jones,61,97172.19,Retired,602,California
+11818,Mark Clark,28,58086.62,Salaried,808,Florida
+11819,Robert Wilson,27,136168.56,Business Owner,651,Texas
+11820,Charles Moore,63,197607.68,Salaried,634,New York
+11821,Michael Harris,34,43277.66,Salaried,539,Michigan
+11822,Michael Davis,27,42497.28,Salaried,737,California
+11823,Steven Moore,25,200420.04,Self-Employed,622,Michigan
+11824,William Davis,52,62679.53,Contractor,850,Texas
+11825,Sarah Anderson,50,129408.32,Salaried,701,Pennsylvania
+11826,Elizabeth Jackson,31,59365.87,Business Owner,639,Arizona
+11827,Ashley Jackson,62,101352.2,Business Owner,747,Virginia
+11828,Rachel Davis,36,117512.7,Self-Employed,670,Pennsylvania
+11829,James Wilson,41,43636.69,Self-Employed,696,Texas
+11830,Amanda Anderson,56,153741.13,Salaried,685,Virginia
+11831,Joshua Davis,36,58864.97,Contractor,753,Washington
+11832,Ashley Martin,58,84954.25,Self-Employed,735,Ohio
+11833,Michael Taylor,28,69019.37,Retired,710,Georgia
+11834,Steven Brown,34,104865.61,Self-Employed,560,California
+11835,John Williams,57,110623.82,Salaried,758,Arizona
+11836,Richard Taylor,34,55966.9,Self-Employed,741,Massachusetts
+11837,Mark Taylor,48,151682.16,Salaried,509,California
+11838,Megan Taylor,36,74787.78,Salaried,645,California
+11839,David Jackson,49,102633.66,Salaried,645,Michigan
+11840,Rachel Davis,46,117305.27,Salaried,681,New York
+11841,John Wilson,32,71645.9,Contractor,746,Florida
+11842,Emily Davis,48,85106.09,Salaried,742,Ohio
+11843,Paul White,50,130173.46,Business Owner,638,California
+11844,John Anderson,55,43108.42,Self-Employed,677,Texas
+11845,Sarah Martin,65,74902.59,Business Owner,702,New Jersey
+11846,Charles Garcia,27,238206.87,Self-Employed,740,New York
+11847,Jessica Wilson,44,63878.49,Salaried,812,Michigan
+11848,William Anderson,51,187433.78,Self-Employed,850,New Jersey
+11849,Joseph Martin,31,156402.6,Self-Employed,748,Michigan
+11850,Emily White,31,152298.76,Salaried,709,Michigan
+11851,Charles Thompson,44,138559.01,Salaried,618,Illinois
+11852,Robert Williams,33,81369.23,Salaried,802,Pennsylvania
+11853,Steven Jackson,67,99584.89,Salaried,679,Massachusetts
+11854,Sarah Wilson,24,184718.04,Salaried,786,North Carolina
+11855,Michael Johnson,40,41599.59,Contractor,794,North Carolina
+11856,Megan White,24,170084.81,Self-Employed,572,Virginia
+11857,Joseph Thomas,33,75409.63,Salaried,668,Texas
+11858,Lauren Garcia,41,200783.66,Self-Employed,703,Florida
+11859,Kenneth Wilson,38,195576.87,Retired,717,Illinois
+11860,William Moore,41,126464.17,Self-Employed,695,New York
+11861,Thomas Miller,25,143063.76,Salaried,729,Illinois
+11862,Emily Taylor,32,63340.72,Salaried,563,New York
+11863,Paul Taylor,55,125081,Business Owner,735,Georgia
+11864,James Johnson,67,108415.33,Salaried,723,Michigan
+11865,Daniel Clark,64,131827.3,Salaried,675,Illinois
+11866,Elizabeth Garcia,63,186221.21,Salaried,691,Ohio
+11867,Lauren Garcia,52,84721.29,Salaried,600,New Jersey
+11868,Elizabeth Taylor,52,62442.26,Retired,798,Virginia
+11869,William Wilson,61,83886.7,Business Owner,747,California
+11870,Thomas Martin,31,97658.63,Salaried,703,California
+11871,Paul Clark,26,71372.68,Retired,693,Illinois
+11872,Thomas Thompson,39,106543.1,Contractor,850,North Carolina
+11873,David Johnson,31,106971.27,Retired,765,Georgia
+11874,Sarah Garcia,49,77303.05,Business Owner,725,Florida
+11875,Jennifer Taylor,47,167700.23,Salaried,684,Georgia
+11876,Steven Anderson,24,55276.14,Self-Employed,694,Pennsylvania
+11877,Robert Miller,48,123715.32,Salaried,709,Massachusetts
+11878,Lauren Robinson,35,103625.17,Business Owner,623,Illinois
+11879,Samantha Taylor,29,71784.42,Salaried,683,Arizona
+11880,Andrew Martin,33,111728.08,Business Owner,740,Georgia
+11881,Kenneth Moore,34,30000,Contractor,692,Arizona
+11882,Matthew Anderson,25,102252.46,Contractor,701,Ohio
+11883,Joseph White,41,109168.71,Salaried,727,Florida
+11884,William Miller,43,82130.02,Salaried,619,Virginia
+11885,Amanda Williams,34,84313.77,Contractor,782,Pennsylvania
+11886,Emily Harris,62,53827.84,Business Owner,644,New York
+11887,Sarah White,37,47121.83,Salaried,784,Texas
+11888,Megan Jones,40,48305.33,Business Owner,696,New York
+11889,Andrew Anderson,30,75348.27,Business Owner,723,New York
+11890,Daniel Garcia,58,37579.65,Salaried,638,Virginia
+11891,Megan Harris,46,58470,Contractor,641,North Carolina
+11892,Rachel Williams,54,131537.1,Salaried,803,New York
+11893,David Thompson,25,70092.16,Salaried,696,Ohio
+11894,Sarah Wilson,48,44096.85,Business Owner,639,Massachusetts
+11895,Mark Thompson,34,157119.5,Contractor,684,New Jersey
+11896,Ashley Martinez,42,61484.89,Business Owner,677,Ohio
+11897,John Brown,56,51776.5,Retired,699,North Carolina
+11898,Daniel Taylor,37,52644.27,Business Owner,738,Texas
+11899,Michael Thompson,26,141763.44,Salaried,674,Florida
+11900,Mark Clark,58,85263.8,Self-Employed,820,North Carolina
+11901,Samantha Harris,47,80427.37,Salaried,767,New Jersey
+11902,Elizabeth Harris,35,112250.88,Contractor,591,California
+11903,Michael Clark,60,81200,Salaried,633,Georgia
+11904,Sarah Williams,24,93016.01,Salaried,600,Florida
+11905,Joshua White,33,55428.84,Self-Employed,655,Virginia
+11906,Matthew Martin,51,100156.2,Salaried,642,Illinois
+11907,Jennifer Wilson,62,52033.16,Self-Employed,800,Washington
+11908,Steven Jackson,67,87792.19,Contractor,731,Illinois
+11909,Kenneth Moore,23,37747.16,Salaried,832,North Carolina
+11910,Andrew Johnson,55,93843.97,Self-Employed,662,North Carolina
+11911,Anthony Wilson,47,144671.78,Salaried,583,Arizona
+11912,Thomas Anderson,43,103492.91,Self-Employed,710,Michigan
+11913,Amanda Martin,49,82501.41,Contractor,819,Virginia
+11914,Ashley Martinez,61,82700.03,Salaried,627,Texas
+11915,Samantha Brown,23,73959.11,Salaried,616,New Jersey
+11916,Jessica Martinez,61,30000,Salaried,753,New York
+11917,Joshua Jones,49,131256.62,Self-Employed,682,North Carolina
+11918,Matthew Anderson,45,107536.62,Salaried,732,Florida
+11919,Jennifer Davis,50,53391,Self-Employed,598,Georgia
+11920,Robert Moore,39,81536.42,Self-Employed,675,Illinois
+11921,Emily Garcia,23,150398.18,Salaried,742,California
+11922,William Jackson,31,46647.04,Salaried,745,Texas
+11923,Mark Johnson,61,85169.72,Self-Employed,739,Georgia
+11924,Sarah Jones,55,112716.36,Salaried,765,Washington
+11925,Thomas Martin,23,58823.5,Business Owner,668,New Jersey
+11926,Jessica Taylor,30,110826.9,Self-Employed,629,North Carolina
+11927,Kenneth White,61,54931.37,Self-Employed,513,Pennsylvania
+11928,Samantha Williams,34,148179.37,Salaried,646,Georgia
+11929,James Jackson,61,70029.24,Retired,704,Washington
+11930,Charles Davis,50,56193.71,Retired,709,New York
+11931,Sarah Anderson,54,97988.66,Self-Employed,698,Massachusetts
+11932,Steven Wilson,50,35791.17,Salaried,684,New York
+11933,Elizabeth Jackson,44,77285.94,Business Owner,592,Arizona
+11934,Lauren Jackson,67,77364.53,Salaried,827,Illinois
+11935,James Davis,67,220139.77,Self-Employed,763,Ohio
+11936,Steven Taylor,27,113170.69,Salaried,718,Georgia
+11937,John Davis,42,144767.13,Self-Employed,681,New Jersey
+11938,Richard Taylor,51,58814.56,Contractor,690,North Carolina
+11939,Daniel Thompson,29,48959.52,Salaried,789,Virginia
+11940,Kenneth White,51,40865.22,Self-Employed,638,New York
+11941,Sarah Moore,23,117656.83,Salaried,715,Illinois
+11942,Daniel Brown,45,52966.5,Contractor,682,Washington
+11943,Matthew Jones,40,45069.3,Retired,599,Texas
+11944,Anthony Thompson,49,139834.24,Salaried,639,Ohio
+11945,Samantha Miller,36,133695.29,Business Owner,619,Florida
+11946,Daniel Harris,52,68289.65,Salaried,719,Washington
+11947,Samantha Williams,48,70793.2,Self-Employed,710,New York
+11948,Steven Williams,65,78330.4,Business Owner,567,Michigan
+11949,Charles Garcia,56,57304.26,Business Owner,704,Washington
+11950,Anthony Harris,41,53465.47,Retired,654,Arizona
+11951,Steven Williams,50,91296.22,Self-Employed,706,California
+11952,Paul Robinson,37,84179.15,Salaried,686,Massachusetts
+11953,Elizabeth Martinez,45,55295.62,Self-Employed,802,Michigan
+11954,David Jackson,34,134081.51,Salaried,760,Texas
+11955,James Wilson,51,225304.66,Retired,721,New Jersey
+11956,Joshua Jones,26,53316.41,Contractor,652,Massachusetts
+11957,Rachel Davis,49,73886.46,Salaried,850,Washington
+11958,Kenneth Harris,58,30000,Self-Employed,772,Georgia
+11959,Charles Jones,43,138686.49,Salaried,713,Ohio
+11960,James Thompson,37,42968.85,Self-Employed,719,Virginia
+11961,Richard Clark,48,83376.13,Retired,724,Arizona
+11962,Steven Martin,47,111399.18,Business Owner,791,Washington
+11963,William Johnson,26,122661.22,Self-Employed,779,Arizona
+11964,Rachel Miller,52,47058.46,Retired,756,Virginia
+11965,John Williams,36,57709.5,Self-Employed,836,Georgia
+11966,Megan Jackson,37,72919.45,Contractor,706,North Carolina
+11967,Kenneth Miller,54,37984.19,Retired,625,Michigan
+11968,Elizabeth Davis,48,59689.53,Salaried,696,Massachusetts
+11969,John Anderson,50,109197.13,Business Owner,692,Washington
+11970,Amanda White,44,134296.47,Self-Employed,657,Illinois
+11971,David Harris,63,44688,Contractor,569,Washington
+11972,Ashley Jackson,32,53308.65,Contractor,779,North Carolina
+11973,Emily Williams,59,57416.29,Contractor,786,Texas
+11974,Jennifer Martin,34,153797.39,Salaried,623,California
+11975,Michael Robinson,59,61259.85,Salaried,744,Georgia
+11976,Rachel Robinson,60,87267.83,Business Owner,674,Illinois
+11977,Matthew Clark,23,142011.39,Salaried,676,Massachusetts
+11978,Joshua Martinez,47,114663.85,Contractor,850,Washington
+11979,Elizabeth Martin,45,116159.05,Salaried,850,Washington
+11980,John Brown,41,149080.67,Self-Employed,704,Washington
+11981,Jessica Clark,33,36165.35,Contractor,679,New Jersey
+11982,Michael Jones,27,97490.23,Contractor,717,Pennsylvania
+11983,Michael Wilson,33,91500.33,Salaried,779,Florida
+11984,Sarah Robinson,27,61061.39,Retired,613,New York
+11985,Thomas Clark,60,135741.08,Self-Employed,720,Washington
+11986,Mark Davis,39,150223.89,Retired,778,New Jersey
+11987,Amanda Robinson,43,62751.28,Salaried,715,Georgia
+11988,Thomas Brown,51,40602.63,Salaried,728,Washington
+11989,Matthew Jones,50,30000,Salaried,579,Washington
+11990,Richard Johnson,28,219769.24,Business Owner,776,North Carolina
+11991,Thomas Harris,66,63326.76,Salaried,643,Arizona
+11992,Jennifer Johnson,53,96201.65,Salaried,563,Georgia
+11993,Robert Jackson,51,85260.9,Contractor,541,California
+11994,Amanda Moore,24,175447.62,Salaried,675,Illinois
+11995,Jessica Davis,60,41973.09,Salaried,724,New Jersey
+11996,Michael Martin,49,74691.2,Salaried,680,Texas
+11997,Elizabeth White,51,56062.14,Salaried,830,Michigan
+11998,Elizabeth Wilson,39,66430.67,Salaried,659,New York
+11999,Kenneth Jones,51,49055.36,Retired,574,Massachusetts
+12000,Anthony Garcia,24,50184.75,Salaried,603,Washington
+12001,Anthony White,32,92319.13,Salaried,819,Virginia
+12002,Samantha Clark,61,89664.27,Salaried,700,North Carolina
+12003,Paul Brown,48,46739.43,Self-Employed,698,Pennsylvania
+12004,Richard Clark,37,76617.33,Salaried,745,Arizona
+12005,Samantha Robinson,57,50109.87,Salaried,656,Michigan
+12006,William Robinson,65,118246.8,Business Owner,723,North Carolina
+12007,Joshua Moore,50,122730.69,Self-Employed,612,Florida
+12008,Andrew Thompson,24,144566.21,Retired,531,Illinois
+12009,Sarah Taylor,54,73444.55,Salaried,671,Illinois
+12010,William Garcia,57,62985.5,Business Owner,850,New York
+12011,Charles Miller,49,83601.83,Salaried,686,Florida
+12012,William Thompson,67,65520.26,Self-Employed,779,Massachusetts
+12013,Emily Brown,50,84331.19,Contractor,500,Georgia
+12014,Ashley Miller,43,65547.5,Salaried,687,Arizona
+12015,Sarah Moore,39,47597.87,Retired,812,New Jersey
+12016,Joshua Williams,49,95440.85,Self-Employed,751,Florida
+12017,Richard Miller,26,126379.7,Salaried,567,New York
+12018,Mark Martin,50,116162.38,Self-Employed,598,New York
+12019,Steven Martin,47,47615.06,Salaried,644,Arizona
+12020,Steven Garcia,32,159804.94,Business Owner,600,New Jersey
+12021,James Robinson,39,37154.07,Salaried,742,Pennsylvania
+12022,William Miller,56,61174.08,Retired,689,Virginia
+12023,Ashley Martin,49,89085.79,Business Owner,777,Pennsylvania
+12024,Emily Brown,59,86559.68,Contractor,713,Washington
+12025,William Harris,61,73355.38,Self-Employed,631,Washington
+12026,Sarah Anderson,63,66906.41,Contractor,682,Georgia
+12027,Daniel Anderson,42,70155.21,Salaried,625,New York
+12028,Elizabeth Garcia,53,138316.09,Salaried,760,Pennsylvania
+12029,Michael Martin,39,142664.45,Salaried,685,Washington
+12030,Robert Miller,29,89495.64,Business Owner,598,Texas
+12031,Ashley Martin,56,52069.52,Salaried,616,North Carolina
+12032,Megan Davis,27,114752.47,Salaried,660,Ohio
+12033,Andrew Jackson,44,169213.37,Self-Employed,639,Arizona
+12034,Daniel Thompson,40,120114.12,Salaried,803,Texas
+12035,Steven Brown,57,61793.49,Salaried,646,Arizona
+12036,Anthony Wilson,52,70933.37,Self-Employed,662,New York
+12037,Megan Wilson,67,163733.36,Business Owner,828,Washington
+12038,Samantha Harris,33,98356.71,Salaried,764,Illinois
+12039,Mark Jones,30,52248.81,Business Owner,758,Arizona
+12040,Lauren White,53,156496.31,Self-Employed,768,Georgia
+12041,Megan Thompson,33,66641.82,Business Owner,631,Florida
+12042,Mark Jones,47,194078.57,Self-Employed,679,Arizona
+12043,Steven Wilson,54,277402.49,Business Owner,544,California
+12044,Matthew Anderson,49,182628.71,Salaried,737,Michigan
+12045,Andrew Thomas,37,126691.68,Self-Employed,737,North Carolina
+12046,John Thomas,50,89006.55,Salaried,652,New York
+12047,Anthony Harris,30,44276.57,Business Owner,713,New Jersey
+12048,Samantha Thomas,61,62127.21,Salaried,758,Virginia
+12049,Megan Martinez,42,50507.24,Business Owner,679,Pennsylvania
+12050,William Garcia,67,66366.26,Retired,736,Michigan
+12051,David Williams,46,101603.79,Salaried,615,Georgia
+12052,David Jackson,26,67283.31,Salaried,614,Massachusetts
+12053,John Harris,42,131268.09,Business Owner,758,Arizona
+12054,Emily Taylor,62,58863.48,Salaried,590,Pennsylvania
+12055,James Miller,52,108735.27,Salaried,761,Washington
+12056,Andrew Brown,67,150380.03,Salaried,736,Georgia
+12057,Kenneth Thompson,24,61170.94,Salaried,773,North Carolina
+12058,Amanda Anderson,34,80086.88,Contractor,685,California
+12059,Steven Thomas,42,53307.72,Contractor,773,Illinois
+12060,Charles Clark,26,60063.88,Self-Employed,813,Virginia
+12061,Daniel Martin,23,94455.37,Salaried,799,New Jersey
+12062,Emily Brown,32,94154.25,Contractor,774,Pennsylvania
+12063,John Garcia,55,126893.88,Salaried,636,Arizona
+12064,Joseph Harris,39,59537.09,Salaried,632,Massachusetts
+12065,Anthony Thompson,24,93885.85,Contractor,756,Illinois
+12066,Paul Miller,51,117421.92,Salaried,600,Ohio
+12067,David Robinson,40,80435.99,Salaried,655,New York
+12068,Sarah Harris,46,96435.07,Retired,626,New York
+12069,Joshua Jones,43,41179.64,Salaried,614,California
+12070,Joseph Davis,32,53799.63,Salaried,766,Florida
+12071,Lauren Brown,55,148009.62,Contractor,795,Massachusetts
+12072,Mark Anderson,26,36558.53,Salaried,655,California
+12073,Michael Johnson,40,34690.41,Salaried,721,Ohio
+12074,Ashley Brown,24,89759.23,Salaried,748,New Jersey
+12075,David Martinez,48,40255.27,Salaried,654,California
+12076,Jessica White,54,174495.61,Self-Employed,685,Michigan
+12077,Samantha Moore,27,155517.53,Contractor,577,New Jersey
+12078,Andrew Thomas,45,59488.4,Salaried,588,Washington
+12079,Megan Robinson,52,89346.58,Salaried,647,New Jersey
+12080,Thomas Wilson,35,53857.19,Retired,645,Illinois
+12081,Emily Moore,27,32291.15,Retired,698,California
+12082,David Brown,45,95923.53,Salaried,743,New York
+12083,Robert Williams,59,40424.38,Business Owner,850,Pennsylvania
+12084,Amanda Anderson,31,113088.77,Contractor,542,Virginia
+12085,Jessica Jackson,64,171814.52,Self-Employed,543,Pennsylvania
+12086,Samantha Jackson,53,99064.45,Retired,767,Illinois
+12087,Samantha Thomas,31,170806.75,Retired,590,New Jersey
+12088,Megan Martin,39,80551.68,Contractor,782,North Carolina
+12089,Kenneth Williams,36,125238.66,Contractor,686,Arizona
+12090,Andrew Jackson,47,131989.22,Business Owner,757,Massachusetts
+12091,Joseph Robinson,63,69456.12,Salaried,768,Florida
+12092,David White,37,111466.74,Salaried,703,Michigan
+12093,Mark Thompson,36,90664.49,Self-Employed,599,Washington
+12094,Kenneth Thomas,56,40121.23,Self-Employed,697,Georgia
+12095,Anthony Williams,28,58049.39,Salaried,566,Arizona
+12096,Rachel Clark,64,60094.43,Business Owner,686,California
+12097,Jennifer Davis,57,53098.72,Retired,850,Massachusetts
+12098,Kenneth Brown,41,58263.92,Self-Employed,628,Ohio
+12099,Anthony Jackson,26,151381.4,Contractor,635,Georgia
+12100,John Williams,55,61311.13,Self-Employed,530,Arizona
+12101,Megan Wilson,24,107362.67,Retired,728,Washington
+12102,Amanda Thomas,37,192252,Self-Employed,686,Ohio
+12103,Daniel Anderson,49,80872.85,Contractor,765,Illinois
+12104,William Martinez,32,66905.81,Salaried,639,New York
+12105,Amanda Jones,23,99532.58,Salaried,598,Virginia
+12106,Paul Jackson,28,35887.86,Salaried,741,Texas
+12107,Sarah Harris,30,57351.74,Business Owner,670,New Jersey
+12108,Emily Moore,53,90562.65,Salaried,684,Virginia
+12109,Emily Robinson,48,30000,Self-Employed,813,Washington
+12110,Michael Thompson,63,154917.47,Self-Employed,758,Texas
+12111,Anthony Harris,27,110878.88,Retired,764,California
+12112,Steven Jackson,37,156483.81,Salaried,602,New York
+12113,Emily Thompson,58,68065.99,Salaried,814,North Carolina
+12114,Mark Johnson,43,82180.9,Salaried,586,Pennsylvania
+12115,John Martinez,57,133173.16,Salaried,828,Pennsylvania
+12116,Megan Davis,44,206774.54,Business Owner,615,New York
+12117,Samantha Anderson,62,131552.49,Business Owner,676,Illinois
+12118,Elizabeth Wilson,33,109030.48,Self-Employed,537,North Carolina
+12119,Joseph Davis,49,194752.41,Salaried,691,Illinois
+12120,Amanda Clark,62,130811.46,Salaried,569,Arizona
+12121,David Miller,66,31566.89,Salaried,692,Texas
+12122,Richard Davis,50,99631.87,Self-Employed,702,Illinois
+12123,Thomas Garcia,30,91451.4,Salaried,821,Virginia
+12124,Megan Garcia,57,116757.37,Salaried,825,New Jersey
+12125,Samantha Taylor,32,115766.67,Salaried,707,Virginia
+12126,Amanda Martinez,48,75291.15,Self-Employed,716,Georgia
+12127,Mark Anderson,31,91822.3,Business Owner,696,Texas
+12128,Jennifer Martin,49,53613.05,Salaried,787,Georgia
+12129,Megan Johnson,55,120483.36,Salaried,731,Arizona
+12130,Rachel Brown,54,86227.15,Salaried,649,New York
+12131,Sarah Clark,51,81526.84,Self-Employed,771,Georgia
+12132,Samantha Clark,66,162523.58,Salaried,723,Georgia
+12133,Lauren White,65,111879.97,Business Owner,655,North Carolina
+12134,Sarah Moore,59,124148.34,Salaried,644,North Carolina
+12135,Anthony Martinez,49,81342.71,Salaried,699,Washington
+12136,Anthony Moore,53,69415.33,Self-Employed,663,Texas
+12137,Joseph Jackson,29,91047.07,Salaried,655,North Carolina
+12138,Lauren Williams,58,98230.44,Retired,735,Texas
+12139,Emily Thomas,34,89702.95,Salaried,745,Virginia
+12140,Jessica Williams,43,94868.87,Salaried,705,Washington
+12141,Robert Davis,52,109564.68,Self-Employed,850,Pennsylvania
+12142,Andrew Jones,64,146126.43,Self-Employed,778,Arizona
+12143,Joshua Martin,28,51477.41,Salaried,722,Ohio
+12144,James White,32,55738.65,Salaried,635,Michigan
+12145,Daniel Garcia,66,30000,Salaried,643,Florida
+12146,Lauren Martinez,48,90066.68,Salaried,810,Pennsylvania
+12147,William Williams,66,47444.09,Salaried,703,Georgia
+12148,Jennifer Clark,64,33868.2,Business Owner,741,Ohio
+12149,Joseph Martinez,54,78711.64,Retired,810,Virginia
+12150,Joshua Wilson,27,53548,Salaried,635,Massachusetts
+12151,John Jackson,29,136924.17,Salaried,675,New Jersey
+12152,Kenneth Johnson,32,155954.27,Salaried,661,Illinois
+12153,Matthew Jones,67,115742.75,Salaried,656,Ohio
+12154,Michael Davis,43,69522.97,Retired,596,Michigan
+12155,Robert Thomas,54,43454.43,Salaried,662,Massachusetts
+12156,Jennifer Johnson,63,55067.15,Contractor,658,California
+12157,Ashley Clark,26,53246.12,Self-Employed,658,Florida
+12158,David Robinson,40,69989.83,Salaried,643,Massachusetts
+12159,Rachel Wilson,25,72614.65,Salaried,819,Illinois
+12160,John Garcia,43,196446.01,Salaried,729,Massachusetts
+12161,John Thomas,34,126536.63,Self-Employed,620,Texas
+12162,Charles Jones,27,209770.78,Salaried,740,Massachusetts
+12163,Mark Thomas,32,95027.83,Contractor,696,Florida
+12164,William Williams,66,55751.79,Self-Employed,597,Virginia
+12165,Lauren White,31,62500.53,Salaried,781,New York
+12166,Jessica Garcia,57,83605.96,Salaried,741,New Jersey
+12167,David Anderson,36,102346.52,Salaried,698,Texas
+12168,Anthony Johnson,50,147570.65,Salaried,747,Arizona
+12169,Richard Miller,34,64256.32,Salaried,813,New York
+12170,William Brown,52,70647.63,Business Owner,850,Georgia
+12171,Lauren Johnson,30,92875.26,Contractor,663,California
+12172,Joseph Thompson,51,160683.3,Salaried,832,New Jersey
+12173,Richard Jones,64,68851.57,Contractor,732,Illinois
+12174,Charles Martin,60,108687.06,Salaried,720,New Jersey
+12175,Megan Miller,54,50128.76,Salaried,690,Florida
+12176,Jennifer Moore,43,103351.81,Salaried,816,Florida
+12177,Jessica Martin,25,107330.19,Salaried,647,Massachusetts
+12178,Steven Robinson,64,112101.7,Business Owner,766,Georgia
+12179,James Taylor,28,160160.58,Contractor,781,Texas
+12180,Thomas Davis,34,82695.19,Retired,725,Ohio
+12181,Daniel Harris,33,116769.54,Business Owner,664,Washington
+12182,Ashley Jones,32,55388.95,Salaried,846,California
+12183,Charles Jones,25,48109.7,Retired,665,Virginia
+12184,Megan Williams,61,82778.82,Business Owner,765,Massachusetts
+12185,Samantha Miller,51,75153.72,Business Owner,709,Washington
+12186,Amanda Jackson,39,192346.41,Salaried,649,Michigan
+12187,James White,65,118792.39,Salaried,803,Georgia
+12188,Steven Robinson,36,166596.3,Self-Employed,679,New Jersey
+12189,Daniel Miller,54,102539.82,Contractor,603,Michigan
+12190,Charles Martin,29,127180.47,Salaried,734,Virginia
+12191,Robert White,36,74398.58,Salaried,604,Michigan
+12192,Matthew Robinson,60,117475.59,Salaried,659,Pennsylvania
+12193,Steven Clark,47,66203.29,Salaried,738,New York
+12194,Lauren Taylor,60,66994.91,Contractor,714,California
+12195,Richard Moore,65,30000,Retired,633,Ohio
+12196,Thomas Garcia,53,102152.54,Salaried,784,New Jersey
+12197,Rachel Anderson,47,130929.51,Self-Employed,744,Washington
+12198,Daniel Martin,59,117371.44,Salaried,583,Illinois
+12199,Megan Garcia,32,96539.16,Self-Employed,617,Massachusetts
+12200,Mark Martinez,61,68815.77,Self-Employed,850,New York
+12201,Jessica Anderson,60,30000,Salaried,639,California
+12202,Elizabeth White,24,48573.97,Contractor,764,Texas
+12203,Rachel Moore,41,79854.71,Salaried,711,Washington
+12204,Joseph Johnson,47,118966.4,Salaried,786,Pennsylvania
+12205,Michael Thompson,32,152002.65,Salaried,625,Arizona
+12206,Emily Moore,58,146779.79,Salaried,725,Michigan
+12207,Emily Jackson,29,62009.8,Self-Employed,674,New Jersey
+12208,Charles Wilson,61,76912.3,Salaried,706,Virginia
+12209,Michael Miller,53,45927.87,Retired,739,Texas
+12210,Lauren Garcia,52,35035.89,Business Owner,739,Pennsylvania
+12211,Anthony Garcia,52,56482.38,Salaried,649,Florida
+12212,Thomas Williams,40,58059.55,Business Owner,673,California
+12213,David Thomas,35,55241.55,Contractor,596,Michigan
+12214,Jessica Williams,55,124552.82,Salaried,722,Washington
+12215,Rachel Williams,46,173391.7,Business Owner,739,Arizona
+12216,David Williams,54,57728.99,Self-Employed,669,Texas
+12217,Sarah Thompson,66,191404.43,Business Owner,721,New Jersey
+12218,Joseph Thompson,30,37572.24,Salaried,845,Arizona
+12219,William Moore,61,104265.7,Business Owner,593,Arizona
+12220,Daniel Brown,34,112561.67,Salaried,802,Texas
+12221,Ashley Anderson,32,43486.86,Business Owner,616,New Jersey
+12222,John Johnson,43,136796.6,Self-Employed,832,Pennsylvania
+12223,John Robinson,53,70888.81,Salaried,678,Arizona
+12224,Richard Davis,63,96625.38,Salaried,736,California
+12225,Sarah Williams,31,147021.13,Self-Employed,850,Arizona
+12226,Richard Robinson,38,117589.28,Retired,648,Washington
+12227,Lauren Robinson,23,68493.89,Salaried,793,Massachusetts
+12228,Richard Moore,43,82830.11,Salaried,695,Massachusetts
+12229,Joshua Davis,44,196210.84,Salaried,788,Georgia
+12230,Robert Jones,51,37073.44,Self-Employed,747,Illinois
+12231,James Jackson,41,134087.81,Salaried,691,Michigan
+12232,Rachel Jones,53,134893.86,Salaried,557,Pennsylvania
+12233,John Jones,57,210609.97,Retired,739,Virginia
+12234,Kenneth Robinson,35,162009.89,Salaried,727,Florida
+12235,Lauren Johnson,31,40800.49,Business Owner,747,Illinois
+12236,Michael Brown,26,113588.34,Salaried,712,Michigan
+12237,Charles Johnson,40,101579.4,Retired,664,Michigan
+12238,Mark Anderson,62,128191.3,Business Owner,652,California
+12239,Rachel Johnson,41,205251.96,Salaried,606,Michigan
+12240,Joshua Robinson,25,101119.52,Retired,608,Florida
+12241,Andrew Robinson,24,77668.76,Salaried,746,New York
+12242,Daniel Clark,65,77124.18,Salaried,698,Ohio
+12243,Robert Davis,56,143908.38,Self-Employed,568,New Jersey
+12244,Kenneth Clark,36,51518.32,Contractor,740,Michigan
+12245,Megan Robinson,66,117459.53,Retired,641,New Jersey
+12246,Anthony Davis,36,101699.51,Salaried,739,Pennsylvania
+12247,Megan Jackson,25,35863.98,Contractor,729,Illinois
+12248,John White,39,108201.07,Salaried,785,Georgia
+12249,Kenneth Brown,29,50051.81,Business Owner,766,Illinois
+12250,Andrew Thompson,25,222513.21,Self-Employed,672,North Carolina
+12251,Kenneth White,32,54638.6,Self-Employed,658,New Jersey
+12252,Robert Davis,55,136536.29,Salaried,657,Georgia
+12253,Kenneth Martin,55,75616.47,Salaried,817,Massachusetts
+12254,Kenneth Taylor,52,51503.83,Salaried,604,Illinois
+12255,Jennifer Williams,41,105366.78,Retired,670,Arizona
+12256,Charles Moore,30,45330.36,Salaried,745,Virginia
+12257,Rachel Williams,57,77277.92,Salaried,608,Washington
+12258,Joshua Moore,29,168430.82,Salaried,629,Massachusetts
+12259,Richard Miller,35,72339.29,Self-Employed,588,Ohio
+12260,Steven Johnson,54,247887,Contractor,730,Florida
+12261,Joshua Williams,62,142418.86,Business Owner,593,California
+12262,Ashley Williams,64,41106.24,Salaried,590,New York
+12263,David Martin,36,246197.73,Salaried,773,Pennsylvania
+12264,Jessica Martinez,38,193749.19,Contractor,548,Ohio
+12265,Joseph Miller,61,33192.27,Contractor,652,Pennsylvania
+12266,Thomas Moore,58,73965.48,Self-Employed,701,North Carolina
+12267,Rachel Martinez,61,207073.39,Salaried,653,New York
+12268,Rachel Davis,46,82019.93,Business Owner,666,Texas
+12269,Rachel White,39,86894.44,Salaried,740,Texas
+12270,Megan Martin,26,55178.91,Salaried,622,Illinois
+12271,Amanda Jackson,40,87122.68,Business Owner,742,Massachusetts
+12272,Lauren Clark,23,109835.63,Self-Employed,729,Florida
+12273,Kenneth Johnson,57,214820.47,Salaried,644,New York
+12274,Daniel Williams,58,61827.52,Salaried,758,North Carolina
+12275,Lauren Clark,62,91701.22,Business Owner,646,California
+12276,Michael Jackson,60,195597,Contractor,684,Massachusetts
+12277,Joshua Wilson,46,112909.64,Self-Employed,663,Michigan
+12278,Mark Robinson,46,46733.26,Salaried,642,New York
+12279,David Robinson,28,129171.89,Self-Employed,710,Ohio
+12280,Mark Martinez,48,104305.31,Retired,543,Ohio
+12281,Samantha Anderson,59,37837.25,Retired,643,Pennsylvania
+12282,Matthew Moore,44,170197.78,Business Owner,668,Virginia
+12283,Thomas Garcia,56,44581.25,Contractor,745,Ohio
+12284,Richard Moore,32,154779.76,Salaried,727,North Carolina
+12285,Jessica Harris,51,96957.86,Salaried,670,Massachusetts
+12286,John Garcia,51,119823,Contractor,816,Pennsylvania
+12287,Rachel Harris,52,47481.61,Salaried,597,New York
+12288,Andrew Miller,40,59875.05,Salaried,692,Virginia
+12289,John Martin,50,91002.4,Self-Employed,706,Virginia
+12290,Joseph Robinson,30,63868.69,Salaried,607,Florida
+12291,Steven Moore,45,50393.17,Contractor,599,North Carolina
+12292,Richard Davis,39,68261.09,Retired,714,New York
+12293,Rachel White,45,54505.89,Business Owner,660,Ohio
+12294,Paul Jones,50,90260.07,Retired,772,Massachusetts
+12295,Matthew Davis,45,57691.46,Self-Employed,658,Arizona
+12296,Amanda Wilson,24,30000,Business Owner,669,Washington
+12297,Steven Garcia,32,201256.92,Contractor,797,New Jersey
+12298,Joseph Martin,66,85881.48,Retired,610,Massachusetts
+12299,Joseph Martinez,65,115648.49,Contractor,703,Ohio
+12300,Daniel Anderson,42,31189.88,Self-Employed,773,Arizona
+12301,Mark Brown,25,48257.28,Retired,700,Michigan
+12302,Mark Robinson,44,85645.24,Retired,661,Ohio
+12303,Matthew Jackson,52,254209,Self-Employed,772,Washington
+12304,Matthew Robinson,44,103727.28,Salaried,572,Washington
+12305,Steven Wilson,53,68145.81,Business Owner,686,Arizona
+12306,Joseph Jones,32,92757.25,Salaried,634,Washington
+12307,Steven White,24,41102.62,Salaried,710,Florida
+12308,Elizabeth Jones,44,49271.82,Business Owner,671,Arizona
+12309,Richard Miller,57,127155.96,Salaried,652,Ohio
+12310,Steven Moore,40,87420.71,Contractor,757,Arizona
+12311,William Thompson,39,93778.92,Retired,706,Michigan
+12312,Joshua Thomas,37,154975.96,Salaried,729,North Carolina
+12313,John Jackson,58,93760.67,Salaried,757,Virginia
+12314,Joshua Taylor,51,39054.6,Salaried,575,North Carolina
+12315,Thomas Robinson,35,191245.44,Salaried,674,Arizona
+12316,Sarah Clark,51,119041.77,Self-Employed,680,Georgia
+12317,Sarah Thomas,67,143966.68,Retired,755,New York
+12318,Richard Thomas,44,64378.14,Salaried,560,Ohio
+12319,Joshua Anderson,26,107911.02,Salaried,733,Pennsylvania
+12320,Steven Thompson,61,187284.57,Salaried,787,Ohio
+12321,David Martin,67,62784.41,Business Owner,663,Illinois
+12322,Lauren Johnson,46,129463.02,Salaried,749,Arizona
+12323,Samantha Williams,32,174284.32,Contractor,685,Arizona
+12324,Matthew Johnson,58,219379.73,Business Owner,743,New York
+12325,Jennifer Moore,31,47113.79,Salaried,775,Washington
+12326,Steven Jackson,46,49633.73,Salaried,732,Washington
+12327,Joshua Johnson,26,57154.86,Salaried,833,Arizona
+12328,William Clark,43,84919.53,Business Owner,643,Ohio
+12329,Joshua Johnson,25,80052.93,Self-Employed,770,North Carolina
+12330,William Brown,58,91073.79,Retired,850,Massachusetts
+12331,Richard Thompson,32,108181.47,Self-Employed,681,Florida
+12332,William Harris,47,57692.44,Salaried,681,Virginia
+12333,Sarah Garcia,63,113805.47,Salaried,676,New York
+12334,Sarah Robinson,65,49184.03,Salaried,629,Massachusetts
+12335,David Clark,62,77444.84,Self-Employed,604,Pennsylvania
+12336,Mark White,55,41325.1,Contractor,850,Pennsylvania
+12337,Matthew Jackson,48,195672.81,Self-Employed,660,North Carolina
+12338,Joshua Anderson,62,30000,Contractor,781,Florida
+12339,William Taylor,32,64064.17,Salaried,776,Pennsylvania
+12340,Samantha Miller,53,40023.87,Salaried,776,North Carolina
+12341,William Johnson,37,112519.41,Self-Employed,577,New Jersey
+12342,Rachel White,53,118706.93,Salaried,651,Pennsylvania
+12343,Jessica Anderson,57,76590,Self-Employed,731,Georgia
+12344,Steven White,40,49075.7,Contractor,707,Texas
+12345,Rachel Clark,57,40414.14,Contractor,716,Ohio
+12346,Samantha Moore,59,56709.95,Business Owner,680,Georgia
+12347,Anthony Harris,39,86525.96,Business Owner,611,Massachusetts
+12348,Rachel Anderson,63,158422.68,Salaried,722,Arizona
+12349,Anthony Wilson,62,107966.1,Salaried,671,California
+12350,Samantha Williams,37,150345.15,Contractor,562,Arizona
+12351,Richard Miller,61,83120.18,Salaried,682,Washington
+12352,Michael Anderson,28,80455.72,Salaried,623,California
+12353,Steven Taylor,63,104074.96,Salaried,801,Georgia
+12354,James Thompson,23,98920.58,Self-Employed,580,Pennsylvania
+12355,Charles Martin,24,61191.93,Self-Employed,638,Massachusetts
+12356,Megan Clark,30,120848.74,Self-Employed,729,Washington
+12357,Jessica Robinson,38,101611.4,Salaried,635,Michigan
+12358,Steven Martin,39,63928.02,Self-Employed,830,California
+12359,Jennifer Thompson,29,114559.19,Salaried,699,Pennsylvania
+12360,Andrew Jackson,29,66273,Business Owner,701,Georgia
+12361,Ashley Anderson,32,78485.69,Contractor,735,Georgia
+12362,Rachel Thompson,35,68805.99,Salaried,850,California
+12363,Lauren White,66,87890.59,Self-Employed,736,Virginia
+12364,Kenneth Robinson,51,130019.93,Salaried,743,Pennsylvania
+12365,Mark Brown,55,45760.99,Salaried,716,Texas
+12366,Mark Robinson,28,106114.42,Salaried,684,Michigan
+12367,Joseph Brown,53,76529.7,Salaried,832,New Jersey
+12368,Joshua Johnson,46,60544.72,Salaried,756,New York
+12369,Kenneth White,56,47406.99,Salaried,687,California
+12370,Daniel Davis,62,118747.39,Salaried,624,Florida
+12371,David Thomas,54,72500.53,Salaried,721,Massachusetts
+12372,James Wilson,30,97487.9,Salaried,711,Texas
+12373,Robert Brown,37,100876.12,Self-Employed,590,Illinois
+12374,Joseph Martinez,23,181307.88,Contractor,616,New York
+12375,Mark Garcia,59,177548.78,Contractor,581,North Carolina
+12376,Elizabeth Miller,53,135175.96,Retired,753,Texas
+12377,William Davis,52,138854.81,Contractor,679,Pennsylvania
+12378,Emily Thompson,24,254251.35,Salaried,596,Texas
+12379,Jennifer Taylor,51,107133.67,Retired,634,North Carolina
+12380,Anthony Martin,54,122484.11,Salaried,723,California
+12381,Jessica Robinson,64,117174.46,Contractor,616,Florida
+12382,Jessica Garcia,51,64740.19,Contractor,627,California
+12383,Steven Jackson,37,91238.28,Salaried,686,Ohio
+12384,Richard Thompson,25,94886.25,Self-Employed,719,Texas
+12385,Emily Brown,60,97549.22,Contractor,627,Washington
+12386,Anthony Garcia,54,97650.8,Business Owner,559,Washington
+12387,Jessica Jones,33,85660.16,Self-Employed,773,Ohio
+12388,Jennifer Moore,55,125889.1,Salaried,693,New Jersey
+12389,Emily White,39,50896.92,Business Owner,735,Illinois
+12390,David Davis,46,110333.65,Salaried,688,North Carolina
+12391,Samantha Garcia,34,62051.54,Contractor,679,Pennsylvania
+12392,Robert Jackson,67,32487.57,Salaried,726,Texas
+12393,Ashley Robinson,50,43140.15,Salaried,719,Michigan
+12394,Paul Miller,31,85541.01,Retired,731,Virginia
+12395,Elizabeth Martin,52,122590.01,Business Owner,766,Michigan
+12396,Samantha Brown,59,68846.13,Salaried,645,Michigan
+12397,Mark Brown,43,83222.22,Salaried,679,Pennsylvania
+12398,Robert Thomas,52,110610.62,Salaried,650,North Carolina
+12399,Sarah Robinson,25,74089.36,Salaried,661,Arizona
+12400,Mark Taylor,25,116708.78,Salaried,500,Michigan
+12401,Andrew Jackson,31,174467.75,Salaried,557,Michigan
+12402,Charles Clark,59,153052.08,Business Owner,751,Virginia
+12403,Jennifer Jones,61,61774.51,Salaried,610,Michigan
+12404,Lauren Garcia,48,52775.65,Retired,634,Illinois
+12405,Emily Thompson,59,222862,Salaried,725,Florida
+12406,Jessica Harris,34,156835.3,Salaried,588,Massachusetts
+12407,Andrew Wilson,28,177848.94,Retired,844,Washington
+12408,Robert Martinez,65,103327.63,Contractor,816,New York
+12409,Anthony Clark,25,67316.18,Self-Employed,534,Massachusetts
+12410,Lauren Wilson,51,125621.88,Salaried,783,Florida
+12411,Jennifer Moore,26,53455.31,Retired,765,Ohio
+12412,Steven Martin,41,79161.71,Salaried,769,New York
+12413,Samantha Thomas,65,116718.91,Self-Employed,582,New York
+12414,Elizabeth Jones,58,99600.26,Salaried,674,Ohio
+12415,Daniel Martinez,37,60678.66,Contractor,721,Arizona
+12416,Lauren Harris,47,116224.7,Salaried,683,Ohio
+12417,Joseph Moore,38,79097.96,Contractor,725,Virginia
+12418,Paul Moore,54,125934.19,Salaried,702,New Jersey
+12419,Andrew White,42,78764.65,Salaried,790,Massachusetts
+12420,David Davis,63,85760.15,Salaried,573,Pennsylvania
+12421,Ashley White,24,55332.6,Contractor,762,Massachusetts
+12422,Michael Williams,64,218294.11,Self-Employed,764,Georgia
+12423,Paul Wilson,43,189791.73,Self-Employed,814,New York
+12424,Charles Garcia,29,60213.51,Salaried,545,Illinois
+12425,Sarah Williams,42,71718.69,Retired,553,New Jersey
+12426,James Martin,49,160977.31,Contractor,641,New Jersey
+12427,Jennifer Martin,45,51910.71,Self-Employed,751,Georgia
+12428,Ashley Martin,40,146010.2,Business Owner,647,Michigan
+12429,Paul Anderson,50,133656.53,Salaried,828,Pennsylvania
+12430,Daniel Garcia,43,72894.83,Contractor,616,Florida
+12431,Mark Miller,37,152172.74,Business Owner,739,New Jersey
+12432,Emily Brown,24,107192.27,Salaried,718,Massachusetts
+12433,William Williams,50,96967.23,Salaried,778,Georgia
+12434,Megan Jackson,28,103844.55,Retired,724,Washington
+12435,Richard Martin,25,100845.99,Salaried,648,North Carolina
+12436,Robert White,60,52360.84,Contractor,518,Texas
+12437,Steven Robinson,29,93032.38,Business Owner,690,North Carolina
+12438,Paul Wilson,58,81745.64,Business Owner,844,Illinois
+12439,Kenneth Williams,66,79359.95,Retired,657,New York
+12440,Paul Miller,30,110293.49,Contractor,692,New Jersey
+12441,Joseph Brown,61,75810.59,Business Owner,766,New Jersey
+12442,Mark Martin,54,96850.4,Self-Employed,622,Massachusetts
+12443,David Thompson,49,119490.25,Contractor,712,Virginia
+12444,Kenneth Taylor,45,62964.58,Salaried,761,New York
+12445,Megan Miller,42,84862.67,Salaried,654,Massachusetts
+12446,Robert Taylor,63,57366.79,Salaried,747,Illinois
+12447,Robert Harris,40,78728.33,Contractor,710,Illinois
+12448,William Brown,40,128874.99,Salaried,694,Ohio
+12449,Samantha Thomas,42,110217.9,Retired,771,California
+12450,Joshua Jones,36,38284.17,Salaried,512,California
+12451,Joshua Thompson,42,56802.94,Self-Employed,689,Arizona
+12452,Joshua Thomas,24,104993.55,Salaried,791,Arizona
+12453,Charles Taylor,35,30000,Salaried,777,Washington
+12454,William Thomas,34,70649.82,Salaried,712,Pennsylvania
+12455,Daniel Davis,32,50905.65,Business Owner,775,Georgia
+12456,Matthew Martinez,23,84718.9,Salaried,806,Michigan
+12457,Jennifer Anderson,37,30226.27,Business Owner,637,Washington
+12458,Kenneth Miller,44,71529.36,Salaried,792,Pennsylvania
+12459,Joseph Davis,33,80711.98,Salaried,690,Texas
+12460,Daniel Brown,36,36074.16,Salaried,755,Virginia
+12461,Sarah Harris,61,107145.69,Salaried,649,New Jersey
+12462,Samantha Anderson,41,99971.78,Salaried,739,New Jersey
+12463,Robert White,48,118327.15,Retired,564,Washington
+12464,Mark Martin,30,50847.42,Self-Employed,620,Virginia
+12465,Paul Miller,58,96904.83,Self-Employed,718,Massachusetts
+12466,John Miller,46,80369.66,Self-Employed,850,Illinois
+12467,James Taylor,43,124365.17,Salaried,718,Ohio
+12468,Charles Davis,52,114565.91,Salaried,797,Illinois
+12469,Jennifer Miller,53,64967.59,Business Owner,737,Florida
+12470,Megan White,38,88982.19,Salaried,710,Massachusetts
+12471,Emily Miller,29,113885.81,Contractor,734,Michigan
+12472,Megan Harris,34,78888.15,Contractor,634,California
+12473,Amanda Wilson,39,122946.83,Salaried,528,New Jersey
+12474,Michael Garcia,54,101254.77,Salaried,835,Pennsylvania
+12475,Michael Robinson,53,93780.22,Business Owner,614,Virginia
+12476,Jennifer Martin,59,65363.66,Contractor,804,Massachusetts
+12477,Mark Wilson,56,57462.72,Retired,671,New York
+12478,Paul White,40,32769.96,Business Owner,666,California
+12479,Richard Thompson,47,33171.5,Salaried,614,Illinois
+12480,Ashley Wilson,54,44228.42,Salaried,627,Virginia
+12481,Elizabeth Thomas,32,87562.08,Salaried,608,Massachusetts
+12482,Richard Williams,65,58830,Salaried,751,Florida
+12483,Mark Taylor,55,72110.28,Contractor,743,Illinois
+12484,Jennifer Moore,52,92487.45,Retired,611,Georgia
+12485,Paul Miller,38,30000,Self-Employed,801,Florida
+12486,Megan Jones,60,75775.7,Salaried,694,California
+12487,Mark Williams,30,214748.83,Salaried,691,Illinois
+12488,Ashley Johnson,67,79364.48,Business Owner,603,Ohio
+12489,Joseph Anderson,45,56358.3,Salaried,740,New Jersey
+12490,Richard Williams,45,66405.46,Salaried,763,California
+12491,Paul Clark,61,47463.96,Salaried,763,Michigan
+12492,Joshua Brown,66,95087.16,Self-Employed,571,Michigan
+12493,Joseph Wilson,50,225290.31,Salaried,764,Texas
+12494,Anthony Clark,30,216666.65,Salaried,827,Texas
+12495,Matthew Moore,60,34325.98,Retired,693,North Carolina
+12496,Sarah Martinez,48,66225.04,Contractor,784,North Carolina
+12497,John Miller,52,120483.71,Salaried,589,Texas
+12498,Ashley Clark,44,65334.39,Contractor,673,Michigan
+12499,Thomas Moore,43,222576.29,Salaried,716,New Jersey
+12500,Joseph Harris,45,51861.83,Contractor,817,Massachusetts
+12501,Jennifer Davis,39,121123.82,Business Owner,693,Illinois
+12502,Michael Jones,24,72485.26,Salaried,624,Georgia
+12503,Steven Brown,32,57891.41,Salaried,589,Washington
+12504,Jennifer Jones,67,31470.41,Salaried,656,Michigan
+12505,Elizabeth Thomas,55,90069.45,Salaried,737,Virginia
+12506,Amanda Jackson,28,127110.28,Retired,775,North Carolina
+12507,Daniel Harris,29,115618.68,Self-Employed,663,Washington
+12508,Ashley Wilson,27,122424.96,Salaried,611,New York
+12509,Amanda Williams,36,91824.77,Business Owner,850,Florida
+12510,John White,58,95288.22,Salaried,761,Michigan
+12511,Michael Williams,35,154923.65,Self-Employed,689,Ohio
+12512,Richard Robinson,60,33114.48,Business Owner,694,Illinois
+12513,Elizabeth Thompson,33,141571.65,Salaried,762,Georgia
+12514,Rachel Jackson,40,85809.25,Salaried,626,Florida
+12515,William Williams,40,44625.88,Business Owner,676,Texas
+12516,Mark Taylor,49,96630.64,Self-Employed,667,Georgia
+12517,Mark Brown,60,34423.77,Salaried,592,California
+12518,Joseph Clark,58,118094.38,Business Owner,609,Virginia
+12519,Daniel Moore,39,76124.91,Salaried,678,New York
+12520,Jessica Harris,64,54809.28,Salaried,733,New Jersey
+12521,Sarah Williams,40,187808.57,Salaried,648,Virginia
+12522,Daniel Moore,29,32553.43,Business Owner,704,Massachusetts
+12523,Mark Brown,51,175965.27,Salaried,738,North Carolina
+12524,Robert Jackson,55,130947.53,Salaried,771,Texas
+12525,Jennifer Clark,49,46469.74,Self-Employed,737,Michigan
+12526,John Moore,45,73384.12,Salaried,756,Florida
+12527,Samantha Martin,28,46384.2,Self-Employed,732,Virginia
+12528,Richard Johnson,64,48347.48,Salaried,703,New York
+12529,Richard Miller,55,269802.1,Business Owner,680,Ohio
+12530,Lauren Williams,46,54465.08,Contractor,605,New York
+12531,Thomas Brown,64,88833.29,Contractor,750,Illinois
+12532,Ashley Brown,26,131317.77,Business Owner,658,California
+12533,David White,53,71604.25,Salaried,620,Texas
+12534,Anthony Taylor,66,59970.85,Salaried,719,California
+12535,Jessica Jackson,42,90176.03,Retired,697,Michigan
+12536,Megan White,65,83032.5,Self-Employed,845,Ohio
+12537,Michael Davis,23,51930.2,Business Owner,683,Michigan
+12538,Richard Martinez,27,87659.1,Self-Employed,771,Georgia
+12539,Anthony Thomas,41,50447.47,Self-Employed,766,New Jersey
+12540,Amanda Martinez,31,69720.91,Self-Employed,644,North Carolina
+12541,Joshua Thompson,39,92166.62,Salaried,767,Washington
+12542,John Martin,27,140505.03,Salaried,629,New York
+12543,Steven Thomas,57,63794.91,Business Owner,669,North Carolina
+12544,Samantha Garcia,44,44843.34,Salaried,657,North Carolina
+12545,David Harris,48,79794.55,Contractor,711,Illinois
+12546,Anthony Martin,28,102401.16,Salaried,580,Washington
+12547,William Johnson,58,131963.15,Self-Employed,839,Virginia
+12548,Thomas Wilson,61,82392.92,Self-Employed,737,New York
+12549,Lauren Harris,64,50583.97,Salaried,538,Virginia
+12550,Lauren Johnson,39,49756.65,Salaried,746,Georgia
+12551,Michael Thomas,39,43100.05,Self-Employed,803,Illinois
+12552,Steven Thomas,52,83181.44,Salaried,685,Arizona
+12553,Mark Miller,65,49491.45,Self-Employed,698,North Carolina
+12554,Joshua Miller,48,65874,Salaried,698,Washington
+12555,John Martin,51,124092.76,Salaried,634,Michigan
+12556,Mark Johnson,65,66166.82,Salaried,740,Massachusetts
+12557,Amanda Anderson,59,84941.45,Retired,615,Washington
+12558,Matthew Robinson,61,88532.25,Salaried,654,Arizona
+12559,Daniel Martin,36,51334,Salaried,672,New Jersey
+12560,Sarah Jackson,58,62835.58,Salaried,841,New York
+12561,Joshua Thompson,44,109810.57,Salaried,705,Arizona
+12562,Charles Miller,23,46702.79,Retired,715,Massachusetts
+12563,William Harris,30,152169.58,Business Owner,606,New Jersey
+12564,Richard Jackson,41,108639.59,Salaried,674,Pennsylvania
+12565,Samantha Miller,37,117503.26,Salaried,654,Ohio
+12566,John Miller,52,67318.25,Salaried,609,Michigan
+12567,Jessica Taylor,62,56025.65,Salaried,764,Illinois
+12568,Thomas Johnson,42,107882.02,Retired,643,Florida
+12569,David Martin,41,229594.96,Salaried,777,Massachusetts
+12570,Anthony Robinson,27,124174.16,Salaried,728,Florida
+12571,John Robinson,59,60445.78,Salaried,581,Illinois
+12572,David Jackson,31,34032.47,Salaried,609,Florida
+12573,Jennifer Jones,43,70848.4,Business Owner,678,Washington
+12574,Daniel Anderson,52,65106.21,Salaried,679,North Carolina
+12575,Joshua Thomas,67,47856.53,Salaried,699,Pennsylvania
+12576,Matthew Jones,23,59919.02,Self-Employed,672,Pennsylvania
+12577,John Miller,38,156598.2,Business Owner,795,California
+12578,John Harris,46,58336.9,Salaried,676,Pennsylvania
+12579,Joshua Williams,35,92372.62,Salaried,670,Massachusetts
+12580,Joseph White,40,140616.98,Self-Employed,815,Arizona
+12581,Elizabeth Martin,33,131024.25,Self-Employed,850,Massachusetts
+12582,Lauren Anderson,27,121230.36,Salaried,767,Washington
+12583,Paul Jackson,37,50513.37,Business Owner,735,California
+12584,Robert Martin,58,107090.95,Salaried,794,Georgia
+12585,Charles Moore,49,30000,Salaried,729,Illinois
+12586,William Davis,52,44883.6,Business Owner,621,Massachusetts
+12587,John Brown,26,112334.31,Self-Employed,762,Massachusetts
+12588,Thomas Clark,64,124721.58,Salaried,744,New York
+12589,Michael Moore,57,128510.64,Salaried,683,New York
+12590,Kenneth Brown,55,91156.2,Salaried,675,Illinois
+12591,Megan Johnson,61,115777.1,Business Owner,598,California
+12592,Joseph Jones,61,69509.56,Salaried,776,New Jersey
+12593,Kenneth Garcia,62,46975.06,Retired,551,Virginia
+12594,Andrew Brown,56,93271.52,Self-Employed,623,Ohio
+12595,Robert Harris,45,158103.54,Business Owner,538,New York
+12596,Rachel Robinson,36,189977.49,Salaried,741,Massachusetts
+12597,Samantha Wilson,66,109879.14,Salaried,826,Massachusetts
+12598,Rachel Thomas,50,42509.73,Salaried,716,New Jersey
+12599,Lauren Brown,24,90120.58,Self-Employed,751,New Jersey
+12600,Thomas Jones,57,78379.1,Retired,609,Pennsylvania
+12601,Andrew Wilson,49,60733.63,Salaried,850,Florida
+12602,Paul Harris,53,91114.51,Salaried,700,Virginia
+12603,Matthew Taylor,38,56777.47,Salaried,779,California
+12604,Amanda Garcia,28,72943.73,Self-Employed,850,Arizona
+12605,Kenneth Martin,30,128304.56,Salaried,604,North Carolina
+12606,Megan Jackson,55,46932.92,Salaried,603,New York
+12607,James Moore,25,124993.24,Salaried,850,North Carolina
+12608,Lauren Jackson,67,65539.87,Salaried,687,Michigan
+12609,Samantha Moore,35,94396.16,Salaried,714,Michigan
+12610,Ashley Taylor,44,198162.7,Salaried,643,Ohio
+12611,William Davis,33,61501.23,Self-Employed,746,Illinois
+12612,Joseph Brown,54,76156.26,Contractor,614,New York
+12613,William Clark,65,127887.16,Business Owner,789,Texas
+12614,Emily Anderson,31,110292.25,Self-Employed,719,New York
+12615,John Johnson,50,269698.17,Salaried,660,Texas
+12616,Richard Williams,35,125776.97,Contractor,707,Michigan
+12617,Jennifer Wilson,29,86364.08,Self-Employed,700,Virginia
+12618,Joshua Thomas,60,54467.52,Salaried,777,North Carolina
+12619,Paul Davis,59,96734.61,Business Owner,680,Texas
+12620,Andrew Martin,35,241653.19,Self-Employed,738,Ohio
+12621,William Wilson,39,101990.95,Salaried,751,New York
+12622,Sarah Williams,43,47166.21,Salaried,751,New York
+12623,James Moore,64,73909.19,Salaried,686,Virginia
+12624,Michael Moore,28,62459.1,Contractor,690,Ohio
+12625,Ashley Thomas,26,96609.7,Salaried,596,Texas
+12626,Joseph Miller,49,75163.95,Salaried,691,Pennsylvania
+12627,Lauren Moore,23,62415.83,Self-Employed,661,Georgia
+12628,Matthew Davis,46,50897.87,Business Owner,738,Pennsylvania
+12629,Megan Brown,29,74268,Salaried,680,Arizona
+12630,Elizabeth Wilson,50,104769.54,Salaried,580,Florida
+12631,Paul White,62,137448.26,Contractor,626,Virginia
+12632,Andrew Clark,37,66408.29,Self-Employed,571,Georgia
+12633,Amanda Taylor,62,146231.01,Salaried,690,Georgia
+12634,Joseph Taylor,45,31350.67,Salaried,708,Massachusetts
+12635,Mark Miller,65,185185,Business Owner,708,Texas
+12636,Richard Moore,28,37751.07,Salaried,600,Illinois
+12637,Emily Martinez,49,60334.09,Salaried,674,Washington
+12638,Anthony Brown,62,77648.04,Salaried,763,New Jersey
+12639,Joseph Taylor,52,62902.95,Salaried,586,New Jersey
+12640,Rachel Robinson,42,220949.28,Salaried,721,Texas
+12641,Joshua Martin,47,62149.17,Salaried,718,Arizona
+12642,Richard White,29,214020.54,Business Owner,642,Ohio
+12643,Lauren Thomas,45,30000,Salaried,730,Texas
+12644,David Anderson,50,30000,Salaried,777,Illinois
+12645,William Jackson,56,87497.23,Salaried,532,New York
+12646,Jessica Wilson,57,47015.05,Business Owner,636,North Carolina
+12647,Matthew Brown,61,38781.63,Salaried,755,Arizona
+12648,Thomas Moore,46,68327.72,Business Owner,790,Pennsylvania
+12649,James Taylor,62,63260.28,Salaried,577,Virginia
+12650,Jennifer Martin,59,58761.52,Salaried,730,Pennsylvania
+12651,Joseph White,51,61316.29,Self-Employed,683,Georgia
+12652,Jessica Jones,28,82774.49,Salaried,739,Florida
+12653,Daniel White,60,108016.57,Self-Employed,713,Ohio
+12654,Joseph Taylor,65,121988.04,Self-Employed,721,Arizona
+12655,Thomas Moore,39,82897.45,Business Owner,737,New York
+12656,Richard White,28,41954.25,Salaried,728,California
+12657,Mark Moore,46,53162.31,Self-Employed,806,Washington
+12658,Andrew Harris,44,62126.45,Retired,699,Massachusetts
+12659,Charles Robinson,64,115511.91,Contractor,677,Ohio
+12660,Jessica Jackson,55,48136.7,Retired,735,Georgia
+12661,Paul White,26,131028.94,Salaried,850,Virginia
+12662,James Miller,48,42010.51,Business Owner,676,California
+12663,Michael Davis,55,85949.71,Salaried,767,North Carolina
+12664,Matthew Williams,41,69383.59,Salaried,734,Pennsylvania
+12665,Joseph White,38,113924.35,Salaried,745,Massachusetts
+12666,Jennifer Miller,63,135349.81,Self-Employed,602,Florida
+12667,Daniel Jones,49,76474.28,Salaried,677,North Carolina
+12668,Paul Robinson,28,64114.18,Salaried,761,Illinois
+12669,Anthony Davis,32,123933.69,Salaried,715,Florida
+12670,Samantha Miller,56,60072.27,Salaried,850,Michigan
+12671,Ashley Miller,52,95410.93,Contractor,683,Washington
+12672,Paul White,30,90129.42,Self-Employed,608,North Carolina
+12673,Emily Thomas,66,66754.06,Salaried,747,Illinois
+12674,Matthew Jackson,27,58955.48,Salaried,614,Ohio
+12675,Charles Davis,67,122779.06,Retired,749,Pennsylvania
+12676,Lauren Clark,30,98445.47,Salaried,716,Illinois
+12677,Rachel Davis,36,50068.64,Retired,640,Michigan
+12678,Anthony Johnson,53,45132.78,Self-Employed,711,North Carolina
+12679,Robert Jackson,45,139636.93,Self-Employed,625,Illinois
+12680,Elizabeth Robinson,25,215588.54,Self-Employed,819,Arizona
+12681,Megan Brown,46,79568.57,Self-Employed,612,New Jersey
+12682,Samantha Brown,49,77438.48,Self-Employed,725,Texas
+12683,Amanda Anderson,52,125080.74,Retired,676,California
+12684,Jennifer Martinez,52,62995.26,Self-Employed,684,Arizona
+12685,Thomas Thomas,64,45274.51,Self-Employed,596,North Carolina
+12686,Thomas Thompson,49,118265.07,Salaried,683,Illinois
+12687,Kenneth Clark,50,76520.59,Salaried,669,Pennsylvania
+12688,Lauren Thompson,36,157078.76,Salaried,748,Washington
+12689,Charles White,49,93094.79,Salaried,776,Arizona
+12690,Megan Miller,30,122277.78,Contractor,702,California
+12691,Kenneth Johnson,26,61843.26,Salaried,585,Massachusetts
+12692,Joshua Davis,40,109913.12,Contractor,606,North Carolina
+12693,Ashley Anderson,29,69607.85,Salaried,605,North Carolina
+12694,Andrew Garcia,67,132796.07,Salaried,728,North Carolina
+12695,Lauren Thompson,60,170447.52,Salaried,730,Michigan
+12696,Megan Harris,34,79416.12,Business Owner,645,Washington
+12697,Samantha Jackson,26,75860.31,Contractor,711,Illinois
+12698,James White,50,35816.65,Self-Employed,665,Illinois
+12699,Joseph Taylor,55,204329,Contractor,706,Georgia
+12700,Emily Johnson,30,224726.81,Business Owner,692,Florida
+12701,Megan Clark,63,155878.46,Contractor,754,North Carolina
+12702,Jennifer Brown,27,46845.27,Retired,707,Michigan
+12703,Paul Anderson,64,82028.94,Retired,713,North Carolina
+12704,Lauren Thomas,43,56092.39,Self-Employed,591,Illinois
+12705,Lauren Williams,32,91739.79,Salaried,635,California
+12706,James Wilson,50,71132.59,Self-Employed,681,North Carolina
+12707,Charles Garcia,32,74922.66,Retired,582,New Jersey
+12708,Thomas Moore,35,30151.82,Salaried,718,Pennsylvania
+12709,Lauren Jones,53,82707.15,Self-Employed,850,Washington
+12710,Emily Thomas,64,130772.72,Salaried,704,New Jersey
+12711,Charles Brown,52,68759.36,Salaried,724,Ohio
+12712,Andrew Davis,64,51228.88,Salaried,773,Illinois
+12713,Andrew Clark,29,53986.33,Business Owner,765,New York
+12714,Robert Jones,26,62140.14,Self-Employed,803,Massachusetts
+12715,Mark Garcia,29,64858.33,Salaried,743,Georgia
+12716,Thomas Robinson,59,64232.24,Business Owner,696,Arizona
+12717,James Clark,63,237823.96,Contractor,708,Georgia
+12718,David Anderson,29,61400.55,Salaried,688,Florida
+12719,Joshua Anderson,58,74943.86,Business Owner,669,California
+12720,Joshua Williams,39,123733.17,Contractor,845,Arizona
+12721,Jessica Jackson,66,91591.73,Salaried,730,Arizona
+12722,Emily Thomas,55,52930.09,Salaried,731,Washington
+12723,Emily Garcia,63,64196.43,Self-Employed,672,Michigan
+12724,Jennifer Johnson,40,80764.05,Salaried,803,Georgia
+12725,Elizabeth Taylor,55,100002.19,Retired,736,Georgia
+12726,Charles Thompson,56,46689.65,Salaried,601,Texas
+12727,Andrew White,43,127648.41,Salaried,820,Arizona
+12728,Joshua Davis,49,132506.86,Salaried,618,Washington
+12729,Daniel Jones,34,59675.97,Salaried,570,New Jersey
+12730,Jennifer Moore,62,79291.5,Retired,699,North Carolina
+12731,Charles Brown,66,116848.55,Business Owner,695,Pennsylvania
+12732,Elizabeth Brown,28,68698.53,Business Owner,717,Texas
+12733,Daniel Garcia,60,30000,Self-Employed,679,California
+12734,Matthew Johnson,64,55065.63,Contractor,732,Pennsylvania
+12735,Andrew Garcia,24,300172.36,Self-Employed,748,Georgia
+12736,Sarah Williams,60,54934.5,Salaried,826,New Jersey
+12737,Amanda Brown,36,74737.21,Retired,850,Michigan
+12738,Lauren Johnson,53,220969.07,Salaried,573,North Carolina
+12739,William Davis,63,64839.3,Contractor,613,Georgia
+12740,David Jackson,57,62698.8,Self-Employed,827,Massachusetts
+12741,Robert Moore,53,53246.28,Salaried,655,Texas
+12742,Daniel Martinez,52,108182.79,Salaried,813,Arizona
+12743,Amanda White,46,53476.35,Salaried,711,Arizona
+12744,Samantha Wilson,23,131682.13,Salaried,697,California
+12745,Andrew Moore,28,149496.51,Self-Employed,685,New Jersey
+12746,William Jones,31,180756.37,Salaried,723,Washington
+12747,Sarah Harris,54,156367.93,Salaried,724,Michigan
+12748,Robert Thomas,44,74352.18,Salaried,656,Michigan
+12749,Kenneth White,45,40037.61,Business Owner,753,New York
+12750,Thomas Anderson,32,54050.63,Self-Employed,626,Pennsylvania
+12751,David Martinez,24,257581.1,Salaried,618,Illinois
+12752,Mark Martinez,38,84531.2,Business Owner,675,Pennsylvania
+12753,Michael Martin,54,116165.81,Salaried,728,Florida
+12754,Paul Johnson,27,41923.82,Contractor,850,North Carolina
+12755,Joshua Davis,59,148548.29,Contractor,809,Ohio
+12756,Mark Miller,47,95593.87,Contractor,676,New Jersey
+12757,Michael Moore,38,58760.96,Salaried,672,Michigan
+12758,Samantha Williams,42,137088.89,Contractor,675,Ohio
+12759,Amanda Jones,59,104853.78,Salaried,620,Illinois
+12760,Charles Moore,55,30000,Contractor,601,New Jersey
+12761,Robert Martinez,24,117221.75,Contractor,696,Virginia
+12762,Anthony Garcia,30,95265.96,Business Owner,751,Washington
+12763,Thomas Harris,47,47288.95,Self-Employed,804,Virginia
+12764,Michael Anderson,30,70162.73,Salaried,633,Illinois
+12765,Richard Taylor,52,60744,Salaried,627,Virginia
+12766,Mark Robinson,28,159941.91,Retired,625,Washington
+12767,Charles Jones,50,117825.74,Contractor,731,Georgia
+12768,Jessica Anderson,63,82657.57,Salaried,756,Illinois
+12769,Elizabeth Davis,30,87336.19,Business Owner,571,Washington
+12770,Charles Moore,54,105283.87,Self-Employed,790,Washington
+12771,Richard Clark,53,117982.86,Salaried,738,Virginia
+12772,William Clark,62,154257.4,Salaried,668,Washington
+12773,Steven Johnson,65,191589.49,Salaried,785,Texas
+12774,Thomas White,30,57139.35,Retired,709,Michigan
+12775,Samantha Wilson,26,64743.96,Business Owner,837,Florida
+12776,Thomas Martin,36,82655.39,Salaried,758,Massachusetts
+12777,Daniel Martinez,49,68166.52,Salaried,685,Georgia
+12778,John Thompson,56,132307.57,Salaried,748,Virginia
+12779,Paul Taylor,25,61929.42,Business Owner,746,Texas
+12780,Richard Anderson,35,80849.48,Self-Employed,687,California
+12781,Ashley Robinson,42,74187.09,Business Owner,620,Arizona
+12782,Joshua Robinson,38,128168.99,Contractor,710,New York
+12783,Matthew White,52,162384.21,Contractor,731,Georgia
+12784,James Martinez,41,60877.29,Salaried,632,Virginia
+12785,Sarah Davis,42,62060.97,Retired,801,Illinois
+12786,David Davis,44,146460.27,Retired,593,New Jersey
+12787,Anthony Clark,52,134618.44,Salaried,683,Washington
+12788,Emily Davis,29,119514.35,Salaried,704,Pennsylvania
+12789,Charles Taylor,36,208409.38,Salaried,674,New York
+12790,Jennifer Davis,65,115649.48,Self-Employed,741,North Carolina
+12791,Emily Jones,64,91287.81,Salaried,721,Texas
+12792,John Moore,50,59515.02,Business Owner,700,Washington
+12793,William Thompson,41,80684.46,Salaried,587,Pennsylvania
+12794,Kenneth Martin,63,132192.42,Salaried,642,Florida
+12795,Joshua Anderson,63,131967.99,Self-Employed,744,Washington
+12796,Elizabeth Davis,50,58553.45,Self-Employed,833,North Carolina
+12797,Amanda Garcia,46,49159.46,Salaried,527,Georgia
+12798,Steven Garcia,29,30472.52,Contractor,679,Virginia
+12799,Daniel Davis,28,75529.03,Salaried,708,Washington
+12800,David Garcia,67,129008.31,Contractor,708,Florida
+12801,Daniel Martin,55,117767.44,Salaried,698,North Carolina
+12802,Daniel Davis,56,84219.86,Retired,756,Florida
+12803,David Thomas,28,55406.06,Retired,636,Texas
+12804,Mark Brown,61,209684.59,Self-Employed,686,Michigan
+12805,Emily Anderson,32,86752.27,Retired,662,Illinois
+12806,Mark Jones,53,83785.17,Salaried,639,Illinois
+12807,Michael Jackson,57,166345.58,Business Owner,731,New Jersey
+12808,James Thompson,23,163753.6,Self-Employed,756,Massachusetts
+12809,Thomas Robinson,40,97762.87,Salaried,662,Washington
+12810,William Martinez,66,47405.85,Salaried,711,New York
+12811,Jessica Anderson,51,122301.62,Salaried,705,Illinois
+12812,Charles Martinez,25,132537.05,Self-Employed,674,Ohio
+12813,Joseph Williams,26,77368.14,Business Owner,699,Pennsylvania
+12814,Jessica Johnson,25,194156.71,Salaried,830,New Jersey
+12815,Andrew Davis,66,70939.29,Self-Employed,667,New Jersey
+12816,Daniel Miller,39,112017.54,Contractor,657,Ohio
+12817,Richard Garcia,53,62052.04,Self-Employed,786,Pennsylvania
+12818,David Wilson,38,68038.82,Salaried,799,California
+12819,James Miller,33,118220.11,Salaried,754,Ohio
+12820,Paul Thomas,46,189162.52,Business Owner,700,Michigan
+12821,Jennifer Robinson,36,37325.83,Salaried,715,Florida
+12822,Kenneth Miller,50,195742.73,Salaried,744,Arizona
+12823,Matthew Garcia,61,111287.42,Retired,747,North Carolina
+12824,Andrew Martin,60,34900.96,Salaried,684,Virginia
+12825,Lauren Taylor,53,61184.54,Business Owner,746,Florida
+12826,Jessica Martin,67,145621.21,Contractor,752,Michigan
+12827,Jennifer Taylor,57,36818.37,Salaried,759,Michigan
+12828,Paul Martin,58,58941.82,Business Owner,526,Arizona
+12829,Mark Wilson,53,144501.43,Salaried,729,Virginia
+12830,Joseph Taylor,64,229867.32,Salaried,645,New York
+12831,Paul Jones,23,40055.92,Self-Employed,674,New Jersey
+12832,Anthony Davis,65,105611.74,Salaried,603,Pennsylvania
+12833,Jessica Clark,57,154151.25,Retired,581,California
+12834,Michael Jackson,51,76165.35,Retired,710,Illinois
+12835,David White,24,74863.73,Salaried,850,North Carolina
+12836,William Davis,36,65776.45,Self-Employed,731,Pennsylvania
+12837,Rachel White,25,101897.22,Self-Employed,784,Texas
+12838,Thomas Miller,30,87040.87,Business Owner,643,Michigan
+12839,Mark Wilson,52,68419.46,Salaried,769,Pennsylvania
+12840,Lauren Clark,26,55104.6,Retired,662,Illinois
+12841,David Thompson,66,145674.31,Salaried,747,Georgia
+12842,Jennifer Moore,52,50997,Business Owner,715,Arizona
+12843,Thomas Jackson,66,83928.69,Salaried,665,North Carolina
+12844,John Davis,64,71117.69,Contractor,758,New York
+12845,Emily Martin,41,121815.56,Salaried,709,Michigan
+12846,James Miller,54,143296.45,Salaried,606,Pennsylvania
+12847,Robert Garcia,30,88150.8,Salaried,759,Ohio
+12848,Anthony Robinson,49,109129.49,Business Owner,697,Washington
+12849,Steven Harris,53,65549.96,Salaried,678,Ohio
+12850,Daniel Jones,63,200046.08,Contractor,700,Texas
+12851,Rachel Moore,41,61624.79,Retired,500,Washington
+12852,Michael Miller,53,260743.47,Contractor,705,Massachusetts
+12853,John Wilson,54,42394.13,Salaried,594,New Jersey
+12854,Richard Brown,44,70358.79,Business Owner,727,Ohio
+12855,Joshua White,62,94605.59,Self-Employed,661,New Jersey
+12856,Lauren Davis,60,76898.16,Salaried,771,Georgia
+12857,William Brown,48,30000,Salaried,647,Ohio
+12858,Joseph Robinson,57,152200.11,Salaried,825,Virginia
+12859,Paul Anderson,33,68629.46,Salaried,749,Ohio
+12860,Matthew Clark,64,157121.8,Salaried,597,Illinois
+12861,Mark Williams,34,67150.66,Business Owner,727,Ohio
+12862,William Moore,59,106947.3,Salaried,820,Georgia
+12863,Charles Taylor,54,139453.73,Contractor,745,New Jersey
+12864,Emily Martin,37,56644.58,Contractor,580,Virginia
+12865,Emily Robinson,29,136882.27,Contractor,686,Ohio
+12866,Joseph Wilson,65,94992.25,Salaried,745,New Jersey
+12867,David Martin,53,77194.29,Retired,772,California
+12868,Joseph Anderson,45,213255.77,Salaried,665,Virginia
+12869,Jennifer Anderson,24,207701.7,Contractor,731,Georgia
+12870,Joseph Davis,24,247125.75,Self-Employed,739,Florida
+12871,Steven Wilson,45,91788.22,Salaried,771,Texas
+12872,James Wilson,54,42814.33,Salaried,792,Ohio
+12873,Megan Moore,30,38927.03,Self-Employed,715,Washington
+12874,Charles White,43,98322.49,Salaried,763,Pennsylvania
+12875,Amanda Jones,66,63962.25,Contractor,629,North Carolina
+12876,Jessica Wilson,45,103633.41,Self-Employed,657,North Carolina
+12877,William Davis,30,70389.42,Contractor,715,North Carolina
+12878,Paul Clark,58,39919.34,Business Owner,611,Ohio
+12879,Elizabeth Brown,47,88857.61,Contractor,607,New Jersey
+12880,Mark Johnson,48,161941.54,Business Owner,681,Michigan
+12881,Steven Brown,50,72914.91,Contractor,751,North Carolina
+12882,Michael Martin,39,63832.92,Salaried,667,California
+12883,Samantha Brown,63,45707.62,Self-Employed,820,Pennsylvania
+12884,Elizabeth Jackson,31,93437.41,Salaried,760,New Jersey
+12885,Steven Harris,38,104262.18,Salaried,599,Texas
+12886,Joseph Miller,51,81831.62,Salaried,672,Pennsylvania
+12887,Sarah Garcia,67,106303.42,Salaried,693,North Carolina
+12888,Richard Robinson,49,154032.33,Business Owner,595,Arizona
+12889,Amanda Miller,66,112216.8,Salaried,716,Texas
+12890,Sarah Davis,23,30000,Salaried,669,Arizona
+12891,Matthew Thomas,62,154445.73,Contractor,639,Arizona
+12892,Robert Davis,38,92473.59,Business Owner,733,Georgia
+12893,John Martinez,45,43756.99,Salaried,641,New Jersey
+12894,James Clark,58,111491.44,Salaried,733,Arizona
+12895,Jennifer Taylor,61,57211.96,Self-Employed,767,Washington
+12896,Mark Harris,63,50011,Business Owner,674,Michigan
+12897,Anthony Johnson,40,99911.91,Salaried,602,Massachusetts
+12898,Charles Harris,53,133963.9,Self-Employed,725,Illinois
+12899,Lauren Brown,38,166622.06,Self-Employed,850,California
+12900,Lauren Moore,58,78997.95,Contractor,562,Ohio
+12901,John Clark,56,98541.31,Salaried,684,Pennsylvania
+12902,Elizabeth Brown,43,70979.22,Salaried,677,North Carolina
+12903,David Garcia,53,52290.71,Salaried,689,Texas
+12904,Andrew Johnson,33,30000,Self-Employed,757,Massachusetts
+12905,Elizabeth Garcia,65,135455.6,Salaried,685,Georgia
+12906,Anthony Johnson,40,98843.35,Self-Employed,761,Texas
+12907,Charles Anderson,49,111067,Contractor,727,New Jersey
+12908,John Johnson,38,82359.24,Salaried,750,New Jersey
+12909,Robert Martin,32,114739.3,Retired,560,Virginia
+12910,Kenneth Wilson,55,61731.26,Self-Employed,762,Ohio
+12911,Jessica Brown,26,158764.18,Business Owner,738,Arizona
+12912,Jennifer Martin,45,151066.36,Salaried,676,New Jersey
+12913,Emily Harris,53,177090.57,Business Owner,744,Michigan
+12914,Rachel Johnson,53,54339.58,Salaried,774,Massachusetts
+12915,Amanda Jackson,64,115897.92,Contractor,664,Virginia
+12916,Steven Taylor,57,68889.01,Business Owner,751,Georgia
+12917,Elizabeth Martinez,40,69749.48,Salaried,522,Virginia
+12918,Richard Martinez,42,91846.75,Business Owner,775,Virginia
+12919,Elizabeth Moore,35,77040.15,Retired,686,New Jersey
+12920,Joseph Jackson,27,39114.73,Business Owner,626,Texas
+12921,Elizabeth Moore,47,114113.48,Salaried,592,Georgia
+12922,Amanda Jones,60,115830.42,Salaried,640,Arizona
+12923,Megan Martin,61,89779.6,Retired,549,Florida
+12924,Mark Harris,61,88628.86,Contractor,799,New York
+12925,Joseph Johnson,23,52325.29,Business Owner,720,New York
+12926,James Garcia,36,104746.14,Salaried,580,Georgia
+12927,Jessica Robinson,28,200931.12,Self-Employed,597,North Carolina
+12928,Rachel Moore,41,49330.53,Salaried,743,Washington
+12929,David Davis,54,67990.8,Contractor,841,Georgia
+12930,Richard Jones,49,61503.75,Salaried,749,California
+12931,Rachel Thompson,52,61937.44,Contractor,687,Pennsylvania
+12932,Matthew Brown,25,118961.92,Salaried,819,Arizona
+12933,Amanda Martinez,42,181762.56,Salaried,693,California
+12934,Elizabeth Davis,37,179556.19,Contractor,670,Massachusetts
+12935,Thomas Brown,33,44764.5,Salaried,646,Texas
+12936,Joseph Clark,61,83934.43,Salaried,722,Texas
+12937,Charles Martinez,65,70376.62,Self-Employed,645,California
+12938,Richard Wilson,42,148850.21,Salaried,774,Ohio
+12939,Anthony Jones,42,175257.26,Business Owner,757,Massachusetts
+12940,Mark Harris,55,68449.58,Self-Employed,743,Michigan
+12941,Joshua White,50,35963.91,Retired,794,Florida
+12942,Jessica Garcia,32,112904.64,Salaried,652,Pennsylvania
+12943,Lauren White,26,83497.46,Self-Employed,624,Illinois
+12944,James Moore,67,130129.17,Contractor,605,Florida
+12945,Daniel Moore,37,109061.57,Self-Employed,616,California
+12946,Thomas Davis,61,92223.83,Self-Employed,666,North Carolina
+12947,Sarah Jones,27,61159.16,Salaried,840,Illinois
+12948,Joshua Davis,49,50291.55,Self-Employed,850,Pennsylvania
+12949,Jessica Harris,55,122472.16,Salaried,533,Washington
+12950,Rachel Clark,64,54965.82,Contractor,623,Florida
+12951,Megan Martinez,34,86669.05,Contractor,691,Illinois
+12952,Charles Jones,64,68481.13,Contractor,632,Arizona
+12953,John Thompson,44,56160.66,Contractor,676,Florida
+12954,Rachel Williams,51,34203.26,Salaried,690,Washington
+12955,James Martinez,66,120961.87,Business Owner,622,Ohio
+12956,Rachel Miller,57,189838.57,Salaried,712,Illinois
+12957,John Taylor,47,37732.4,Salaried,647,Georgia
+12958,Steven Williams,62,158849.85,Business Owner,603,California
+12959,Kenneth Thomas,24,30000,Salaried,677,Virginia
+12960,Thomas Clark,58,135496.9,Self-Employed,714,Georgia
+12961,Amanda Martinez,54,69051.31,Self-Employed,691,Illinois
+12962,Steven Wilson,56,91709.53,Salaried,617,Illinois
+12963,Charles Johnson,62,68593.75,Salaried,837,Texas
+12964,Megan White,46,295940.11,Salaried,710,Arizona
+12965,Steven Martin,32,77778.9,Salaried,734,New Jersey
+12966,Richard Robinson,51,32897.94,Self-Employed,728,New Jersey
+12967,Samantha Thompson,31,101505.07,Salaried,663,Pennsylvania
+12968,William Martinez,43,180159.28,Retired,678,Georgia
+12969,Charles Martin,47,51718.24,Salaried,614,Ohio
+12970,Daniel Wilson,41,147497.28,Salaried,681,Washington
+12971,Andrew Clark,47,30013.02,Contractor,799,Florida
+12972,Steven Miller,44,178228.56,Salaried,557,Texas
+12973,Rachel Taylor,27,49513.74,Salaried,715,North Carolina
+12974,Kenneth White,33,129237.92,Salaried,747,Massachusetts
+12975,Jennifer White,30,123055.75,Self-Employed,626,Michigan
+12976,Michael Harris,24,149494.36,Salaried,756,Virginia
+12977,Matthew Jackson,66,168384.52,Contractor,687,Pennsylvania
+12978,David Williams,47,125947.16,Salaried,659,Pennsylvania
+12979,Anthony Garcia,66,53499.56,Salaried,663,Michigan
+12980,Megan Martin,50,65687.61,Contractor,689,Michigan
+12981,Richard Williams,55,62714.84,Self-Employed,639,Texas
+12982,Richard Harris,59,96863.18,Business Owner,682,California
+12983,Ashley Jones,35,60810.72,Salaried,674,Georgia
+12984,Michael Thomas,55,69572.38,Salaried,732,California
+12985,Kenneth Taylor,38,118480.17,Self-Employed,672,Ohio
+12986,Elizabeth Brown,38,185768.25,Salaried,670,Illinois
+12987,Amanda Moore,53,76209.7,Retired,596,Illinois
+12988,Daniel Miller,49,91625.65,Salaried,767,New Jersey
+12989,Anthony Martin,31,86232.03,Contractor,773,North Carolina
+12990,Samantha Johnson,32,90627.59,Salaried,838,Michigan
+12991,Sarah Davis,34,123115.22,Salaried,723,Washington
+12992,Paul Anderson,31,93639.18,Salaried,712,Michigan
+12993,Michael White,67,115778.09,Salaried,670,New York
+12994,Robert Robinson,45,86731.39,Retired,688,Washington
+12995,Sarah Thomas,61,33764.13,Self-Employed,734,California
+12996,Megan Robinson,62,84199.14,Salaried,614,Michigan
+12997,Sarah White,62,120703.42,Contractor,788,California
+12998,Charles Garcia,47,60497.25,Business Owner,527,New Jersey
+12999,Michael Thomas,43,134466.34,Business Owner,778,Pennsylvania
+13000,Kenneth Martinez,24,51722.79,Salaried,662,Georgia
